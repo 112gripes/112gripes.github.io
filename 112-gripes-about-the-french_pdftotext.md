@@ -19,7 +19,7 @@ that the common good is served through common attempts to reach common
 understanding. In one way, Democracy is the long and sometimes difficult effort
 which free men make to understand each other.
 
-This booklet tries to help some of us understand an ally — the French . It is
+This booklet tries to help some of us understand an ally — the French. It is
 not meant either to "defend" the French or to chastise those Americans who do
 not like the French. It is intended simply to bring into reasonable focus those
 irritations, dissatisfactions and misunderstandings which arise because it is
