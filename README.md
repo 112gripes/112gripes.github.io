@@ -3,6 +3,9 @@
 ## Goals
 
 - Fidelity to the original text, modulo typos
+  - We considered using https://www.e-rcps.com/gripes/ rather than starting from the PDF of the original book, but:
+    1. We noticed typos in it, so it'd need a full re-read & fixes anyway
+    2. We're not sure to be able to contact the author(s) of this transcript to get permission to re-edit their work. So, in case of refusal or lack of response, we'd be in murky waters.
 - EPUB & HTML output
   - HTML friendly to read on desktop and phone
   - HTML version working just fine without JS
