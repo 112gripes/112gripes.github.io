@@ -2,756 +2,445 @@
 
 ## Foreword
 
-AMERICANS believe in the right to criticize . We defend
-our right to "beef '' or "gripe" or "sound off". We insist
-upon the right to express our own opinions .
-But we also believe in the right of others to express thei r
-opinions. For the right to speak involves the duty to listen .
-The right to criticize involves the responsibility of givin g
-"the other side" a fair chance to make its point . We kno w
-that the truth can only be found through open and hones t
-discussion, and that the common good is served throug h
-common attempts to reach common understanding, In on e
-way, Democracy is the long and sometimes difficult effort
-which free men make to understand each other .
-This booklet tries to help some of us understand an ally the French . It is not meant either to "defend'' the Frenc h
-or to chastise those Americans who do not like the French . It
+Americans believe in the right to criticize. We defend our right to "beef" or
+"gripe" or "sound off". We insist upon the right to express our own opinions.
+
+But we also believe in the right of others to express their opinions. For the
+right to speak involves the duty to listen. The right to criticize involves the
+responsibility of giving "the other side" a fair chance to make its point. We
+know that the truth can only be found through open and honest discussion, and
+that the common good is served through common attempts to reach common
+understanding. In one way, Democracy is the long and sometimes difficult effort
+which free men make to understand each other.
+
+This booklet tries to help some of us understand an ally — the French . It is
+not meant either to "defend" the French or to chastise those Americans who do
+not like the French. It is intended simply to bring into reasonable focus those
+irritations, dissatisfactions and misunderstandings which arise because it is
+often hard for the people of one country to understand the people of another.
+
+The booklet uses the Question-Answer form. It lists the criticisms,
+misconceptions and ordinary "gripes" which American troops in Europe express
+most frequently when they talk about the French. Each comment, or question, is
+followed by an answer — or discussion. Some of the answers are quite short,
+because the question is direct and simple. Some of the answers are quite long,
+because the "questions" are not questions at all, but indictments which contain
+complicated and sweeping preconceptions.
+
+The purpose of the present publication is this: to present facts and judgements
+which even the well-intentioned may tend to overlook.
+
+There may be those who will consider this booklet a catalogue of "excuses" or
+"justifications". To them it can only be said that the truth is not denied by
+giving it a derogatory label.
+
+There may be others who will seize upon the questinos with triumph — ignoring
+the disscussions entirely. That kind of reader will ignore the truth anyway —
+in whatever form it is offered.
+
+This booklet may not convince those who are hopelessly prejudiced, but it may
+help to keep others from being infected by the same lamentable virus.
 
 ## Contents
 
-EA' T S
-.
-
-is
-
-_
-
-intended simply to
-bringtoreasbl
-tations , dissatisfactions reasonable
-e
-rri°
-because zt z~ often hard for the s~~n_de.r~ta.t ~
-.
-which c~rzs
-p
-e
-co
-ple
-p
-tawd the people of
-- of one cou7atry to aziclers
-
-a-iaotla e
-The booklet zrses the Qz ,.estzon
-
-the cr2tic~sms zr~iseo 7z~ E
-pt2o~2s
-Saolrcazz
-
-troops
-
-i3a
-
-C192c1
-
-Lzsro e er~~
-
-There
-
-o7aL~
-
-M..ay
-,~
-
-be ti;ose t~ ~
-
-FcC2lz~g )) Ct1' r
-
-be snarl that the fr2~th
-lClr 1.
-
-sin
-t;
-
-t
-
-, ~z
-
-f,.
-
-o.rtanart
-
-9'`apes
-
-2~~hiclZ
-
-1
-
-~
-
-Tla pre z~~<z~
-be Gt7atr•. '
-2v ;a t~ i-,c~r2plL -
-
-CO Ame r
-
-not ~c~2ae~
-
-fr2"L'
-
-tlae~z
-
-ii (J
-
-22
-
-it
-
-ca:2a
-
-a dC y'a _
-
-2~'J?.0
-
-1lii booklet nay
-
-~3i'8~ 1LhC rj~ ~2rt ZZ 1iZa ?lGt
-j? .1Co)tc e92-CE those iL'~2p We hoz)
-ekSSl1~
-z,z~ ? o kerb otlie,s
-by th
-esa~z?e lr
-
-utale
-
-and
-
-i
-
-:i3
-
-TH E FRENCH
-
-20
-
-a. Characteris tics
-G. Customs and manners
-
-31
-,,9,j
-s9
-4S
-
-.
--n
-
-a. Work a ndLazies
-Q.Morals
-A ,? o"A?ob,7eo as l Locomotives
-
--52 THE FRE "CH AND THE GER 1 A Y S
-6 PRICES
-
-~~??:~
-
-i~raar•?`;ag thez '2ll ~z F 2Z )Oi2 t~iz q z.e
-r ._. 1•?-rd of raqF, zc~ll
-c12~c~~s :sian .c erzt2re12 . ~tio~2-s
-i
-J
-That
-gnore
-tha
-fo; .)?z it is
-t%'t_tIa a~rr ~un~~ tn
-o/lered .
-. el~iutezea .
-
-1
-
-f
-
-1 THE "FRENCH 41'D
-
-It lists
-
-1}aU1'6ef rJ c CItCC2~Stf r cxrtioz2,c
-f
-
-rr t0i'y
-
-ocus
-
-=
-
-T
-pre.,s
-they ta7l' abc,?t
-freg2ae~?tl~ uliezi
-.French, .Eac h cmast
-is ~dlo,red by anthegn,
-o ;nment;
-~ or 04"crt,
-or gUestzori
-az2.sv'ers
-a,c 2 -rt e short ~r
-siG~a
-becrczrse the : estz . '50me of t3?;'
-1
-Lnz2"ale . ~,Gme
-o1 the Ur2,2ce a a e ;, ~
-:oi~ 2s dh'6ct an
-questions are
-atE lon q . becaI_e thd
-"e9t""
-4
-"
-e
-contain CG~r pl"GCCZ-tr'C~
-at
-6W
-. but Wc CtiY-~.
-'not and .c
-it~> >r I2tCh
-~
-. . FS~~L7i
-p
-9 ;eco~?cept'000 ,
-Tj~n °uro~e of th e
-N re err 1;,,bl2e„ tr ~a
-ccts a :?r~ ntt .
-is th e
-rfait~ nts il..'t (Cc ev e n
-to P)•(,102 t
-t1 r9r c77_ ~ rF ~2tio~z-ecl
-tend to oz e~lcok .
-Jcr y
-10 21 p
-
-thos
-
-froz ;2 be ~s~y'z2ec
-
-''h'E . BLACK X - .REFl ' .
-S2 THOSE FRE\'CH SOLDIER S
-90 FRE-YCH COLLABORATIO N
-96 THEY GOT OTT PRE171 E-I,S y rV THIS WA R
-. 106 FRENCH POLITICS
+TODO generate ToC
 
 ## the French AND US
 
-HT. Ve came to Europe twice .
-
-in twenty-fee
-
-years
-
-to save
-
-the French . '
-
-We didn't come to Europe to save the French . eithe r
-in 1917 or in 1944 . We didn't come to Europe to do
-anyone any favors . . We came to Europe because we in
-America were threatened by a hostile, aggressive and ver y
-dangerous power .
-In this war, France fell in June of 1940, We didn' t
-invade Europe until June of 1944 . . We didn 't even think
-of "saving the French" through military action until after
-Peary Harbor -- after the Germans declared war on us .
-We came to Europe, in two wars, because it was better
-to fight our enemy- in Europe than in America . Would
-it have been smarter to fight the Battle of the Bulge i n
-Ohio? Would it have been smarter if D-Davhad mean t
-a hop across the Atlantic Ocean, instead of the Englis h
-Channel . in order to get at an enemy sending rocket bomb s
-crashing into our homes Would it have been .smar t
-to wait in America until V bombs, buzz bombs, rocke t
-bombs, and - perhaps - atomic bombs had mad e
-shambles of . our cities ? Even the kids u Germany sang
-this song : "Today Germany, tomorrow the world ." We
-were a part of that world . We were marked for conquest .
-When France fell, our last defense on the Continen t
-was gone . France was the "keystone of freedom " on
-land from the Mediterranean to the North Sea ; it was •. a
-bulwark against German aggression . France guarded
-
-the Atlantic, and the bases the Germans needed on th e
-Atlantic for submarine and air warfare .
-American security and American foreign policy hav e
-always rested on this hard fact we cannot permit a hostile power on the Atlantic Ocean . We cannot be secur e
-if we are threatened on the Atlantic . That's why w e
-went to war in 1917 ; that ' s why we had to fight in 1944 .
-And that's wh y, as a matter of common sense and th e
-national interest, President Roosevelt declared (November 11 . 1941) : "The defense of any territory under th e
-control of the "French Volunteer Forces (the Free Trench )
-is vital to the defense of the United States : "
-fit first, u'IiEi2- we came into Normandy, andthen int o
-wine : - ches€ ,
-Pam's, the French gave us everything
-around vs an d
-everything
-.
-T7?ey
-thew
-'their
-arms
-j rm.it,
-us every time we turned. around, They gave u s
-biggest welcome you . ever ssaw . But they ' ve forgotten .
-Th-ey're . ungr•atetul, "
-kissed
-the
-
-- Perhaps the French ran out of wine, cheese, fruit an d
-cognac to pass out free . Perhaps the French depleted
-'the stock they had hidden in their cellars from the Germans.
-Could not a French than who read the question above .
-ask, "Axe the Americans so ungrateful ? Have they s o
-soon forgotten how much we cave them from - what little
-we had
-
-3
-
-"<
-
-sae French dontine,ae ~a itito'tlzeir 3icritEs . "
-
-They don't have the food. (The Germans took it . )
-They don't ' speak English and we don't speak . French.
-It's hard to extend hospitality under those conditions .
-Ask those soldiers who have been invited into a Frenc h
-home what it was like .
-How many American homes were you invited 'int o
-when you were stationed near a "soldier town" in th e
-State s
-
-You don't have. to love the French . You don't hav e
-to hate them either . You might try to understand them ,
-The more important point is not to let your feeling blin d
-you to the fact that they Were and . are our tallies, They
-were in 1917, toe .
-The most important questionnny people can . ask itself
-is this . "Who fights with us 2. Who fights against us ?" .
-
-'
-
-" TT re a?ways pining the
-they
-!ire?jtl?i)ig o r
-e'
-
-. .French out
-
-of a. jam. Di d
-
-Ft'Er'°do
-
-4
-
-: 'he
-
-ea L'-1'i. 7`%!
-
-me the wrong way .
-
-It was inevitable that some Frenchmen would rub som e
-Americans the wrong ray= . City people often rub country
-folk the wrong «ay the same goes for a Pittsburgher in
-New Orleans . or +.Texan on Fifth Avenue .
-We Americans believe in the value of differences ---- z r
-:basic political beliefs and goals rest on a common foundation . (See question § 6'9 .)
-"Unless you bear with the faults of a friend you betray .
-your own ."
-5
-
-" 1 ' i1 never lore the Feeheh .," ,
-''I hate :the French :"'
-
-4
-
-They did . They helped us out of one of the greates t
-jams •e were ever in . During the American revolution,
-when almost the entire world stood by m "non intervention" or was against us, it was France who was our greates t
-ally and benefactor. France loaned the thirteen state s
-56 .400,000 - and score us over S3,000,000 more . (That
-was a lot more money in those days than it is now . )
-45,000 Frenchmen volunteered in the array of Georg e
-Washin ton, They crossed the Atlantic Ocean in small .
-boats that took two months to make the voyage .
-Washington s `army had no military engineers ; it was
-French engineers who designed and built our 'fortifications .
-The name. of Lafayette is one that Americans will neve r
-forget, and the French are as proud of that name 'as w e
-are.
-g
-
-You can judge the measure and meaning of French ai d
-to our Revolution from the letter George Washington sen t
-on April 9, 1781 to our military envoy . in Paris, askin g
-for help from Franc e
-"We are at this hour suspended in the balance no t
-from choice but from hard and absolute necessity . . . Our
-troops are fast approaching nakedness . . . our hospitals
-are without medicines and our sick without nutrition _
-in a word, we are at the end of our tether, and ... now or
-never our . deliverance must cone . "
-It was France that came to our aid in our darkest hour .
-7
-
-T'Ve can't rely on these French . "
-That depends on what you mean by "rely" . If yo u
-expect the French to react like Americans, you will b e
-disappointed . They are not Americans they are French .
-If you expect the French to hurry the way we do . you
-will be disappointed the French don't hurry ---neithe r
-do most of the people i t the world outside of America .
-But we were able to rely on the French for the most
-important thing France fought with is, not against us ,
-twice in the past two decades ,
-
-e
-
-"W E'ee had more
-
-beEd n i from the French than from th e
-Germans . We are always quarreling with them . The y
-criticize. eeerythin .g . They have to put gent taro cents
-in . Bat the Germans - they / fist ddo wlmt you tel l
-them to . They're co-operative ; the. 1',tench aren't . "
-
-Two men working together are more likely to tell . each
-other oil than a prisoner is to tell off the warden .
-Of course we differ with the French ; of course we argue
-with them . Why ? Because we have a common goa l
-and face common problems . Because we, like the French,
-have been taught to think for.. ourselves, to "put our . two
-cents in". Democracy is based on the -idea that everyone
-has a basic right to pint his two cents in" . In Americ a
-we say, "I'm from Missouri" or "Sez who ?" The Frenc h
-have the'same attitude they say, "Je aie crois q'ee cep qu e
-hois " . ("I only believe what I see . " ) Or "Je 7zE demard e
-("I don't ask much . ;
-pas rnae er Tue d'etre co-nramev
-I just want, to he convinced," )
-There is a saying that in France everything is permitte d
-that is not strictly forbidden - but in Germany ever y
-thing is verboten. that is not strictly permitted, We
-are in the French, not the German ; tradition .
-Yes, we quarrel with the French. The members of a
-family argue pretty freely inside the home ; We quarre l
-with our allies, We don't quarrel with our enemies -- we fight them .
-As for the Germans, they've gat to be "co-operative" .
-They have no choice . Theyre under military law .
-Which is better a critical ally or a fawning enemy ?
-Flatterers are the worst land of enemies,'' - Tacitus .
-9
-
-"We gave the French.
-jeeps, trucks, supplies ,
-Jthinguniforms,
-,'
-am-munition
-
-6
-7
-
-We didn't give the French these things . Weileaat them ,
-under Lend-Leaser a law passed by our Congress as "A n
-Act to Promote the Defense of the United States" . We
-lent military equipment and supplies to our ally .
-Where else could the French have gotten uniforms ,
-From the German s
-guns, ammunition, supplies
-A Frenchman armed with. an 03 rifle could kill Germans .
-It was wiser for us to turn out weapons and uniforms t o
-n
-arm the Trench than to turn out additional America
-soldiers.
-
-Millions of jerricans .
-d 150,000 French workmen and civilians . working for th e
-Unite
-UStates
-Army and paid by the French government .
-These French men and women work at airfields, railwa y
-yards, ports, docks, in offices, etc . They range from stevedores to nurses . mechanics to typists, in France, North
-Africa, and the .French islands in the South Pacific, suc h
-as New: Caledonia, where Americana troops are. stationed.
-All French telephone and telegraph services were piaeed at our disposal .
-Lumber, cement, gravel for construction purposes .
-Billets - all through France, from Brest to Strasbourg ,
-from Paris to Nice or Biarritz .
--Theaters such as the, the Olympia, the Empire, th e
-Marignan in Paris .
-Restaurants - for American mess halls .
-Food - though the French are very short of it them selves . The French supply us with such fresh fruit an d
-vegetables as can be spared .
-Beer - made in France, by the French, for America n
-troops, from ingredients shipped from the United States . .
-Printing - Stars and Stripes, Yank, Army Talks . Overseas Woman, l and E pamphlets .
-
-Ws, ghee the ~ `rcatclc 'b t.lhloaas off . dollars worth of- stuff .
-
-They'll never pay it back . .
-
-Under Lend-Lease we provided military supplies an d
-equipment to France worth S1,0-1,000,000 .
-Under reverse Lend-Lease, the French have alread y
-t
-paid back about 5150,000, 000 - almost half of the amoun
-we lent them ua the way of military supplies .
-e
-The French paid this 450,0010,000 back in the sam
-way that they got it from us -- with supplies, material s
-food, labor, services .
-Here are some of the things the French have provide d
-us
-.
-131,000 snow capes for the winter campaign of 1944
-.
-700 tons of . rubber tires, made izr France
-. the
-260,000 signs and posters for road markers duffng
-Military campai g n .
-
-i1
-
-"'The: Frcach are 2tsi72g car gals, bet A-6y won 't give i t
-to Americans .
-You can ' t get gas in the. French vines
-o/ OCCapation 4. f 2, 02CF d-h2 i-ii g through ."
-
-You are not supposed to .
-The French are given gasoline b U . S . Army authority :
-It is the only gasoline they get . They are compelled to
-use it for themselves .
-The Reciprocal Aid Agreement, under Lend-Lease laws ,
-states (Artic=le III) that the Government of France will
-not. without the consent of the President of the U . S . ,
-transfer any articles provided the French, or permit thei r
-use, by anyone not an officer, employee, or agent of th e
-French government .
-Can an American gas pump give gasoline to a Frenc h
-army car which is not specifically authorized to obtai n
-gasoline from an American pump '? If you were on duty
-would you give gasoline to unauthorized persons
-
-12
-
-statue, (The United States raised $280,000 .) In 1883 ,
-the President of the French Committee, Mr . de Lesseps ,
-officially presented the statue to the American people .
-
-V1'' 6 care not Welcome in French Rata?zrcrr .t ., . > :
-
-Why should we be '% We are supposed to eat in . army
-messes . Every meal we might eat . in a French . restauran t
-would use up just that much food, from the Frenchmen' s
-limited supply- ,
-
-ss
-
-O ne Frenchman . told me the French practically gave vs the Statue of Liberty, Hone do non like that ?"
-The Statue of Liberty began as the idea of a group o f
-Frenchmen, shortly after the Civil \Var . They commissioned a French sculptor, Frederic Auguste Bartholdi, t o
-do the work . A committee of Frenchmen was formed i n
-18 ;4 to raise funds . Bartholdi recommended the sit e
-for the statue -- Bedloe's Island in New York harbor .
-In . France, 180 French cities, forty general councils ,
-and thousands of anonymous Frenchmen contributed a
-{quarter of a million dollars {not francs) to7ards the
-
-14
-
-time we go into a
-tiaese F"en~chnwn .
-
-7
-
-igu t chd, ~~~e get soaked b
-
-Were you never soaked in a night club at home ?
-Compare the prices in Paris night clubs to those in th e
-night clubs youve visited in Miami or New York, Chicag o
-or Los Angeles .
-A . G . I, comes out of a ni ght club in the States and says ,
-"A buck and half for a Scotch and soda That place i s
-aclip joint l The sane G . F comes out of a night clu b
-in Paris and says, "Ninety francs for a shot of cognac !
-That's the French for you - they re all robbers ! '
-
-General Patton cabled General Koenig, the Frenc h
-commander of the TF1, that the spectacular advance o f
-his (Patton's) army across France would have been impossible without the fighting aid of the FF1 ..
-General Patch estimated that from the time of the
-Mediterranean landings to the arrival of our troops at.
-Dijon, the help given to our operations by the FYI wa s
-equivalent, to four full divisions .
-The hiaquis who defended the Massif Central, in th e
-south-central part of France, had two Nazi division s
-stymied they kept those two divisions from fightin g
-against us.
-The magnificent fight the Free French put up at Bi r
-Hakeim, in the Libyan campaign, will he long remembered
-in the _annals of heroism.
-Perhaps some of us don't like to pass out bouquets . to anyone but ourselves . Perhaps we have short memories .
-
-The French are terrible scroungers . They keep moo clang candy, soap, e gazettes, food from the GI's . They hav e
-no sell-respect . "
-
-Some of the French are scroungers .
-Hungry people lose their pride .An empty stomach does not worry about losing face .
-6
-
-"The French welcomed ns at first ;° now they want v s
-to get out. "
-
-An American kI recently said, "We re like people wh o
-were given a wonderful reception for a week-end . But
-we've stave;-i . in the house for a year . No one wants a .
-house guest that long .' '
-Of course the French would prefer that American troop s
-1' leave France as soon as possible . (So would you, if yo u
-were a Frenchman .) As long as we are here, we Impos e
-an added strain on the already overtaxed French economy . The French need the billets and food andsupplie s
-and cervices which they are now supplying to us .
-(See question ~ 10 .)
-
-17
-
-" The Frericlt brag a lot about tke fighting they did, but
-you don't hear any Americans passing out bouquet s
-to t1aem . "
-
-18
-
-" The. french: let-us down . -when the fighting got tough .
-What di' they do - as fighters - to help us out ? "
-
-Here are a few of the things the French did
-The French fought in Africa,-in Sicily, liberated Corsica ,
-fought in Italy, took past in the invasion of Europe an d
-fought through the battles of France and Germany - fro m
-Normandy to Munich.
-
-Units from the French navy participated iri'tl the invasion s
-of Sicily, -Italy, Normandy and South France .
-Units of the French navy and merchant marine too k
-part in convoying operations on the Atlantic and Mt inansk routes ,
-'-,,7. June 5 1.944 the day° before D-Darr, over 5,000 Wren .:
-clifnen of the . resistance d'ynami'ted railroads in more tha n
-500 strategic places.
-They delayed strategic German troop movements fo r
-an average of 48 hours, . according-to our-niilitaryexperts .
-Those 48 . hours were tact-lea-11y priceless ° they saved a n
-untold number of American lives .
-French resistance groups hew up a series of bridges
-in southern France and delayed one of the Wehrmacht' s
-crack units Was Reich Panzer Division) for tae .7ze- day s
-in getting from Bordeaux to Normandy .
-About 30,000 FFI troups supported the Third Army' s
-VIII Corps in-Brittany : they seized and held key spots ;
-they conducted extensive •guerrilla operations behind th e
-German lines .
-25,000 FFI troops protected the south flank of ,the
-Third Army in its daring dash across France the EFT '
-wiped-out -Germanbridgeheads . north of the Loire Rive r
-they guarded vital lines of communication , they wipe d
-out pockets of German resistance , they held many town s
-and cities under orders from our command .
-When our Third Army was approaching the area between Dijon and Troyes from the west, and while the
-Seventh Army was approaching this sector from the
-
-South, it was the FFI who stubbornly . blocked the German s
-from making a stand and prevented- a mass retirement o f
-.German troops .
-In Paris . as our armies drew close, several hundred thous and French men and women rose . up against the Germans .
-!50,000 armed men of the . resistance fought and beat the
-Nazi garrison . and occupied the main buildings and administrative offices of Paris .
-These are some of the things the French did . For others,
-see question § 104 .
-
-"They
-
-ride,
-
-in our deeps and waste our gas .
-
-They ride in the jeeps which are officially loaned to them
-by our government .
-How do you know they are wasting gas ? How do yo u
--know their trips are not on official business ? Dirk n o
-_Americans waste gas on pleasure trips ?
-
-The
-
-F,erich artn pie/telly . "
-
-Some Frenchmen are other Frenchmen are not .
-The French as a whole are not as "hail fellow well met"
-as we Americans are, Neither are the British, the Swedes ,
-the Greeks, the Mexicans . -Frenchmen don't get personal or confidential quickly .
-
-They don'tc` ; open up" as quickly as we do in the States .
-The French are very polite they are also more formal tha n
-we are. about personal relationships . (So are the Chinese . )
-The French respect . another person 's privacy, and they
-like to have their own privacy respected too . It is natur ri tor anyone to think the people of anothe r
-nation are note as friendly as' his own people . It's har d
-to be friendly in a foreign language . It's hard to 'be
-friendly 'when you're hungry, cold, and have gone throug h
-six years of war - as the French have . Yet- the Americans who came into Normandy, Or who came into Pari s
-fight after the liberation, still talk about the astonishing
-outburst of g ratitude, generosity and friendliness whic h
-the French displayed toward us . Back in the States, many of our troops complained tha t
-the people in the towns near the training camps were no t
-friendly . People from our South often complain tha t
-the . people in the North are not friendly . A Texan in
-Vermont 'finds New Englanders- cold" and " snobbish''' .
-Do we then say that all Americans are unfriendly
-Friendship, said a wise Man, lies in this : "To desire the .
-same things and to reject the same things ." On this
-basis, the United States has never hid , a better frien d
-than France : (See question § 69 .)'
-21
-
-" Why bother about the ,reach ? They cavil thro w
-any weight fit the post-cat .'r world . "
-Apart from reasons of honor and simple decency Amer 76
-
-leans are not in the habit of letting their friends (Io g;-n) ,
-it is poor politics and worse diplomacy to "--rite off " a
-nation of 40 million allies . Yeti may need their hel p
-some daz
-France still stands as a bastion on ±1 A lautie . fro m
-the IN'Ieditcrrznean to the North Sea . France will stil l
-he a strong factor in world political- organization . Th e
-island bases of France, and her colonies, will still be strae
-tegic areas 'fi the world structure of peace . And in thn
-and
-populatio
-aye of the atomic bomb, the physical size
-of a country may be no index of her strong h. and poten tialities .
-Why bother about France .2 It is not our job to "bothe r
-about " France . But it is our job to be .seriously concerne d.
-about the peace and the political problems of the world
-.
-France is very much a part of that world .
-David Low, the English . cartoonist, once drew a famou s
-cartoon showing the nations in a larg e rowboat . Th e
-European nations war e at one end of the boat, which wa s
-foundering in the water Uncle g am sat m the other end ,
-high and dry and out of the water . And Uncle Sam was
-saying . "Why should I worry i The leak isn't in my en dg
-of the boat !" We have paid a terrible price for believin
-that a leak "at the other end of the boat " does not' affec t
-our destiny .
+<div id="1"><em>1. "We came to Europe twice in twnty-five years to save the French."</em></div>
+
+We didn't come to Europe to save the French, either in 1917 or in 1944. We
+didn't come to Europe to do anyone any favors. We came to Europe because we in
+America were threatened by a hostile, aggressive and very dangerous power.
+
+In this war, France fell in June of 1940. We didn't invade Europe until June of
+1944. We didn't even think of "saving the French" through military action until
+after Pearl Harbor — after the Germans declared war on us.
+
+We came to Europe, in two wars, because it was better to fight our enemy in
+Europe than in America. Would it have been smarter to fight the Battle of the
+Bulge in Ohio? Would it have been smarter if D-Day had meant a hop across the
+Atlantic Ocean, instead of the English Channel, in order to get at an enemy
+sending rocket bombs crashing into our homes? Would it have been smart to wait
+in America until V bombs, buzz bombs, rocket bombs, and — perhaps — atomic bombs
+had made shambles of our cities? Even the kids in Germany sang this song:
+"Today Germany, tomorrow the world." We were a part of that world. We were
+marked for conquest.
+
+When France fell, _our_ last defense on the Continent was gone. France was the
+"keystone of freedom" on land from the Mediterranean to the North Sea; it was a
+bulwark against German aggression. France guarded the Atlantic, and the bases
+the Germans needed on the Atlantic for submarine and air warfare.
+
+American security and American foreign policy have always rested on this hard
+fact: we cannot permit a hostile power on the Atlantic Ocean. We cannot be
+secure if we are threatened on the Atlantic. That's why we went to war in 1917;
+that's why we had to fight in 1944. And that's why, as a matter of common sense
+and the national interest, President Roosevelt declared (November 11, 1941):
+"The defense of any territory under the control of the "French Volunteer Forces
+(the Free French) is vital to the defense of the United States."
+
+
+<div id="2"><em>2. "At first, when we came into Normandy, and then into Paris, the French gave us everything — wine, cheese, fruit, everything. They threw their arms around us and kissed us every time we turned around. They gave us the biggest welcome you ever saw. But they've forgotten. They're ungrateful."</em></div>
+
+Perhaps the French ran out of wine, cheese, fruit and cognac to pass out free.
+Perhaps the French depleted the stocks they had hidden in their cellars from
+the Germans.
+
+Could not a Frenchman who read the question above ask, "Are the Americans so
+ungrateful? Have they so soon forgotten how much we gave them from what little
+we had?"
+
+<div id="3"><em>3. "The French don't invite us into their homes."</em></div>
+
+They don't have the food. (The Germans took it.)
+
+They don't speak English and we don't speak French. It's hard to extend
+hospitality under those conditions.
+
+Ask those soldiers who _have_ been invited into a French home what it was like.
+
+How many American homes were you invited into when you were stationed near a
+"soldier town" in the States?
+
+<div id="4"><em>4. "The French rub me the wrong way."</em></div>
+
+It was inevitable that some Frenchmen would rub some Americans the wrong way.
+City people often rub country folk the wrong way; the same goes for a
+Pittsburgher in New Orleans, or a Texan on Fifth Avenue.
+
+We Americans believe in the value of differences — if basic political beliefs
+and goals rest on a common foundation. (See [question § 69](#69).)
+
+"Unless you bear with the faults of a friend you betray your own."
+
+<div id="5"><em>5. "I'll never love the french." "I hate the French!"</em></div>
+
+You don't have to love the French. You don't have to hate them either. You
+might try to understand them.
+
+The more important point is not to let your feeling blind you to the fact that
+they were and are our _allies_. They were in 1917, too.
+
+The most important question any people can ask itself is this: "Who fights with
+us? Who fights against us?"
+
+<div id="6"><em>6. "We're always pulling the French out of a jam. Did they ever do anything for us?"</em></div>
+
+They did. They helped us out of one of the greatest jams we were ever in.
+During the American revolution, when almost the entire world stood by in
+"non intervention" or was against us, it was France who was our greatest ally
+and benefactor. France loaned the thirteen states $ 6,000,000 — and _gave_ us
+over $3,000,000 more. (That was a lot more money in those days than it is now.)
+
+45,000 Frenchmen volunteered in the army of George Washington. They crossed the
+Atlantic Ocean in small boats that took two months to make the voyage.
+
+Washington's army had no military engineers; it was French engineers who
+designed and built our fortifications.
+
+The name of Lafayette is one that Americans will never forget, and the French
+are as proud of that name as we are.
+
+You can judge the measure and meaning of French aid to our Revolution from the
+letter George Washington sent on April 9, 1781 to our military envoy in Paris,
+asking for help from France:
+
+"We are at this hour suspended in the balance; not from choice but from hard
+and absolute necessity… Our troops are fast approaching nakedness… our
+hospitals are without medicines and our sick without nutrition… in a word, we
+are at the end of our tether, and… now or never our deliverance must come."
+
+It was France that came to our aid in our darkest hour.
+
+
+<div id="7"><em>7. "We can't rely on these French."</em></div>
+
+That depends on what you mean by "rely". If you expect the French to react like
+Americans, you will be disappointed. They are not Americans; they are French.
+If you expect the French to hurry the way we do, you will be disappointed; the
+French don't hurry — neither do most of the people in the world outside of
+America.
+
+But we _were_ able to rely on the French for the most important thing: France
+fought with us, not against us, twice in the past two decades.
+
+<div id="8"><em>8. "We've had more beefing from the French than from the Germans. We are always quarreling with them. They criticize everything. They have to put their two cents in. But the Germans — they just do what you tell them to. They're co-operative; the French aren't."</em></div>
+
+Two men working together are more likely to tell each other off than a prisoner
+is to tell off the warden.
+
+Of course we differ with the French; of course we argue with them. Why?
+Because we have a common goal and face common problems. Because we, like the
+French, have been taught to think for ourselves, to "put our two cents in".
+Democracy is based on the idea that everyone has a basic right to "put his
+two cents in" . In America we say, "I'm from Missouri" or "Sez who?"
+The French have the'same attitude; they say, _"Je ne crois qu ce que je vois"_.
+("I only believe what I see.") Or _"Je ne demande pas mieux que d'être convaincu"_
+("I don't ask much; I just want to be convinced.")
+
+There is a saying that in France everything is permitted that is not strictly
+forbidden — but in Germany every thing is _verboten_ that is not strictly
+permitted. We are in the French, not the German, tradition.
+
+Yes, we quarrel with the French. The members of a family argue pretty freely
+inside the home. We quarrel with our _allies_. We don't quarrel with our
+enemies — we fight them.
+
+As for the Germans, they've _got_ to be "co-operative". They have no choice.
+They're under military law.
+
+Which is better: a critical ally or a fawning enemy?
+
+"Flatterers are the worst kind of enemies." — Tacitus.
+
+<div id="9"><em>9. "We gave the French uniforms, jeeps, trucks, supplies, ammunition — everything."</em></div>
+
+We didn't give the French these things. We _lent_ them, under Lend-Lease, a
+law passed by our Congress as "An Act to Promote the Defense of the United
+States". We lent military equipment and supplies to our _ally_.
+
+Where else could the French have gotten uniforms, guns, ammunition, supplies?
+From the Germans?
+
+A Frenchman armed with an 03 rifle could kill Germans. It was wiser for us to
+turn out weapons and uniforms to arm the French than to turn out additional
+American soldiers.
+
+<div id="10"><em>10. "We gave the French billions of dollars worth of stuff. They'll never pay it back."</em></div>
+
+Under Lend-Lease we provided military supplies and equipment to France worth
+$1,041,000,000.
+
+Under reverse Lend-Lease, the French have already paid back about $450,000,000
+— almost half of the amount we lent them in the way of military supplies.
+
+The French paid this $450,000,000 back in the same way that they got it from
+us — with supplies, materials, food, labor, services.
+
+Here are some of the things the French have provided us:
+
+- 131,000 snow capes for the winter campaign of 1944.
+- 700 tons of rubber tires, made in France.
+- 260,000 signs and posters for road markers during the military campaign.
+- Millions of jerricans.
+- 150,000 French workmen and civilians, working for the United States Army and
+  paid by the French government. These French men and women work at airfields,
+  railway yards, ports, docks, in offices, etc. They range from stevedores to
+  nurses, mechanics to typists, in France, North Africa, and the French islands
+  in the South Pacific, such as New Caledonia, where American troops are
+  stationed.
+- All French telephone and telegraph services were placed at our disposal.
+- Lumber, cement, gravel for construction purposes.
+- Billets — all through France, from Brest to Strasbourg, from Paris to Nice or
+  Biarritz.
+- Theaters such as the Olympia, the Empire, the Marignan in Paris.
+- Restaurants — for American mess halls.
+- Food — though the French are very short of it themselves. The French supply
+  us with such fresh fruit and vegetables as can be spared.
+- Beer — made in France, by the French, for American troops, from ingredients
+  shipped from the United States.
+- Printing — Stars and Stripes, Yank, Army Talks, Overseas Woman, I and E
+  pamphlets.
+
+<div id="11"><em>11. "The French are using our gas, but they won't give it to Americans. You can't get gas in the French zones of occupation if you're driving through."</em></div>
+
+You are not supposed to.
+
+The French are given gasoline by U.S. Army authority. It is the only gasoline
+they get. They are compelled to use it for themselves.
+
+The Reciprocal Aid Agreement, under Lend-Lease laws, states (Article III) that
+the Government of France will not, without the consent of the President of the
+U.S., transfer any articles provided the French, or permit their use, by anyone
+not an officer, employee, or agent of the French government.
+
+Can an American gas pump give gasoline to a French army car which is not
+specifically authorized to obtain gasoline from an American pump? If you were
+on duty would you give gasoline to unauthorized persons?
+
+<div id="12"><em>12. "One Frenchman told me the French practically gave us the Statue of Liberty. How do you like that?"</em></div>
+
+The Statue of Liberty began as the idea of a group of Frenchmen, shortly after
+the Civil War. They commissioned a French sculptor, Frédéric Auguste Bartholdi,
+to do the work. A committee of Frenchmen was formed in 1874 to raise funds.
+Bartholdi recommended the site for the statue — Bedloe's Island in New York
+harbor.
+
+In France, 180 French cities, forty general councils, and thousands of
+anonymous Frenchmen contributed a quarter of a million dollars (not francs)
+towards the statue. (The United States raised $280,000.) In 1883, the President
+of the French Committee, Mr. de Lesseps, officially presented the statue to
+the American people.
+
+<div id="13"><em>13. "We are not welcome in French Restaurants."</em></div>
+
+Why should we be? We are supposed to eat in army messes. Every meal we might
+eat in a French restaurant would use up just that much food, from the
+Frenchmen's limited supply.
+
+<div id="14"><em>14. "Every time we go into a night club, we get soaked by these Frenchmen."</em></div>
+
+Were you never soaked in a night club at home? Compare the prices in Paris
+night clubs to those in the night clubs you've visited in Miami or New York,
+Chicago or Los Angeles.
+
+A G.I. comes out of a night club in the States and says, "A buck and half for
+a Scotch and soda! That place is a clip joint!" The sane G.I. comes out of a
+night club in Paris and says "Ninety francs for a shot of cognac! That's
+the French for you — they re all robbers!"
+
+<div id="15"><em>15. "The French are terrible scroungers. They keep mooching candy, soap, cigarettes, food from the GIs. They have no self-respect."</em></div>
+
+Some of the French are scroungers.
+Hungry people lose their pride.
+An empty stomach does not worry about losing face.
+
+<div id="16"><em>16. "The French welcomed us at first;  now they want us to get out."</em></div>
+
+An American GI recently said, "We're like people who were given a wonderful
+reception for a week-end. But we've stayed in the house for a year. No one
+wants a house guest that long."
+
+Of course the French would prefer that American troops leave France as soon as
+possible. (So would you, if you were a Frenchman.) As long as we are here, we
+impose an added strain on the already overtaxed French economy. The French need
+the billets and food and supplies and services which they are now supplying to
+us. (See [question § 10](#10).)
+
+<div id="17"><em>17. "The French brag a lot about the fighting they did, but you don't hear any Americans passing out bouquets to them."</em></div>
+
+General Patton cabled General Koenig, the French commander of the FFI, that the
+spectacular advance of his (Patton's) army across France would have been
+impossible without the fighting aid of the FFI.
+
+General Patch estimated that from the time of the Mediterranean landings to the
+arrival of our troops at Dijon, the help given to our operations by the FFI was
+equivalent to four full divisions.
+
+The Maquis who defended the Massif Central, in the south-central part of
+France, had two Nazi divisions stymied; they kept those two divisions from
+fighting against us.
+
+The magnificent fight the Free French put up at Bir Hakeim, in the Libyan
+campaign, will be long remembered in the annals of heroism.
+
+Perhaps some of us don't like to pass out bouquets — to anyone but ourselves.
+Perhaps we have short memories.
+
+<div id="18"><em>18. "The French let us down when the fighting got tough. What did they do — as fighters — to help us out?"</em></div>
+
+Here are a few of the things the French did:
+
+The French fought in Africa, in Sicily, liberated Corsica, fought in Italy,
+took part in the invasion of Europe and fought through the battles of France
+and Germany — from Normandy to Munich.
+
+Units from the French navy participated in the invasions of Sicily, Italy,
+Normandy and South France.
+
+Units of the French navy and merchant marine took part in convoying operations
+on the Atlantic and Murmansk routes.
+
+On June 5, 1944, the day before D-Day, over 5,000 Frenchmen of the resistance
+dynamited railroads in more than 500 strategic places.
+
+They delayed strategic German troop movements for an average of 48 hours,
+according to our military experts. Those 48 hours were tactically priceless;
+they saved an untold number of American lives.
+
+French resistance groups blew up a series of bridges in southern France and
+delayed one of the Wehrmacht's crack units (Das Reich Panzer Division) for
+_twelve days_ in getting from Bordeaux to Normandy.
+
+About 30,000 FFI troups supported the Third Army's VIII Corps in Brittany:
+they seized and held key spots; they conducted extensive guerrilla operations
+behind the German lines.
+
+25,000 FFI troops protected the south flank of the Third Army in its daring
+dash across France; the FFI wiped out German bridgeheads north of the Loire
+river; they guarded vital lines of communication; they wiped out pockets of
+German resistance; they held many towns and cities under orders from our
+command.
+
+When our Third Army was approaching the area between Dijon and Troyes from the
+west, and while the Seventh Army was approaching this sector from the South,
+it was the FFI who stubbornly blocked the Germans from making a stand and
+prevented a mass retirement of German troops.
+
+In Paris, as our armies drew close, several hundred thousand French men and
+women rose up against the Germans. 50,000 armed men of the resistance fought
+and beat the Nazi garrison, and occupied the main buildings and administrative
+offices of Paris.
+
+These are some of the things the French did. For others, see [question § 104](#104).
+
+<div id="18"><em>18. "They ride in our deeps and waste our gas"</em></div>
+
+They ride in the jeeps which are officially loaned to them by our government.
+
+How do you know they are wasting gas? How do you know their trips are not on
+official business? Did no Americans waste gas on pleasure trips?
+
+<div id="20"><em>20. "The French aren't friendly."</em></div>
+
+Some Frenchmen are; other Frenchmen are not.
+
+The French as a whole are not as "hail fellow well met" as we Americans are.
+Neither are the British, the Swedes, the Greeks, the Mexicans.
+
+Frenchmen don't get personal or confidential quickly.
+
+They don't "open up" as quickly as we do in the States. The French are very
+polite; they are also more formal than we are about personal relationships.
+(So are the Chinese.) The French respect another person's privacy, and they
+like to have their own privacy respected too.
+
+It is natural for anyone to think the people of another nation are not as
+friendly as his own people. It's hard to be friendly in a foreign language.
+It's hard to be friendly when you're hungry, cold, and have gone through six
+years of war — as the French have. Yet the Americans who came into Normandy,
+or who came into Paris right after the liberation, still talk about the
+astonishing outburst of gratitude, generosity and friendliness which the French
+displayed toward us.
+
+Back in the States, many of our troops complained that the people in the towns
+near the training camps were not friendly. People from our South often complain
+that the people in the North are not friendly. A Texan in Vermont finds
+New Englanders "cold" and "snobbish". Do we then say that all Americans are
+unfriendly?
+
+Friendship, said a wise man, lies in this: "To desire the same things and to
+reject the same things." On this basis, the United States has never had a
+better friend than France. (See [question § 69](#69).)
+
+<div id="21"><em>21. "Why bother about the French? They won't throw any weight in the post-war world."</em></div>
+
+Apart from reasons of honor and simple decency (Americans are not in the habit
+of letting their friends down), it is poor politics and worse diplomacy to
+"write off" a nation of 40 million allies. You may need their help some day.
+
+France still stands as a bastion on the Atlantic, from the Mediterranean to the
+North Sea. France will still be a strong factor in world political
+organization. The island bases of France, and its colonies, will still be
+strategic areas in the world structure of peace. And in the age of the atomic
+bomb, the physical size of a country may be no index of its strength and
+potentialities.
+
+Why bother about France? It is not our job to "bother about" France. But it is
+our job to be seriously concerned about the peace and the political problems
+of the world. France is very much a part of that world.
+
+David Low, the English cartoonist, once drew a famous cartoon showing the
+nations in a large rowboat. The European nations were at one end of the boat,
+which was foundering in the water; Uncle Sam sat at the other end, high and dry
+and out of the water. And Uncle Sam was saying, "Why should I worry? The leak
+isn't in my end of the boat!" We have paid a terrible price for believing that
+a leak "at the other end of the boat" does not affect our destiny.
 
 ## the French
 
-22
+TODO intermediate ToC
 
 ### A. Characterestics
 
@@ -760,14 +449,14 @@ cigarettes, soap or candy on the black market at fantasti c
 prices is mercenary . Some Americans will "do anythin g
 for a couple of hundred francs'" .
 
-arc too CIarieard rr ~Cije l . ; t . "
+arc too CIarieard rr Cije l . ; t . "
 
 The French a_re independent, They . are proud . They
 are individualists . So are we. .That's One reason ther e
 is friction between us .
 23
 
-" The French cue Cid ?` d
+" The French cue Cid ? d
 a . Lair UiJ ! the ror nei . '
 
 nlvit they
@@ -777,10 +466,10 @@ they
 ca
 
 The Freecib- are mercenary.
-a couple at h~r- atreri rrai.ics . "
+a couple at hr- atreri rrai.ics . "
 
 They'll
-;~
+;
 ito a nJth.?'rag fo r
 
 Where do you draw the line between a "smart business man" and a "mercenary Frenchman I '
@@ -819,7 +508,7 @@ Fretrch are. cyraicrl .
 "
 
 The French are disillusioned . . . They are hitter . They
-have a right to be . They have gone through six of th e
+have a right to be . They have gone through six of the
 most disastrous years of history . They have experience d
 defeat, . hunge r; persecution, invasion, occupation . despair .
 They have been humiliated before the eyes of the world .
@@ -848,7 +537,7 @@ we are. Compared to some other nations, however, they
 are considered very up-to-date . Tt depends on what standard you use . The French are as far advanced as an y
 -nation in the world today in some fields : art, literature,
 music. design, silk manufacture, textiles, etc .
-The World _Almanac for 1945 concludes that as far a s
+The World Almanac for 1945 concludes that as far a s
 social legislation is concerned, "France is iif the vanguard" ..
 The French were certainly up-to-date in establishing old
 age pensions, compulsory insurance against illness, disability and death . maternity insurance, and so on . It
@@ -911,12 +600,10 @@ Prize twice was Hine Marie Curie .
 
 t : T/7P F1 _ rich-
 
-!.- ' -~C S
+!.- ' -C S
 P7 i r
 Gsr , ‘?J
 $01''n. /nag c!'i'co j ?C th It.
-
-~~ +
 
 3d
 
@@ -929,16 +616,16 @@ a goo . a,iir.
 It you judg e. the French h those, you see on the Champ s
 Elysees or In Montmartre, you are making the same mistake_ that, was made by the . tourist who visited .the. House
 of .David and asked "Why don't rllerleans shav e
-Paris is not France . any urine than 52nd Street is America . Paris has for several hlmdred years been one of th e
+Paris is not France . any urine than 52nd Street is America . Paris has for several hlmdred years been one of the
 great tourist attractions of the world .
-As a .matter of fact, the French have much 1'-e•ss of th e
-shaving a good time" habit than _we do . The. averag e
+As a .matter of fact, the French have much 1'-e•ss of the
+shaving a good time" habit than we do . The. averag e
 French family ordinarily spends less on pleasure in a mont h
 than we do on a week-end .
 The .French reputation for gaiety was built on the fam e
 of Paris as a gay city and on- the French way of doin g
 things . The French, theater was always bright anet varied .
-Paris" cabarets and music-halls were famed throughout th e
+Paris" cabarets and music-halls were famed throughout the
 world. But there are about 35 million Frenchmen who
 do not live in Paris .
 
@@ -969,7 +656,7 @@ th-ihr.k. Olsont t
 
 The
 
-F"r"er'iCj?, r1i'~ ri2b'dItGE1 r_
+F"r"er'iCj?, r1i' ri2b'dItGE1 r_
 
 his C1ri. i']cbFJr fc teCl-if- 2C2th
 
@@ -984,7 +671,7 @@ INFANTRY JOURNAL L b Ary
 American if that child is raised in an-American home i n
 an American town . The same goes for a child of and
 other nationality, color or creed .
-To talk about. "` :inborn traits" is talk just as the Nazi s
+To talk about. ":inborn traits" is talk just as the Nazi s
 did when they talked .about "good" or "bad" blood . It
 just does not jibe with fact. or science .
 To say that the French are insincere is no more sensibl e
@@ -996,7 +683,7 @@ intelligently is to define insincerity, analyze the numbe r
 of Frenchmen who show these characteristics, compar e
 this number to the number of Frenchmen who do no t
 show these characteristics, get the relative proportion s
-between the two `groups, then compare the proportions
+between the two groups, then compare the proportions
 to a similar anils-sis of the "insincerity" of otheai nations ,
 including the Papuans .
 
@@ -1004,7 +691,7 @@ including the Papuans .
 even . got a phrase for it -- 7ccr er-tame . That mean s
 why bother ? Just let everything a l one
 
-`'Laissez-faire- " is the name for a philosophy of econornies. It means "let alone" -- let the economy run by
+'Laissez-faire- " is the name for a philosophy of econornies. It means "let alone" -- let the economy run by
 itself, .fay the laws of supply and demand, without govern 26
 
 mental- interference or protection .
@@ -1014,7 +701,7 @@ rests on the idea. of laissez-faire .
 
 33
 
-T e french haau no /tits ; t! [Yfsdecadle`st, "
+T e french haau no /tits ; t! [Yfsdecadlest, "
 E
 
 From the editorial columns of the Xeu . Yorl Times at.
@@ -1026,7 +713,7 @@ refugee preserves under a terrible ordeal his characteristic
 faith in himself and his country . The peasant Is France,
 steady, tough, independent and brave .. . Nobody who
 knows the grass roots of France can doubt that even unde r
-l~azi occupation the Republic will survive, will be reincarnated, may in the long run be the force which will help
+lazi occupation the Republic will survive, will be reincarnated, may in the long run be the force which will help
 to fashion the Fourth Republic . "
 
 34
@@ -1083,7 +770,7 @@ de Goncourt
 La marlin e
 Sue
 Lot i
-_Mme de Sevi g ne
+Mme de Sevi g ne
 Proust
 
 Pascal
@@ -1121,7 +808,7 @@ CerOmne.
 Houdo n
 .m a res
 Lebru n
-_Matisse
+Matisse
 
 1[eissen e r
 Mille t
@@ -1179,7 +866,7 @@ A11 the French do is talk .
 No nation could exist for a week if all it did was talk .
 Frenchmen emoy conversation . They consider it an
 art . They , are on the whole . skillful at . it .
-We don't prize "good conversation" as much as th e
+We don't prize "good conversation" as much as the
 French do ,
 it was the brilliance . charm and imagination of Frenc h
 talk that contributed niuich to the reputation of Paris as
@@ -1188,7 +875,7 @@ a world center of gaiety .
 
 never heard people gab so
 
-iii-`rJ.CiL,
+iii-rJ.CiL,
 
 (ACC-U,
 
@@ -1199,8 +886,8 @@ iii-`rJ.CiL,
 TA
 
 Because they are wearing pre-war clothes -clothe s
-that are five and six years old . New cloths axe for th e
-most part reserved for repatriated French PWs an d
+that are five and six years old . New cloths axe for the
+most part reserved for repatriated French PWs and
 deportees .
 The average Frenchman haver looked as well dresse d
 ,32
@@ -1273,7 +960,7 @@ They are . What should the French do about it ? It,
 takes money to have decent plumbing . That's why s o
 zru ny people in France don't have it . That's wily so marr y
 people iii our own United States don't have decent plumb either .
-The Germans have much better plumbing than th e
+The Germans have much better plumbing than the
 French - the Germans could afford it .
 Most French buildings are very old : its harder and more
 expensive to install plumbing in an old house than in '
@@ -1282,13 +969,13 @@ Incidentally, 9,400,000 homes in the US. do not have
 electricity . 80 of. of the farmhouses do not have bath rooms and running rater . About 3,007,72 homes d o
 not have private flushing toilets.
 
-Al '' At the Polies .13crgere or the Casino de Paris, e'en th e
+Al '' At the Polies .13crgere or the Casino de Paris, e'en the
 rtshter- girls demand tips! What a, racket! "
 
 lt. isn 't a racket. We don't think that tipping tax i
 ([fivers, waitresses or red caps is a "racket ".
 In some theaters in France, the ushers pay for their jo b
-(Ail>e our cheek-room concessions) . In most theaters th e
+(Ail>e our cheek-room concessions) . In most theaters the
 ushers get little or no salary and depend for their live
 liheod on tips . Frenchmen always tip ushers at movie
 l.oirses, theaters, the Opera, symphony halls . The ushe r
@@ -1318,12 +1005,12 @@ ours ; old cities axed old houses smell more than ne w
 ones .
 French public sanitation, health and toilet regulation s
 are certainly not on the same level as ours .
-But before the war . the French washed their streets an d
+But before the war . the French washed their streets and
 sidewalks more often than we do . France does not hav e
 the untidy back yards . the trash dumps in empty lots ,
 the tin cans and refuse in public parks that are commo n
 in the - nited States .
-French ~j omen were always scrupulous house-keepers .
+French j omen were always scrupulous house-keepers .
 But few of us eves- got . rn to see French honie .
 44
 
@@ -1336,8 +1023,8 @@ french are uns.a tory, ''
 
 The .. French have a lower living standard than, we i n
 tho i nited States, (So do the Poles, the Russians, . th e
-Greeks, the Yugoslavs . the Chinese, the Mexicans, th e
-Hindus . the Turks . and most of the other peoples of th e
+Greeks, the Yugoslavs . the Chinese, the Mexicans, the
+Hindus . the Turks . and most of the other peoples of the
 world . )
 Sanitary standards rise as the standard of living rises .
 France is not as prosperous as . we are . It is not chea p
@@ -1352,7 +1039,7 @@ The French don't bathe often enough . They can't .
 They don't, have real soap . They have had no soap worth y
 of the name since 1940 . The Germans took the seal) ,
 for four years . That 's a-long time .
-The ration for Frenchman today . four months after th e
+The ration for Frenchman today . four months after the
 war is over, is two cakes of poor ersatz soap per month - 20 grams every two months . Most real soap can onl y
 be obtained on the black market, where it costs aroun d
 125 francs for 31+) grams .
@@ -1363,7 +1050,7 @@ be obtained on the black market, where it costs aroun d
 
 '
 and the 8a I'll
-_€hc s? ; tway
+€hc s? ; tway
 
 out, Garlic, .sweat- and perrz:me
 
@@ -1381,7 +1068,7 @@ poor ersatz soap - and don 't get enough of that .
 You smell perfume because French women would rathe r
 smell of perfume than of an unwashedness-which the y
 dislike as much as you do . When you have no soap ,
-perfume comes in mighty handy . In the eighteenth an d
+perfume comes in mighty handy . In the eighteenth and
 nineteenth centuries, in the United_ States as in other
 countries, perfumes and eau de cologne were used to giv e
 a pleasant scent. where an unpleasant one might otherwise
@@ -1428,7 +1115,7 @@ than we do . (They did when there were things to sell ;
 there's no point in keeping a store open if the shelves ar e
 bate. )
 The long lunch hour is a custom which is not confine d
-to France . It is found in It-aly= , Spain, the Balkans an d
+to France . It is found in It-aly= , Spain, the Balkans and
 many parts of Germany . It is a custom we find annoyin g
 because it interferes with our comfort (as tourists) and
 because it differs from our way of doing things .
@@ -1464,7 +1151,7 @@ most of the drinking at the cafes was coffee thinking .
 There is no coffee now . Blame the Germans for that ,
 
 of an average American worker . France has far less Industrialization, mechanization . and labor-saving devices tha n
-we do . That is also true of nearly all other nations in th e
+we do . That is also true of nearly all other nations in the
 world.
 The French claim they get . more out of life than we do .
 They say they have better music, art, poetry, philosophy ,
@@ -1511,7 +1198,7 @@ uorhtiuj . '
 
 France is not deforested because for centuries the Frenc h
 have been careful to re-plant the trees they' ve cut down .
-And so the rivers of France run deep all year round, an d
+And so the rivers of France run deep all year round, and
 the French soil is cool and moist, and wooden shoes com e
 in mighty handy . The Frencilfarmer finds them mor e
 practical than leather-shoes .
@@ -1537,7 +1224,7 @@ in Oetnaar as PM', slave la bor . deportees .
 After World War I . the young people of France streame d
 from the farms to the cities . In 1930, whole villages in
 some areas of Trance were deserted . Farm legislatio n
-made an effort to cheek the flow of population from th e
+made an effort to cheek the flow of population from the
 country to the cities . but it was not vein- effective .
 It is, how-ever, wrong to deduce from this that the French ,
 are "lazy" . Tile French farmer has always been regarde d
@@ -1551,7 +1238,7 @@ mines _ laid by thE . Germans . In one month this yea r
 
 " Fiench- wo'mecc
 
-Cn'~ .ii'ri9ri .oi'
+Cn' .ii'ri9ri .oi'
 
 1.
 
@@ -1667,7 +1354,7 @@ Protestants) . The French have a very strong fai-nil y
 system, a- rely low divorce rate, and a mach lower crim e
 rate than we do .
 From the American point of view, what is mor e
-important than anyone~s manners or customs are the thing s
+important than anyones manners or customs are the thing s
 he believes in and fights for . In this sense, we agre e
 with theidea of Thomas Jefferson : "Resistance to tyrant s
 is obedience to Cod ."
@@ -1700,7 +1387,7 @@ probably cease embarrassing you.
 foreigner in Paris, like a foreigner in New York, might
 ell feel like the farmer who spent most of his vacatio n
 in a big city jumping out of the way of ears, "Lham thes e
-furriners '. ' `' he cried : Then° even put spot-lights on their
+furriners '. ' ' he cried : Then° even put spot-lights on their
 Ni
 
 
@@ -1708,7 +1395,7 @@ Ni
 
 64 TVhy clothe French dive so g-ci- fast?"
 
-automobiles so's they can find the pedestrians to an do n.
+automobiles so's they can find the pedestrians to ando n.
 at night' "
 
 The French ask the same question about the American s
@@ -1796,13 +1483,13 @@ The locomotives which the Fi.--reh
 
 69
 
-`'Forsake not an old friend, for the new is not comparabl
+'Forsake not an old friend, for the new is not comparabl
 unto him" .
 Eeciesiasticus, IX, 10 -
 
 The French aren ' t our 7:i-ad of people . The Gerunds are .' >
 
-What makes a nation "our kind of people" ? Th e
+What makes a nation "our kind of people" ? the
 w=-ay they look The clothes they wear ? The kin d
 of plumbing they have ? Or the things they believ e
 in - the things they fight : for ; the things they fight
@@ -1810,13 +1497,13 @@ against ?
 The French believe that all men are born and create d
 equal . They believe . in freedom of speech, freedom o f
 religion, freedom of the press, the rights of minorities ,
-government of the people, by the people, and for th e
+government of the people, by the people, and for the
 people . What do the Germans believe a n
 The French were our allies during the American Revolution . They were our allies in I917-191S . They were our
 allies in 1941-1945 . What were the German s
 The French proved, by their acts, that they are "ou r
 kind of people " . The Germans proved . by their acts ,
-"than . they are not . oar kind of people" . Look at th e
+"than . they are not . oar kind of people" . Look at the
 record . It's a record of facts, not assumptions it's a
 record of deeds . not pretense .
 You can't tell what Germany is really like, because yo u
@@ -1871,7 +1558,7 @@ weapons the Nazis used, from 1933 to 1939, and on e
 which pulled the. w..,901 over the eyes of a lot of gullible
 ceeple, n as the constant cry "We Germans want peace .
 V e will ne eta go to war . Our aims in Europe ai r r
-eatjelled . `'
+eatjelled . '
 The Jamie said they wanted peace in 1931 --- and the y
 
 ing tanks, guns, PIane,s, flaaral( J-tlhrowcrs, cone€ntratie n
@@ -1888,7 +1575,7 @@ r, isdom, . better art, deeper morals, finer philosophies z
 A prison is one of the most "efficient" institutions teaaa i
 e ver reaatc c1 - but who wants to Inc in i t
 
-iia~, .ic.tc rI Marnclruria . The Germans : said they , wante d
+iia, .ic.tc rI Marnclruria . The Germans : said they , wante d
 peace in 193$ -- and they grabbed Austria . Mussolin i
 said Italy wanted peace in l035 and invaded Ethiopia .
 Germany promised the world peace again in 1938, afte r
@@ -1928,7 +1615,7 @@ invaded'Belgium and France in 1914 ; the Germans invacicil
 
 74
 
-VVt'd be a lot smarter tai . be ctIiirs of the e'er^mans an d
+VVt'd be a lot smarter tai . be ctIiirs of the e'er^mans and
 ji 0h t the .h'rench ."
 1 bait in the •orltl would we fight the . Fret eh trboc t
 
@@ -1980,7 +1667,7 @@ and
 "fifth
 column
 the wilderness . German propaganda
-activities financed from Berlin, helped to demoralize an d
+activities financed from Berlin, helped to demoralize and
 confuse a nation that didn't want war in the fast place .
 The French lost 1,115,O00 men and women, militar y
 . That i s
@@ -2033,13 +1720,13 @@ of over 80,000 ; 000 Germans against 40,000,000 Frenchmen .
 77
 
 ':
-French-don' t z~_-n
+French-don' t z_-n
 'The
 against the Cerrtiar is
 
-. g.z~ ~r~erto torn
+. g.z rerto torn
 
-tart-~e er:e, i_ +-
+tart-e er:e, i_ +-
 
 up
 
@@ -2091,8 +1778,8 @@ and the segreg ation of the.° sexes . The Germans . held
 
 7$
 
-T c reach: c7kia t yc•lp iI . i- caL ~LC~kf ogount
-Ge9`ii oa
+T c reach: c7kia t yc•lp iI . i- caL LCkf ogount
+Ge9ii oa
 s
 ii mcaL itt t!!°_ I eilt .hec walk en. . ''
 .
@@ -2102,9 +1789,9 @@ th e
 
 No one --- least of all the French themselves -- will
 try do deny the enormity of the defeat and the humiliatio n
-France suffered. ur 1940 . French military leadership an d
+France suffered. ur 1940 . French military leadership and
 strategy was tragically inadequate . But this does not
-mean that the French did not put up a. ` : real fight
+mean that the French did not put up a.  : real fight
 In the six week Bathe of France . from May 10 to June 22 ,
 1940, the French lost ; rn military personnel alone . 260,00 0
 wounded and 108,064i killed . A total of 368 ;000 casualties
@@ -2130,7 +1817,7 @@ Russian, etc . The Germans had 2 .230 .000 abi.e-bodie d
 French men and women inside Germany as PWs, slav e
 laborers, etc .
 Today, it is not the Germans alone who are cleaning
-up their cities . It is our _\Elitarv Government whic h
+up their cities . It is our \Elitarv Government whic h
 supervises reconstruction and assigns German civilian s
 and PWs to the job . Germany is an occupied country ;
 France is not . Apart from these qualifications . ..he
@@ -2224,7 +1911,7 @@ the Genrucras ,
 
 up with German.
 
-r~t.rls . "
+rt.rls . "
 
 That is as deplorable as the same conduct on the par t f ii- 2ericans.
 
@@ -2374,7 +2061,7 @@ The average skilled worker in France gets 1 .200-1.300 fr.
 
 88
 
-ining„ 21s 850 francs a ^iontia is ~fst a way for the
+ining„ 21s 850 francs a ^iontia is fst a way for the
 Fre fch to ,qet ofl the fool.: tar all the Lend-Lease stu f we ' v e
 given them . "
 
@@ -2442,7 +2129,7 @@ weapon a.r;Xz%y >.g itie._
 Lek market in France is,not-, as it was in Mme rica .
 math
 for relati .oe luxuries (gasoline, whiskey . steaks ,
-!,yutteeh . In France, no cite family could `et enoug h
+!,yutteeh . In France, no cite family could et enoug h
 m the rations doled out by the Germans . (From
 food
 the liberation of .Paris in 1944, the Parisians wer e
@@ -2457,9 +2144,9 @@ fo_r ,
 ;its not engaged In heavy work . (The averag e
 consumption in the United States is 3,307 calories daily :
 Otis omit ration provides 4 ;000 to 3 .000 calories a day .
-_th black market purchases . most Frenchme n
+th black market purchases . most Frenchme n
 t had enough - to eat for four years . Hence the.
-have _
+have
 story
 of
 .two
@@ -2468,8 +2155,8 @@ L4_y„
 Would you hx .:,-rsilliing to stop biting anything .
 on the black market for a week ?" "Certainly . not, "
 . ?".
-w a;~ i e reply . "Do you want my children to go hungry
-- The ;_,fiatk market in France will disappear when ther e
+w a; i e reply . "Do you want my children to go hungry
+- The ;,fiatk market in France will disappear when ther e
 is enou g h food and supplies in the ordinary stores, in
 sufficient. quantity to . be sold at reasonable prices . if
 the French had more transportation to bring the crop s
@@ -2480,8 +2167,8 @@ Vito
 uan authorities did riot. 'try to stamp out the
 e
 .I '.','c.
-ma 1 _yet --- bec a-use. they knew it, would increas e
-;-i. f"i :- oess of t -Le ._ __n,oh neopte Coward their go>'ernrs
+ma 1 yet --- bec a-use. they knew it, would increas e
+;-i. f"i :- oess of t -Le .n,oh neopte Coward their go>'ernrs
 
 me.nt and leaders : The. Germans used every trick i n
 the . hag . to disrupt the French economy and demoraliz e
@@ -2494,7 +2181,7 @@ market . .
 
 91 .
 
-"T Y ley !h`rL ' t the Feetieh.
+"T Y ley !hrL ' t the Feetieh.
 the bla-eI. market ? "
 
 Mdse
@@ -2539,11 +2226,11 @@ their leaders and .i c.i ces sell them down the . river- :. They
 
 . of rh.e .French e reeist r,?ee
 .
-thE black market They all got rich on .it .` '
+thE black market They all got rich on .it . '
 
 b e.h .u-d
 
-This is the exact argument used by Dr . Gcehbcis an d
+This is the exact argument used by Dr . Gcehbcis and
 the German propaganda machine . The Germans wante d
 to smash the resistance movement they constantl y
 smeared the leaders of that movement . Gcebbels kep t
@@ -2557,8 +2244,8 @@ it, in order to survive . (See question § 90 .)
 -:')
 :„o
 ' igor°ouslj fought• the black market and demande d
--1_a« e government stop it than the resistance o~g n i
-s,z~rons uid the resistance leaders .
+-1_a« e government stop it than the resistance og n i
+s,zrons uid the resistance leaders .
 9
 
 n
@@ -2573,26 +2260,26 @@ loot-n
 
 tin pij to sto p
 
-n .`
+n .
 
 The latest check-up on pleasure driving by the Frenc h
 too': : place one Septembei. 25, 1945 when . French MPs
 stopped hundreds of French military vehicles in the greate r
 Paris area in a surprise cheek-up .for official credentials .
-_eneh vehicles were stopped and each driver had t o
+eneh vehicles were stopped and each driver had t o
 h ucc papers showing the car was being used for official
 Preneb civilians or military personnel who
 0.1s :, n
 o.
 :n
 
-pr'o i??' papcra .weere ''_1~plieO ±az ::hurt act :o?]_
+pr'o i??' papcra .weere ''_1plieO ±az ::hurt act :o?]_
 
 ## those French Soldiers
 
 t
 
-~Sdiife~
+Sdiife
 
 nm v p
 
@@ -2608,7 +2295,7 @@ ill
 
 (4-ma n
 
-rhh : . `
+rhh : . 
 
 f
 
@@ -2625,19 +2312,19 @@ Question ; Why .didn 't- the French dye their unifonn;s ;
 to -distinguish them 'from ours ? Because they did not .
 ?ha -e the d es. Why didn't we dye the uniforms befor e
 turning them over to the French % Because we wer e
-hrairig .our dyes for more important . war production _purf:osre . didn't We or the French provide .. more
+hrairig .our dyes for more important . war production purf:osre . didn't We or the French provide .. more
 --isil..r recognised French insignia ? That -wa .s a mistake.
 
 95
 
 r1
 
-~~
+
 
 rYilf'T-
 
 ar
-_t .:j
+t .:j
 
 i2 .:
 
@@ -2647,18 +2334,18 @@ f
 
 it-"2t
 
-i~- c3)i
+i- c3)i
 
 the tear
 
-<.t `iff ~~-!
+<.t iff -!
 
 t)!
 
 Those. - -ti do ore damned fools . The French did ;lot.
 1.4s ii _ single-handed, . Neither did we,
 .
-i.i _e?:
+i.i e?:
 
 Mitt th Ru.e.uttis or the British or the Chine3t, ;
 gC :)Oa Want to form your Own opinion about how lintel .
@@ -2688,7 +2375,7 @@ Pie dont they wash their uniforms ? They do - bu t
 very poor ersatz soap, it . is the only soap they
 2rench soldier got paid Sit} &hxles a rrto-ol'h ($16)
 
-until September, 1945, when this sum was cut ` v
+until September, 1945, when this sum was cut  v
 sanc s
 a month (:3 .60) . (This cut in pay came at a : al
 time
@@ -2706,15 +2393,15 @@ lochs .
 You .dont tell. how an army fi ghts b t_r _e
 tier
 The Greek . soldiers wore funny white skirts .
-licked the pants off the dashingly dressed ; : ..-s, an d
+licked the pants off the dashingly dressed ; : ..-s, and
 : . of th e
 they put 'up an amazing fight against the
 Wellrnrachi,_nhe Pa-nzers, and the Luftws.ffv Gerin 'n officers called metu arl GT .=lophy ; "eareless;" . "undisciplined" soldiers -- but ._ -'as the
 Germans who got the shellacking .
 Tlie" ,arrnnv of George Washington often i : :_ e
-ragged`mof3 . Tl eii fighting . record is anc_ h a story . .
-The .French under General Le Cleve fought . __:err war .
-from the ..heart- of Africa to Lake . Chad and - .na North frica in an. astonishing eainpaian., No <ace sneered a t
+raggedmof3 . Tl eii fighting . record is anc_ h a story . .
+The .French under General Le Cleve fought . :err war .
+from the ..heart- of Africa to Lake . Chad and - .na North frica in an. astonishing eainpaian., No ace sneered a t
 their. uniforms then ,
 .
 . - Trench
@@ -2748,7 +2435,7 @@ en ff uty .
 it is also worth remembering that in tle
 4t:
 tft ,
-the French had to reject 40 ° ;'o of the men ti~ G~ rc as
+the French had to reject 40 ° ;'o of the men ti G rc as
 physically unfit for military duty (and the ? u .- a cl a
 used were lower than those used in our ar
 Whywere so many young Frenchmen unlit Iu -_-=r:_?
@@ -2763,13 +2450,13 @@ tQn :
 Because of the effects of World War I . (See
 71 . )
 Because the best Freich youth were kiileJ: t .noised .
-disabled, or taken as slave laborers into Gerrrn :_n
+disabled, or taken as slave laborers into Gerrrn :n
 
 : .. . .
 
 "The ' e..n.
-are sloppr~ 1aol :~izg ao~rlr~r,~ . .
-l r um . gip : . y i knaic lbe.on. 'riot grand fi,~~lfus ,
+are sloppr 1aol :izg aorlrr, . .
+l r um . gip : . y i knaic lbe.on. 'riot grand fi,lfus ,
 
 99
 
@@ -2800,7 +2487,7 @@ l- ri.ipri's ,-.titti the, Fri
 th-e pwt.
 t;
 the pres',s. .' '
-.1~~tttrr ih the wel' wets- eaYto'ejeirtteg
+.1tttrr ih the wel' wets- eaYto'ejeirtteg
 
 T,:ocat papers always play up local news, Local papet s
 are pond of the deeds of local boys . It was as natura l
@@ -2812,15 +2499,15 @@ it's publicity m the American press . hieh you'i e
 -ol)y.i. etirig to, then criticize American news judgment ;
 not French vanity, The story of the maquis and FF 1
 was "natitra!" news story . It's the kind of. : story tha t
-ins hit the front pages ever since there were wars - an d
+ins hit the front pages ever since there were wars - and
 newspapels to report on them .
-AA for the role the FFI and the Maquis played _in the
+AA for the role the FFI and the Maquis played in the
 against Gei many, see the statements of Genera l
 Patton and General Patch, under question 77 ,
 iv-i
 
 101 " -k
-rJ` S
+rJ S
 
 :e)tch
 
@@ -2856,14 +2543,14 @@ i..esistance . .. Such soldiers .live of th e
 ight to . Tliere trained to, Our ow n
 ia :.:..i.:-..-i .
 u s
-uietl .o,*:, ..' ..
+uietl .o,:, ..' ..
 a.i.so t
 
 ## French Collaboration
 
 were %lid i?lff :-
 
-~
+
 
 104
 a/io,m!5 3 :
@@ -2903,7 +2590,7 @@ comin,.inities for • crinmes' . not connecte d
 red a ez s- promise ; trick and pressure to induce th e .
 - itcs . peopleto
 . work in , Gerrnanr . for the Gernian w ar
-= tci ine _lie , - offered : workers
+= tci ine lie , - offered : workers
 ,.
 better
 food clothe s :
@@ -2912,10 +2599,10 @@ _
 i 'ec'e,S and protection nenied them in . Trance under
 .
 occtu aa .tion rules
-. ' An ! In all of T.c•~~,rlce ; lurirlg that
+. ' An ! In all of T.c•,rlce ; lurirlg that
 1
 ll
-periot about ~ .r~r7aj French we hems e,, .fisted
+periot about  .rr7aj French we hems e,, .fisted
 .
 err7i ans admitted
 thi was, aailure
@@ -2936,7 +2623,7 @@ f
 F'
 
 . . Fianc
-`'racee fell . the .PicrccJ' laid down . and /c dot
+'racee fell . the .PicrccJ' laid down . and /c dot
 u='n/P
 
 all over
@@ -2944,7 +2631,7 @@ all over
 them. .
 
 to t tf_
-.`'1C.it. 4^ them .. Il' tzf dirt ii t
+.'1C.it. 4^ them .. Il' tzf dirt ii t
 
 They 7-yst
 
@@ -2961,7 +2648,7 @@ IFd . North Africa, Italy . a i d up through xra lmce " wit h
 the S th Army .
 :Here is how the French . people inside France fough t
 the _ :eT mans after the fall of France :
-They sabotaged production in war plants . '_Chef,
+They sabotaged production in war plants . 'Chef,
 estroyecl parts, damaged machinery, siowed down pro 'changed blue-prints.
 Ti c - dynamited power . plants, warehouses, trans mission line . They wreaked trains . Vor 'destroye d
 1, r d s . They damaged locomotives .
@@ -2969,32 +2656,32 @@ organized armed groups which fought the Germa n
 pI
 the Csemta:po, the Vichy militia .
 s3 av executed French collaborationist s
-acted `1 a great spy army for SH -1FI= r London .
+acted 1 a great spy army for SH -1FI= r London .
 They transmitted . amany as 00 report : a day to Sil A.L F
 German troops movements, military . lilt ,ll n ons ;
 Oct
 and -tl e nature and move p ent of military supplie s
 aa.
 and c upl_ r
-They got- 7ariple of ~ new C;ern .~..z.i
+They got- 7ariple of  new C;ern ...z.i
 save -powder to London .
 They ran an elaborate "underground railway" for
 ratting shot -down American and Brit . flyers baPi tca
 
-11\~ := ANTRY JOURNAL Library
+11\ := ANTRY JOURNAL Library
 
 glend. They hid . clothed . fed and smuggled out o f
 France over 4 .000 American airmen and parachutists .
-`(Getting' food and clothes isn 't easy when you 're on a
+(Getting' food and clothes isn 't easy when you 're on a
 starvation ration yourself. Its risky to forge identification Tapers:) Every American airman rescued mean t
 half a dozer_ r'rench lives were risked . On an average .
-one Frenchman was shot crsi y two io~?rs . from 1040 to 194 4
+one Frenchman was shot crsi y two io?rs . from 1040 to 194 4
 by the Germans in an effort to stop French sabota ge and
 assistance to the Allies .
 The Germans destroyed 344 communities completely) for "crimes" not connected with military operations .
 Perhaps the Germans realized better than we do the relent less fight against them which the French people waged.
 An official German report, quoted in the C'hristia,a.
-.`cieace 31onitot on December 26, 1942 . stated sadly
+.cieace 31onitot on December 26, 1942 . stated sadly
 "For systematic inefficiency and criminal carelessness the y
 (the French) are unsurpassed in the history of -modern
 industrial labor ."
@@ -3005,10 +2692,10 @@ r.i
 X147 .9 " ,o'
 
 t!"021 .1!f'idt PIl'LJ2},'. they ' d cten
-+1~s1t
++1s1t
 w c i the way a 'city l e: Paris looks . "
 
-i._n the { ar. O! e
+i.n the { ar. O! e
 
 No, you wouldn 't . You can 't tell what the war cost .
 France by a stroll down the Champs Elysees, just as you . .
@@ -3037,7 +2724,7 @@ Cost France
 
 - . . .-
 
-l~ tal
+l tal
 
 200 .£x:0
 230 .00 0
@@ -3075,10 +2762,10 @@ Prisoners of War
 
 Totalt
 
-r t- r,2~l g %LiLS CI'i~(! ~
+r t- r,2l g %LiLS CI'i(! 
 
 -(P
-7 ~,Oi'te
+7 ,Oi'te
 . ,
 
 ,es
@@ -3119,7 +2806,7 @@ sTxE"„T; I.aL S
 
 1 .785,000 buildings were destroyed .
 5 ;000 bridges were blown :--up .
-Three-fifths of all French railroad stoe'= --t<s ethe r
+Three-fifths of all French railroad stoe'= --ts ethe r
 they
 destroyed or taken to erim nv by Gerar
 treated in 104.5 .
@@ -3162,7 +2849,7 @@ r_ ,
 
 :
 
-i' i J̀^IL~1
+i' i J̀^IL1
 
 r̀' C =ated total. money cost to Franc e
 
@@ -3182,12 +2869,12 @@ aicnZ' Oi oc c upation . <
 ri v .ct itiiral p .u'ociucta taken by i eca
 . Man .:. Or daillaae.ci
 Yn
-`
-__'-_' nsport and Celo 11unrea.ti+o :1 damar -
+
+'-' nsport and Celo 11unrea.ti+o :1 damar -
 
 ll:
 
-2,3 2 `)OP,000,30 0
+2,3 2 )OP,000,30 0
 
 107
 
@@ -3228,7 +2915,7 @@ which -fill take a long time . Sicortag'e of coal ,
 line, electricity, power, transport-, . and Inanpo to'e r
 _ made a more rapid recovery imuossibie .
 t
-~f after liberation . France p ound that of its .we -
+f after liberation . France p ound that of its .we -
 
 zee iaeins ind stries a r e beginning to operate at
 
@@ -3246,13 +2933,13 @@ France is . about one fonrteeiith the size of the United
 St-= es .
 ear p ut nearly all of France into Utah and Nevada . .
 
-i _,a ~
+i ,a 
 
-.'.Jl1Cli t<. _UjIl .
+.'.Jl1Cli t. UjIl .
 
 the
 
-tOil0-win `r
+tOil0-win r
 
 -were left i
 
@@ -3270,7 +2957,7 @@ t coal crisis has plunged France into a vicious circle, 'dilte s
 could not operate without timber pit props to
 up
 the ceilings of tunnels in coal veins as they were :red.
-But the transportation needed to bring in ~r,_
+But the transportation needed to bring in r,_
 cbe7_
 also needed coal with which to operate.
 Coal shortages have caused as many shut-,-..o7-.1-_ _ of
@@ -3350,7 +3037,7 @@ May 1945 Sept. 1945
 et. ea into simpler edministration Is their problem . Theis
 are. trying;
 Communist Party : : .
-Socialist Part`
+Socialist Part
 Radical Socialist Parts
 Popular Republican Movement
 >r rrre
@@ -3367,9 +3054,9 @@ Popular Republican Movement
 
 r r ro'
 n ,:cal
-r ,`7t potWe,
+r ,7t potWe,
 z .5, "
-7t~
+7t
 
 111
 
@@ -3401,5 +3088,3 @@ How does one measure decadence ?
 The Germans said, "Demoeraties are decadent . ."
 
 di
-
-
