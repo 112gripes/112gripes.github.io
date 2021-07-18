@@ -27,7 +27,7 @@
 ❓️ = tentatively assigned
 
 - [x] Initial dump to txt of the PDF's OCR
-- [ ] 🏃 @ronjouch First pass of text cleanup & rewrital
+- [ ] 🏃 First pass of text cleanup & rewrital (@ronjouch starting at top, @gregsadetsky starting at end)
     - [ ] Fix dumb ascii `"` quotation marks into proper nice typographic marks (careful about nested quotes)
     - [ ] A couple of full re-readings by different people once a first cleanup is done
 - [ ] 🏃 @ronjouch Validate with lawyer the original text isn't copyrighted
