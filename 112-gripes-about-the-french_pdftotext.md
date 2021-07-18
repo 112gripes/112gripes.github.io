@@ -3094,3 +3094,65 @@ How does one measure decadence ?
 The Germans said, "Demoeraties are decadent . ."
 
 di
+
+---
+
+#### (((Greg's rewrite from the bottom, below))) TODO cleanup, merge, use div and em and ids, hyperlink to other questions
+
+109. "The French don't have a decent political system. They've got too many parties. They never get together."
+
+The French political system is a democracy. It is like ours in its basic principles: freedom of speech, freedom of religion, freedom of the press, freedom of the vote, minority rights, protection under the law, trial by jury, etc.
+
+The system differs from ours as far as parties are concerned: we have a "two-party" form of administration; the French have many parties.
+
+The French have a political party for almost every conceivable political position. They odn't believe that "there are two ways of looking at things", the French think there are dozens of ways, and that if enough people hold to any one way they have a right to be represented in the government.
+
+French electrocal practice has not encouraged party organisation such as ours. The eltions to the Chamber of Deputies are more like our municipal (city) elections than our national elections. In our city elections, people frequently vote for their friends and neighbors, — for men rather than parties. This is true in France, too.
+
+The French multiple-party system has this advantage: it gives every group of any size a voice in government, a chance to get its program considered, a chance to get certain laws passed.
+
+The multiple-party system has this grave dis advantage: in France, no one party controls a majority of the votes in the Chamber of Deputies: Cabinets are always combination or coalition cabinets. THe Premier has to rely on persuasion. It is easy for such cabinets to be overthrown. It is relatively hard for such cabinets to work together, on a common program for many years; with each new problem or each new crisis, the cabinet can easily be broken up.
+
+The French today are very much aware of the dangers and disadvantages of a multiple-party system. How they will solve it, how they will translate wide representation into simpler administration is their problem. They are trying to solve it — democratically.
+
+110. "The French are too radical in politics."
+
+Don't be fooled by the names of the French parties. The Radical Socialist party for example, is neighter radical nor socialist. It is the party of small farmers and the lower middle-class: it is a middle-of-the-road party. (Its name is a carry-over from the past.)
+
+For the past twenty years, the great majority of Frenchmen have voted for men and parties that were neither extreme Left nor extreme Right.
+
+In the last pre-war elections of 1936, the parties of the Popular Front (Radical Socialist, Socialist, and Communist), which stood for a sort of New Deal program, got 382 seats in the Chamber of Deputies out of a total of 608. The partis of the Right, which opposed the Popular Front, got 222 seats.
+
+Since the liberation, the French have held municipal elections in May 1945 and cantonal elections in September 1945. The voting strength of the main parti in those elections was approximately as follows:
+
+### TODO table
+
+Name of Party
+% vote case May 1945
+% vote case Sept. 1945
+
+Communist Party
+17
+21
+
+Social Party
+15
+24
+
+Radical Socialist Party
+32
+24
+
+Popular Republican Movement
+5
+9
+
+111. "The French are Communist."
+
+The Community Party got 10 seats in the Chamber of Deputies in the 1932 elections, and 72 out of 608 seats in the 1936 elections. For their vote in 1945, see question 110.
+
+112. "France is a decadent nation."
+
+How does one measure decadence ?
+
+The Germans said, "Democraties are decadent."
