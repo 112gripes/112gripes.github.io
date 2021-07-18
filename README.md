@@ -32,6 +32,7 @@
     - [ ] A couple of full re-readings by different people once a first cleanup is done
 - [ ] 🏃 @ronjouch Validate with lawyer the original text isn't copyrighted
     - [ ] Ask r/legaladvice if no news from tentative lawyer
+- [ ] Figure out license of our edition
 - [ ] ❓️ @nmielec Figure out build pipeline (pandoc probably?)
 - [ ] ❓️ @nmielec Clean up & upload illustrations
 - [ ] Setup CI: build html+epub & publish to .github.io domain . A markdown linter, maybe?
