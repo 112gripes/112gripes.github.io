@@ -43,4 +43,5 @@
     - [ ] Deploy to this repo when main structure is ready
 - [ ] Write a preface to our edition? Find a historian to do so?
 - [ ] Agree on consistent way of recreating punctuation from original. Do we use em-dashes? Space before question mark? Two spaces after periods?
+- [ ] Flag / deal with `TODO`s and `FIXME`s left in Markdown
 - [ ] What else?

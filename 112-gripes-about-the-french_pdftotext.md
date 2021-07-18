@@ -3099,6 +3099,36 @@ di
 
 #### (((Greg's rewrite from the bottom, below))) TODO cleanup, merge, use div and em and ids, hyperlink to other questions
 
+97. "In Paris you see hundreds of young Frenchmen, our age, in civilian clothes. Why aren't they all in the Army ?"
+
+Many of them are, even though they are in civilian clothes. Reason? In most French commands (FIXME the Paris area), enlisted men are permitted to wear civilian clothes when they are on pass or off duty. French officers in all commands are permitted to wear civilian clothes when off duty.
+
+It is also worth remembering that in the 1945 draft, the French had to reject 40% of the men called up as physically unfit for military duty (and the standards used were lower than those used in our army.) Why were so many young Frenchmen unfit physically? Because they were underfed by the Germans during the occupation. Because tuberculosis and other diseases spread, during the four years of German occupation. Because of the effects of World War I. (See question 77.) Because the best French youth were killed, wounded, disabled, or taken as slave laborers into Germany.
+
+98. "THe French are sloppy-looking soldiers. One look at them and you know they're not good fighters."
+
+You don't tell how an army fights by the way it looks. The Greek soldiers wore funny white skirts — but they licked the pants off the dashingly dressed Italians, and they put up an amazing fight against the might of the Wehrmacht, the Panzers, and the Luftwaffe.
+
+German officers called American GIs "sloppy," "careless," "undisciplined" soldiers — but it was the Germans who got the shellacking.
+
+The army of George Washington often looked like a ragged mob. Their fighting record is another story.
+
+The French under General Le Clerc fought their war from the heart of Africa to Lake Chad and up to North Africa in an astonishing campaign. No one sneered at their uniforms then.
+
+It might be helpful to remember that many French soldiers had been guerrilla fighters (in the FFI, the Maquis, the resistance). THey still dress, act and carry themselves like guerillas.
+
+99. "Why do French soldiers look so sloppy in their uniforms ?"
+
+Some do, some don't. Check this yourself. Look around.
+
+100. "What got my gout was all the publicity the French soldiers got! Take the Maquis and the FFI — the part they played in the war was exaggerated in the press."
+
+Local papers always play up local news. Local papers are proud of the deeds of local boys. It was an natural for the French to praise the fighting of the French as it was for the Botsford <em>Bugel</em> to give front-page space to the return of the Pfe Elmer Glutz on the day we dropped the atomic bomb on Japan.
+
+If it's publicity in the American press which you're objecting to, then criticize American news judgment; not French vanity. The story of the maquis and FFI was a "natural" news story. It's the kind of story that has hit the front pages ever since there were wars — and newspapers to report on them.
+
+As for the role the FFI and the Maquis played in the fight against Germany, see the statements of General Patton and General Patch, under question 77.
+
 101. "The French soldiers stole everything they could get their hands on. They stole our gas, jeeps, trucks, rations. We had to post guards over every vehicle."
 
 Some French soldiers certaindly did stel. We didn't like it.
