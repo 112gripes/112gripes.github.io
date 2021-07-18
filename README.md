@@ -13,6 +13,7 @@
 - Use ebook/HTML features that make sense (e.g. links between questions)
 - Good & simple layout / typography
 - Illustrations restored from the original book (inspired by if too degraded?)
+- Inspirations: [Pro Git](https://github.com/progit/progit2), [SICP.epub](https://github.com/sarabander/sicp), [Standard Ebooks](https://github.com/standardebooks/william-shakespeare_the-tempest)
 
 ## Non-goals
 
@@ -25,6 +26,7 @@
 🏃 = task assigned and in progress. To collaborate, ask the assignee to avoid conflicts.
 ❓️ = tentatively assigned
 
+- [x] Initial dump to txt of the PDF's OCR
 - [ ] 🏃 @ronjouch First pass of text cleanup & rewrital
     - [ ] Fix dumb ascii `"` quotation marks into proper nice typographic marks (careful about nested quotes)
     - [ ] A couple of full re-readings by different people once a first cleanup is done
