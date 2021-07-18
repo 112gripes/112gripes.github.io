@@ -33,8 +33,13 @@
 - [ ] 🏃 @ronjouch Validate with lawyer the original text isn't copyrighted
     - [ ] Ask r/legaladvice if no news from tentative lawyer
 - [ ] Figure out license of our edition. CC BY-SA? BY?
-- [ ] ❓️ @nmielec Figure out build pipeline (pandoc probably?)
+- [ ] 🏃 @nmielec Figure out build pipeline (pandoc probably?)
+    - [x] Preliminary tests of pandoc for html and epub generation
+    - [ ] Decide on document structure and formatting (html and epub)
 - [ ] ❓️ @nmielec Clean up & upload illustrations
-- [ ] Setup CI: build html+epub & publish to .github.io domain . A markdown linter, maybe?
+    - [ ] Wait for lawyer feedback
+- [ ] 🏃 Setup CI: build html+epub & publish to .github.io domain . A markdown linter, maybe?
+    - [x] Github CI tests with pandoc in another repo for html+epub building and publishing to a .github.io domain
+    - [ ] Deploy to this repo when main structure is ready
 - [ ] Write a preface to our edition? Find a historian to do so?
 - [ ] What else?
