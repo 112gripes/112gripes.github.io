@@ -44,4 +44,6 @@
 - [ ] Write a preface to our edition? Find a historian to do so?
 - [ ] Agree on consistent way of recreating punctuation from original. Do we use em-dashes? Space before question mark? Two spaces after periods?
 - [ ] Flag / deal with `TODO`s and `FIXME`s left in Markdown
+- [ ] How to deal with errors in original - "democraties" in question 112 (add "sic" ?), "the war" repeated twice in question 105
+- [ ] How to deal with French names in original that don't use any accents ("Champs Elysees" in original rather than "Champs-Élysées")
 - [ ] What else?
