@@ -22,6 +22,9 @@
 
 ## TODO
 
+🏃 = task assigned and in progress. To collaborate, ask the assignee to avoid conflicts.
+❓️ = tentatively assigned
+
 - [ ] 🏃 @ronjouch First pass of text cleanup & rewrital
     - [ ] Fix dumb ascii `"` quotation marks into proper nice typographic marks (careful about nested quotes)
     - [ ] A couple of full re-readings by different people once a first cleanup is done
