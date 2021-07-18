@@ -10,6 +10,8 @@
 ## Non-goals
 
 - Perfect fidelity to the original format
+- Maximum readability of source files. If we need to use non-MD features to
+  make the HTML/EPUB output better, we will
 
 ## TODO
 
