@@ -3099,6 +3099,70 @@ di
 
 #### (((Greg's rewrite from the bottom, below))) TODO cleanup, merge, use div and em and ids, hyperlink to other questions
 
+104. "After France fell, the French laid down and let the Germans walk all over them. They just waited for us to liberate them. Why didn't they put up a fight?"
+
+Millions of French men, women and children put up a fight that took immense guts, skill and patience.
+
+The Fighting French never stopped fighting — in the RAF, North Africa, Italy, and up through France with the US 7 th Army.
+
+Here is how the French people inside France fought the Germans after the fall of France:
+
+They sabotaged production in war plants. They destroyed parts, damaged machinery, slowed down production, changed blue-prints.
+
+They dynamited power plants, warehouses, transmission lines. They wrecked trains. They destroyed bridges. They damaged locomotives.
+
+They organized armed groups which fought the German police, the Gestpo, the Vichy militia.
+
+They executed French collaborationists.
+
+They acted as a great spy army for SHAEF in London. They transmitted as many as 300 reports a day to SHAEF on German troops' movements, military installations, and the nature and movement of military supplies.
+
+They got samples of new German weapons and explosive powder to London.
+
+They ran an elaborate "underground railway" for getting shot-down American and British flyers back to English. THey hid, clothed, fed and smuggled out of France over 4,000 American airmen and parachutists. (Getting food and clothes isn't easy when you're on a starvation ration yourself. It's risky to forget identification papers.) Every American airman rescue meant half a dozen French lives were risked. On an average, one Frenchman was shot <em>every two hours</em> from 1940 to 1944 by the Germans in an effort to stop French sabotage and assistance to the Allies.
+
+The Germans destroyed 344 communities (62 completely) for "crimes" not connected with military operations. Perhaps the Germans realized better than we do the relentless fight against them which the French people waged.
+
+An official German report, quoted in the <em>Christian Science Monitor</em> on December 26, 1942, stated sadly: "For systematic inefficiency and criminal carelessness they (the French) are unsurpassed in the history of modern industrial labor."
+
+## "they got off pretty easy in this war"
+
+105. "You woulnd't think they'd even been in the war the way a city like Paris looks."
+
+No, you wouldn't. You can't tell what the war cost France by a stroll down the Champs Elysees, just as you couldn't tell what the war cost America by a walk down the Atlantic City boardwalk.
+
+You can't, in Paris, see the 1,115,000 French men and women and children who died, were wounded, were in concentration camps, or were shot as hostages. You can't see the food and supplies that were taken from France. You can't see the 12,551,639,000 man-hours of labor that the Germans took for themselves. You can't see the meagre rations that the French were fed. You can't see the malnutrition that the Germans caused. (70% of the men and 55% of the women in France lost an average of 12% of their weight.)
+
+You can't see the increase (300-400 %) in tuberculosis diphteria, typhoid fever, infantile paralysis. You can't see the number of babies who were born dead because of the food and milk shortages. You don't see rickets on the Champs Elysees. If you want more facts, read the answer to the next question.
+
+106. "The French got off pretty easy in the war."
+
+## TODO tables, numbers
+
+107. "Why don't they get to work and rebuild their country ?"
+
+The French Minister of Finance recently reported that France's industries are beginning to operate at 80 % of capacity. The rebuilding of France is a tremendous job which will take a long time. Shortages of coal, gasoline, electricity, power, transport, and manpower have made a more rapid recovery impossible.
+
+In 1944, after liberation, France found that of its pre-war transportation the following were left:
+35% of the locomotives,
+37% of the freight cars,
+33% of the trucks and automobiles,
+38% of the merchant marine.
+
+The most important single factor which is holding up French production is the shortage of coal. On Februrar 3, 1945 our Office of War Information analyzed economic conditions in France and pointed out how the coal crisis has plunged France into a vicious circle. Mines could not operate without timber pit props to shore up the ceilings of tunnels in coal veins as they were expanded. But the transportation needed to bring in the timber also needed coal with which to operate.
+
+Coal shortages have caused as many shut-downs of French factories as have the grave shortages of other essential raw materials.
+
+And never forget the loss to France of 1.115.000 people (killed, wounded or disabled) out of a population estimated at around forty million in 1940. This is a staggering blow to the manpower needed for rebuilding.
+
+## French Politics
+
+108. "All French politicians are corrupt."
+
+That's as silly as saying that all American politicians get graft. Some French politicians are corrupt. So are some American politicians.
+
+Incidentally, the German propaganda line for French politics was, "All French politicians are corrupt." The Germans wanted the French people to lose confidence in their leaders, in their government, and — most of all — in democracy itself. The Germans ran a gigantic smear campaign before the war, during the war, and during the occupation. The only French politicians of importance whom the Germans did <em>not</em> smear were — Petain and Laval. They, said the Nazis, were not corrupt. Odd, isn't it?
+
 109. "The French don't have a decent political system. They've got too many parties. They never get together."
 
 The French political system is a democracy. It is like ours in its basic principles: freedom of speech, freedom of religion, freedom of the press, freedom of the vote, minority rights, protection under the law, trial by jury, etc.
