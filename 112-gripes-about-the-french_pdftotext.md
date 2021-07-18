@@ -1,5 +1,11 @@
 # 112 Gripes about the French
 
+
+***NOTE: THIS IS STILL BEING HEAVILY CLEANED UP.***
+***DO NOT WORK CONCURRENTLY ON THIS YET.***
+
+
+
 ## Foreword
 
 Americans believe in the right to criticize. We defend our right to "beef" or
