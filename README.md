@@ -18,8 +18,11 @@
 
 ## TODO
 
-- [ ] Figure out build pipeline (pandoc?)
+- [ ] 🏃 @ronjouch First pass of text cleanup & rewrital
+    - [ ] Fix dumb ascii `"` quotation marks into proper nice typographic marks (careful about nested quotes)
+- [ ] 🏃 @ronjouch Validate with lawyer the original text isn't copyrighted
+- [ ] ❓️ @nmielec Figure out build pipeline (pandoc probably?)
+- [ ] ❓️ @nmielec Clean up & upload illustrations
 - [ ] Setup CI: build html+epub & publish to .github.io domain
-- [ ] Clean up & upload illustrations
-- [ ] Fix dumb ascii `"` quotation marks into proper nice typographic marks (careful about nested quotes)
 - [ ] Write a preface to our edition? Find a historian to do so?
+- [ ] What else?
