@@ -2426,6 +2426,18 @@ like guerrillas ..
 
 #### (((Greg's rewrite from the bottom, below))) TODO cleanup, merge, use div and em and ids, hyperlink to other questions
 
+96. "Why don't French soldiers ever clean their uniforms ?"
+
+The French soldier got only <em>one</em> full uniform issued to him. It is impossible for him to draw another; it is almost impossible for him to purchase another.
+
+Cleaning takes three to four weeks in France.
+
+Why don't they use cleaning fluid? Because they don't have cleaning fluid.
+
+Why don't they wash their unifroms? They do — but with a very poor ersatz soap. It is the only soap they can get.
+
+The French soldier got paid 800 francs <p>a month</p> ($16) until September, 1945, when this sum was cut to 180 francs a month ($3.60). (This cut in pay came at about the time the French government announced it would give every American soldier in France 850 francs a month as a bonus.) The French soldier gets a total pay of about 22 cents a day. How well could you keep up your uniform on 12 cents a day ?
+
 97. "In Paris you see hundreds of young Frenchmen, our age, in civilian clothes. Why aren't they all in the Army ?"
 
 Many of them are, even though they are in civilian clothes. Reason? In most French commands (FIXME the Paris area), enlisted men are permitted to wear civilian clothes when they are on pass or off duty. French officers in all commands are permitted to wear civilian clothes when off duty.
