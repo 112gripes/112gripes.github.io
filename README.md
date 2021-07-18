@@ -10,6 +10,7 @@
   - HTML friendly to read on desktop and phone
   - HTML version working just fine without JS
   - HTML version should lazy-load images through the recent standard `img` feature
+- Use ebook/HTML features that make sense (e.g. links between questions)
 - Good & simple layout / typography
 - Illustrations restored from the original book (inspired by if too degraded?)
 
