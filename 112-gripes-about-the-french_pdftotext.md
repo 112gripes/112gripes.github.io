@@ -1,4 +1,8 @@
-AMERICANS believe in the right to criticize . We defend
+# 112 Gripes about the French
+
+## Foreword
+
+AMERICANS believe in the right to criticize . We defend
 our right to "beef '' or "gripe" or "sound off". We insist
 upon the right to express our own opinions .
 But we also believe in the right of others to express thei r
@@ -13,7 +17,7 @@ which free men make to understand each other .
 This booklet tries to help some of us understand an ally the French . It is not meant either to "defend'' the Frenc h
 or to chastise those Americans who do not like the French . It
 
-CONTES
+## Contents
 
 EA' T S
 .
@@ -234,6 +238,8 @@ S2 THOSE FRE\'CH SOLDIER S
 90 FRE-YCH COLLABORATIO N
 96 THEY GOT OTT PRE171 E-I,S y rV THIS WA R
 . 106 FRENCH POLITICS
+
+## the French AND US
 
 HT. Ve came to Europe twice .
 
@@ -743,15 +749,11 @@ of the boat !" We have paid a terrible price for believin
 that a leak "at the other end of the boat " does not' affec t
 our destiny .
 
-A.
+## the French
 
 22
 
-The
-
-. Frcint
-
-CHARACTERISTIC S
+### A. Characterestics
 
 The French think that the American soldier who sell s
 cigarettes, soap or candy on the black market at fantasti c
@@ -1155,6 +1157,8 @@ R ochefoucatrlcl
 Ptenan
 Roussea u
 
+### B. Customs and Manners
+
 It is always something of a shock when you ran int o
 different ways of talking, eating, doing things . But what
 is different is not always inferior . "different " does not ,
@@ -1257,7 +1261,7 @@ there is an understandable upsurge of patriotism =. and
 It desire to celebrate liberation, to honor theirmartyr s
 to commemorate their resistance .
 
-CLEA TLINESS AND SANITATIO N
+### Cleanliness and sanitation
 
 42
 
@@ -1412,7 +1416,7 @@ Waadorff, etc .) .
 
 That's perfectly understandable .
 
-D . WORK AND LAZINESS .
+### Work and Laziness
 
 49
 
@@ -1512,9 +1516,9 @@ the French soil is cool and moist, and wooden shoes com e
 in mighty handy . The Frencilfarmer finds them mor e
 practical than leather-shoes .
 
-- F2e.,rZ ab
+### Moral
 
-are ea sy plait-ups . "
+55 - F2e.,rZ ab are ea sy plait-ups . "
 
 The French women who are easy pick-ups ,are those
 who are easily picked up .
@@ -1699,13 +1703,10 @@ in a big city jumping out of the way of ears, "Lham thes e
 furriners '. ' `' he cried : Then° even put spot-lights on their
 Ni
 
-64
 
-TVhy clothe French dive so
+### Automobiles and locomotives
 
-g-ci-
-
-fast?"
+64 TVhy clothe French dive so g-ci- fast?"
 
 automobiles so's they can find the pedestrians to an do n.
 at night' "
@@ -1777,7 +1778,7 @@ of accommodations . Their third-class coaches were les s
 c u uufortaf)le than ours but their first-class accommoc] .ttions were in many respects better than anything we ha d
 in America ,
 
-"'Ye
+68 "'Ye
 
 gim
 
@@ -1787,10 +1788,11 @@ and they on even ran ,
 
 the7r. . "
 
-Then who -'oes 2
-have are running .
+Then who -'oes 2 have are running .
 
 The locomotives which the Fi.--reh
+
+## the French and the Germans
 
 69
 
@@ -2224,12 +2226,11 @@ up with German.
 
 r~t.rls . "
 
-That is as deplorable as the same conduct on the par t
--
-
-of ii- 2ericans.
+That is as deplorable as the same conduct on the par t f ii- 2ericans.
 
 64
+
+## Prices: "We're being gypped"
 
 83
 
@@ -2404,7 +2405,7 @@ There s nothing fishy about it .
 "All Iooks yellow to the jaundiced eye "
 -Alexander Po p e .
 
-?
+## the Black Market
 
 90
 
@@ -2586,6 +2587,8 @@ o.
 :n
 
 pr'o i??' papcra .weere ''_1~plieO ±az ::hurt act :o?]_
+
+## those French Soldiers
 
 t
 
@@ -2856,6 +2859,8 @@ u s
 uietl .o,*:, ..' ..
 a.i.so t
 
+## French Collaboration
+
 were %lid i?lff :-
 
 ~
@@ -2906,8 +2911,8 @@ _
 .
 i 'ec'e,S and protection nenied them in . Trance under
 .
-<occtu aa .tion rules
-. ' An ! In all of T.c•~~,rlce ; <lurirlg that
+occtu aa .tion rules
+. ' An ! In all of T.c•~~,rlce ; lurirlg that
 1
 ll
 periot about ~ .r~r7aj French we hems e,, .fisted
@@ -2994,6 +2999,8 @@ An official German report, quoted in the C'hristia,a.
 (the French) are unsurpassed in the history of -modern
 industrial labor ."
 r.i
+
+## "they got off pretty easy in this war"
 
 X147 .9 " ,o'
 
@@ -3275,6 +3282,9 @@ And never f'org'et the loss to France of
 at around forty million in 1940 . This is
 ring
 blow to the manpower needed for rebuilding .
+
+
+## French Politics
 
 That's as silly as saving that all American politician s
 get graft. Son3e French politicians are corrupt . So
