@@ -53,7 +53,7 @@ TODO generate ToC
 
 ## the French AND US
 
-<div id="1"><em>1. "We came to Europe twice in twnty-five years to save the French."</em></div>
+<div id="1"><em>1. "We came to Europe twice in twenty-five years to save the French."</em></div>
 
 We didn't come to Europe to save the French, either in 1917 or in 1944. We
 didn't come to Europe to do anyone any favors. We came to Europe because we in
