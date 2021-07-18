@@ -15,7 +15,7 @@
 
 ## Non-goals
 
-- Perfect fidelity to the original format
+- Perfect fidelity to the original format / layout / shape
 - Maximum readability of the source Markdown. If we need to inline more raw HTML
   to make the HTML/EPUB output better, we will. Standard Ebooks is all HTML.
 
