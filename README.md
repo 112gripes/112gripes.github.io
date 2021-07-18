@@ -29,6 +29,6 @@
     - [ ] Ask r/legaladvice if no news from tentative lawyer
 - [ ] ❓️ @nmielec Figure out build pipeline (pandoc probably?)
 - [ ] ❓️ @nmielec Clean up & upload illustrations
-- [ ] Setup CI: build html+epub & publish to .github.io domain
+- [ ] Setup CI: build html+epub & publish to .github.io domain . A markdown linter, maybe?
 - [ ] Write a preface to our edition? Find a historian to do so?
 - [ ] What else?
