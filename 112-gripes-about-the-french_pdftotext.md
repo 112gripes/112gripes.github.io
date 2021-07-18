@@ -3099,6 +3099,34 @@ di
 
 #### (((Greg's rewrite from the bottom, below))) TODO cleanup, merge, use div and em and ids, hyperlink to other questions
 
+101. "The French soldiers stole everything they could get their hands on. They stole our gas, jeeps, trucks, rations. We had to post guards over every vehicle."
+
+Some French soldiers certaindly did stel. We didn't like it.
+
+So did some Americans. The French didn't like that.
+
+The French had no monopoly on "moonlight requisiotning" — as any GI knows.
+
+It is worth remembering that the French armies had a very large number of men who had been trained in underground fighting, in guerilla warfare, in the methods of sabotage and the resistance. Such soldiers live off the land. They're taught to. They're trained to. Our own parachute troops also used "unorthodox methods".
+
+## French Collaboration
+
+102. "The French were all collaborationists."
+
+That's the line Gœbbels used. The Germans exerted every propaganda effort to make us think there was no real resistance in France. Nazi censorship and Nazi firing squads tried to stop our hearing about the resistance.
+
+For the <em>facts</em>, see questions 17, 18, 104.
+
+103. "The French mostly collaborated with the Germans."
+
+The Germans would disagree with that. The Germans tried for four years to get more Frenchmen to collaborate. That's why they killed so many hostages. That's why they destroyed 344 communities for "crimes" not connected with military operations.
+
+The Germans overran France in 1940. For two years they used every promise, trick and pressure to induce the French people to work in Germany for the German war machine. They offered workers better food, clothes, privileges and protection denied them in France under occupation rules. And in all of France, during that entire period, about 75,000 French workers enlisted. The Germans admitted the campaign was a failure.
+
+The LVF (Legion Volontaire Francaise), the French volunteer arumy that the Germans tried to organize, was a gigantic flop.
+
+For the facts on how the French fought the Germans from 1940 until the liberation, see questions 17, 18, 104.
+
 104. "After France fell, the French laid down and let the Germans walk all over them. They just waited for us to liberate them. Why didn't they put up a fight?"
 
 Millions of French men, women and children put up a fight that took immense guts, skill and patience.
