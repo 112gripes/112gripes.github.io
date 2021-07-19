@@ -450,405 +450,291 @@ TODO intermediate ToC
 
 ### A. Characterestics
 
-The French think that the American soldier who sell s
-cigarettes, soap or candy on the black market at fantasti c
-prices is mercenary . Some Americans will "do anythin g
-for a couple of hundred francs'" .
+<div id="22"><em>22. "The french are too damned independent."</em></div>
 
-arc too CIarieard rr Cije l . ; t . "
+The French are independent. They are proud. They are individualists. So are we.
+That's one reason there is friction between us.
 
-The French a_re independent, They . are proud . They
-are individualists . So are we. .That's One reason ther e
-is friction between us .
-23
+<div id="23"><em>23. "The French are out for what they can get. They always play the winner."</em></div>
 
-" The French cue Cid ? d
-a . Lair UiJ ! the ror nei . '
+They didn't in 1939, when it looked to all the world as though the Germans were
+sure winners. The French and British could have let the Germans rape Poland
+without a protest. The French and British declared war on Germany.
 
-nlvit they
+Most of the French didn't play the winner in 1940 either, when it looked even
+more that Germany was unbeatable. While some of their leaders in the Vichy
+government played ball with the Germans. The vast majority of the people
+refused to; they resisted in whatever way they could.
 
-they
+<div id="24"><em>24. "The French are mercenary. They'll do anything for a couple of hundred francs."</em></div>
 
-ca
+Where do you draw the line between a "smart business man" and a "mercenary Frenchman"?
 
-The Freecib- are mercenary.
-a couple at hr- atreri rrai.ics . "
+The French think that the American soldier who sells cigarettes, soap or candy
+on the black market at fantastic prices is mercenary. Some Americans will
+"do anything for a couple of hundred francs".
 
-They'll
-;
-ito a nJth.?'rag fo r
+<div id="25"><em>25. "The French are gypping us."</em></div>
 
-Where do you draw the line between a "smart business man" and a "mercenary Frenchman I '
-20
+_Some_ Frenchmen have certainly gypped _some_ Americans.
 
-" Th e Fi . .-tic7 are glippni g
-Some Frenchmen have certainly gypped some Americans .
+We remember the times we were gypped. We forget the number of times we were not.
+How many times were you treated fairly, honestly?
 
-We remember the times we were gypped . We forge t
-the number of tinges we were not . How many times were
-von treated fairly, honest y°' ?
-Were you never "gypped" back home -in towns nea r
-army camps ? (See question 4 83) ,
+Were you never "gypped" back home — in towns near army camps? (See [question § 85](#85)).
 
-They
+<div id="26"><em>26. "The French are cynical."</em></div>
 
-They didn 't in 1939, when it . looked to aII the world a s
-though the Germans were sure winners . The French
-and-British could have let the Germans rape . Poland with out a protest . The French and British declared war-o n
-Germany,
-Most of the French didn ' t play the winner in 1940 either .
-When it looked even More that Germany was unbeatable .
-While some of their leaders in the Vichy governmen t
-played ball with the Germans . the vast majority of th e
-people refined to they resisted in whatever Way they could ;
-24 "
+The French are disillusioned. They are bitter. They have a right to be. They
+have gone through six of the most disastrous years of history. They have
+experienced defeat, hunger, persecution, invasion, occupation, despair.
+They have been humiliated before the eyes of the world.
 
-25
+The cynical comments which many of us have heard in France are a reflection
+of the profound shock and confusion the French have suffered for the past six
+years.
 
-26
+Cynical talk, by the way is often considered "smart" and "sophisticated"
+— in the United States no less than in France. We Americans love to give the
+"low down";  we love to tell "the inside story". So do the French.
 
-"The
+But the French are not cynical about certain things, about ideas like "Liberty,
+Equality, Fraternity". They mean it. They have always fought for it.
 
-Fretrch are. cyraicrl .
+<div id="27"><em>27. "The French are not up-to-date. They're not modern. They're living in the past."</em></div>
 
-"
+Change comes slowly in France. On the whole, the French are conservative. If
+the average Frenchman has a secure living, he is satisfied. His dream is not to
+become a millionaire, but to retire on a "little" fortune so that he can have a
+"little" home and a "little" garden and read his paper.
 
-The French are disillusioned . . . They are hitter . They
-have a right to be . They have gone through six of the
-most disastrous years of history . They have experience d
-defeat, . hunge r; persecution, invasion, occupation . despair .
-They have been humiliated before the eyes of the world .
-The cynical comments which many of us have heard i n
-France are a reflection of the profound shock and confusion
-the French have surdered for the past six years .
-Cynical talk, by the was is often considered "smart "
-andy "sophisticated " -; in the United States no less tha n
-in France . We Americans love to give the "low- down ° ;
-we love to tell "the inside story ' . So do the Freneli.
-But the French are not cynical about certain things ,
-about ideas like "Liberty, Equality . Fraternity" . They
-mean it, They have always fought" for it .
+The French are certainly not highly industrialized as we are. Compared to some
+other nations, however, they are considered very up-to-date. It depends on what
+standard you use. The French are as far advanced as any nation in the world
+today in some fields: art, literature, music, design, silk manufacture,
+textiles, etc.
 
-27 "The, Trcnch are "n-ct up-to-date .
-They re ha:mg . in the past . "
+The World Almanac for 1945 concludes that as far as social legislation is
+concerned, "France is in the vanguard". The French were certainly up-to-date
+in establishing old age pensions, compulsory insurance against illness,
+disability and death, maternity insurance, and so on. It was France that
+introduced the forty-hour work week.
 
-Change comes slowly in France . On the whole . the
-French are conservative . If the average Frenchman ha s
-a secure living, he is satisfied . His dream is not to becom e
-a millionaire, but to retire on a "little" fortune so that he
-can have a "little" home and a "little" garden and rea d
-his paper .
-The French are certainly not highly industrialized a s
-we are. Compared to some other nations, however, they
-are considered very up-to-date . Tt depends on what standard you use . The French are as far advanced as an y
--nation in the world today in some fields : art, literature,
-music. design, silk manufacture, textiles, etc .
-The World Almanac for 1945 concludes that as far a s
-social legislation is concerned, "France is iif the vanguard" ..
-The French were certainly up-to-date in establishing old
-age pensions, compulsory insurance against illness, disability and death . maternity insurance, and so on . It
-was France that introduced the forty-hour work week .
-28
+<div id="28"><em>28. "The French won't accept new ideas. They're not inventive."</em></div>
 
-" The French w'on't accept
-incentive ."
+Here are some of the inventions and discoveries which have come from France:
 
-72ew
-
-ideas . They' re .
-
-9w t
-
-Here are some of the inventions and discoveries whic h
-have come from France .
-
-Aluminium (discovered simultaneously in U . S . and
-France )
-Braille system of reading for the blin d
+Aluminium (discovered simultaneously in U.S. and France)
+Braille system of reading for the blind
 Breech-loading shotgun
-Cellophan e
-Commercial gas engin e
-Electric stee l
-Electric storage batter y
-Flying balloo n
+Cellophane
+Commercial gas engine
+Electric steel
+Electric storage battery
+Flying balloon
 Gyroscope
-Iron galvanizing proces s
-Laminated glas s
-Machine for making pape r
+Iron galvanizing process
+Laminated glass
+Machine for making paper
 Metallic cartridge
-Pasteurizatio n
+Pasteurization
 Phosphorus match
 Photography
 Rayon
-Rayon nitrocellulos e
-Screw propelle r
-Sewin g machin e
-Smokeless powde r
-Steam automobil e
-Steam pressure gaug e
-Stethoscop e
-Synthesis of campho r
-Television 1000 line scree n
+Rayon nitrocellulose
+Screw propeller
+Sewing machine
+Smokeless powder
+Steam automobile
+Steam pressure gauge
+Stethoscope
+Synthesis of camphor
+Television 1000 line screen
 
-The Nobel Prize has been awarded since 1901 for contributions in Physics, Chemistry-, Medicine and Physiology ,
-Literature and the Advancement of Peace . The prizes
-are awarded irrespective of nationality, race or creed .
-From 1901 to 1939
-.the
-,
-Nobel Prize has been awarded to
-2.03 individuals . The United States wen 25 . The French
-won 2S .
-The only person who has ever been awarded the Nobe l
-Prize twice was Hine Marie Curie .
+The Nobel Prize has been awarded since 1901 for contributions in Physics,
+Chemistry, Medicine and Physiology, Literature and the Advancement of Peace.
+The prizes are awarded irrespective of nationality, race or creed. From 1901
+to 1939, the Nobel Prize has been awarded to 203 individuals. The United States
+won 25. The French won 28.
 
-29
+The only person who has ever been awarded the Nobel Prize twice was Mme Marie
+Curie.
 
-t : T/7P F1 _ rich-
+<div id="29"><em>29. "The French are always criticizing. Nothing is right, everything has something wrong with it."</em></div>
 
-!.- ' -C S
-P7 i r
-Gsr , ‘?J
-$01''n. /nag c!'i'co j ?C th It.
+That sounds as though the French are like us. We Americans are always griping
+about something. We're never satisfied. We criticize our allies, our
+government, our army, our police, our politicians, our business leaders, our
+union leaders, our schools, our taxes, etc., etc. We are very proud of our
+right to criticize.
 
-3d
+As people in a democracy, we demand the right to criticize whatever we want,
+at any time, on any issue.
 
-as
+The French, too, have a very strong individualistic, democratic tradition.
+Beware the people who do not criticize. Beware the country where criticism is
+_verboten_. Beware the country where men obey like sheep.
 
-a goo . a,iir.
+<div id="30"><em>30. "All the French want is a good time. That's all they think about in Paris."</em></div>
 
-0 77
+It you judge the French by those you see on the Champs Élysées or in
+Montmartre, you are making the same mistake that was made by the tourist who
+visited the House of David and asked "Why don't Americans shave?"
 
-It you judg e. the French h those, you see on the Champ s
-Elysees or In Montmartre, you are making the same mistake_ that, was made by the . tourist who visited .the. House
-of .David and asked "Why don't rllerleans shav e
-Paris is not France . any urine than 52nd Street is America . Paris has for several hlmdred years been one of the
-great tourist attractions of the world .
-As a .matter of fact, the French have much 1'-e•ss of the
-shaving a good time" habit than we do . The. averag e
-French family ordinarily spends less on pleasure in a mont h
-than we do on a week-end .
-The .French reputation for gaiety was built on the fam e
-of Paris as a gay city and on- the French way of doin g
-things . The French, theater was always bright anet varied .
-Paris" cabarets and music-halls were famed throughout the
-world. But there are about 35 million Frenchmen who
-do not live in Paris .
+Paris is not France, any more than 52<sup>nd</sup> Street is America. Paris has
+for several hundred years been one of the great tourist attractions of the
+world.
 
-t
+As a matter of fact, the French have much _less_ of the "having a good time"
+habit than we do. The average French family ordinarily spends less on pleasure
+in a month than we do on a week-end.
 
-ererythcag hots
+The French reputation for gaiety was built on the fame of Paris as a gay city
+and on the French way of doing things. The French theater was always bright and
+varied. Paris' cabarets and music halls were famed throughout the world. But
+there are about 35 million Frenchmen who do not live in Paris.
 
-That sounds as though the French are like us . W e
-Americans are always griping abort something . Were
-never satisfied . Wei criticize our allies, our government ,
-our army, our police . our politicians. our business leaders ,
-our union leaders . our schools . our taxes, etc ., etc . We
-are very .proud of our right to criticize .
-As people in a democracy, we demand tine right t o
-criticize whatever we want, at any time, on any issue .
-The French, too . have a very strong individualistic ,
-democratic tradition . Beware the people who do no t
-criticize . Beware the country where criticism is arboinn. .
-Beware the country where men obey like sheep .
+<div id="31"><em>31. "The French are insincere; it is an inborn trait with them."</em></div>
 
-" A the. .I' ; eY s h
-pce Y
-th-ihr.k. Olsont t
+There are no "inborn traits" which account for the social characteristics or
+customs of a people. The entire body of scientific anthropology proves this.
 
-3
+A French child, of French descent, will react like an American if that child
+is raised in an American home in an American town. The same goes for a child of
+any other nationality, color or creed.
 
-1
+To talk about "inborn traits" is talk just as the Nazis did when they talked
+about "good" or "bad" blood. It just does not jibe with fact or science.
 
-The
+To say that the French are insincere is no more sensible than to say that
+Bostonians have an "inborn trait" for baked beans, or that Brooklynites have
+an "inborn trait" for throwing pop bottles at the umpire.
 
-F"r"er'iCj?, r1i' ri2b'dItGE1 r_
+Are the French "insincere"? The way to answer this intelligently is to define
+insincerity, analyze the number of Frenchmen who show these characteristics,
+compare this number to the number of Frenchmen who do _not_ show these
+characteristics, get the relative proportions between the two groups, then
+compare the proportions to a similar analysis of the "insincerity" of other
+nations, including the Papuans.
 
-his C1ri. i']cbFJr fc teCl-if- 2C2th
+<div id="32"><em>32. "The French just don't care about anything. They've even got a phrase for it — laissez-faire. That means why bother? Just let everything alone!"</em></div>
 
-There are no "inborn trans" which account for the socia l
-characteristics or customs of a people . The entire body
-of scientific anthropology proves this .
-2:5
+"Laissez-faire" is the name for a philosophy of economies. It means "let alone"
+— let the economy run by itself, by the laws of supply and demand, without
+governmental interference or protection.
 
-INFANTRY JOURNAL L b Ary
+The whole system we call capitalism, or free enterprise, rests on the idea of
+laissez-faire.
 
-A French child, of French descent, will react like an
-American if that child is raised in an-American home i n
-an American town . The same goes for a child of and
-other nationality, color or creed .
-To talk about. ":inborn traits" is talk just as the Nazi s
-did when they talked .about "good" or "bad" blood . It
-just does not jibe with fact. or science .
-To say that the French are insincere is no more sensibl e
-than to say that Bostonians have an "inborn trait" fo r
-baked beans, or that Brooklc-nites have an "inborn trait "
-for throwing pop bottles at the umpire .
-Are the French : :insincere " ? The way to answer thi s
-intelligently is to define insincerity, analyze the numbe r
-of Frenchmen who show these characteristics, compar e
-this number to the number of Frenchmen who do no t
-show these characteristics, get the relative proportion s
-between the two groups, then compare the proportions
-to a similar anils-sis of the "insincerity" of otheai nations ,
-including the Papuans .
+<div id="33"><em>33. "The french have no guts; they're decadent."</em></div>
 
-32 "Th_e French, but don't care about anyh.ing . T-hey'r' e
-even . got a phrase for it -- 7ccr er-tame . That mean s
-why bother ? Just let everything a l one
+From the editorial columns of the New York Times at the time France fell:
 
-'Laissez-faire- " is the name for a philosophy of econornies. It means "let alone" -- let the economy run by
-itself, .fay the laws of supply and demand, without govern 26
+"The reporters of the exodus of the French pay tribute to the courage, the
+patience, the dauntless spirit of the people on the roads. They all agree that
+the peasant refugee preserves under a terrible ordeal his characteristic faith
+in himself and his country. The peasant is France, steady, tough, independent
+and brave… Nobody who knows the grass roots of France can doubt that even under
+Nazi occupation the Republic will survive, will be reincarnated, may in the
+long run be the force which will help to fashion the Fourth Republic."
 
-mental- interference or protection .
-.
-The whole system we call capitalism, or free enterprise ,
-rests on the idea. of laissez-faire .
+<div id="34"><em>34. "What did these frogs ever contribute to the world anyway?"</em></div>
 
-33
+Apart from the fact that the basic conceptions of freedom, liberty, human
+rights, and government by the people received their greatest impetus from the
+French writers and thinkers of the period called the Enlightenment, "these
+frogs" have made contributions to history, literature, science, art, philosophy
+and political ideas which make one of the proudest and most briiliant records
+in the civilization of mankind.
 
-T e french haau no /tits ; t! [Yfsdecadlest, "
-E
+The record of France can stand beside that of any other nation in the world,
+and in many fields stands well above any other nation. Here are some of the
+French names which any literate person regards with respect:
 
-From the editorial columns of the Xeu . Yorl Times at.
-the time France fel l
-The reporters of the exodus of the French pay tribute.
-to the courage . the patience, the dauntless spirit of the
-people on the roads, They all agree that the peasan t
-refugee preserves under a terrible ordeal his characteristic
-faith in himself and his country . The peasant Is France,
-steady, tough, independent and brave .. . Nobody who
-knows the grass roots of France can doubt that even unde r
-lazi occupation the Republic will survive, will be reincarnated, may in the long run be the force which will help
-to fashion the Fourth Republic . "
+TODO format table/columns
 
-34
 
-r hat did these frogs ever contribute to the 'world
-t• cry P
+_Writers_
 
-"
+Villon          Flaubert
+Rabelais        Zola
+Corneille       Maupassant
+La Fontaine     Anatole France
+Molière         Daudet
+Racine          Raomain Rolland
+Voltaire        Rostand
+Rousseau        Jules Verne
+Balzac          Mme de Staël
+Victor Hugo     Stendhal
+Dumas           Gautier
+Georges Sand    Goncourt
+Musset          Lamartine
+Merimée         Sue
+Prévost         Loti
+Ronsard         Mme de Sévigné
+Sardou          Proust
+Le Sage         Jules Romains
+Verlaine        André Malraux
 
-any -
+_Explorers_
 
-Apart from the fact that the basic conceptions of freeliberty, human rights, and government by the people received their greatest impetus from the French writers and thinkers of the period called the Enlightenment ,
-dom,
+Cartier
+Champlain
+La Salle
+Marquette
 
-"these frogs" have made contributions to history, literature, science, art, philosophy and political ideas whic h
-Mahe one of the proudest and most briilia.At records in
-the civilization of mankind .
-The record of France can stand beside that of any othe r
-nation in the world, and in many fields stands u-ell - abov e
-any other nation . Here are some of the. French names .
-which any literate person re-yards with respec t
+_Scientists and Inventors_
 
-T Ale n
-Rabelais
-Corneill e
-La Font ,] m e
-Moliere
-Racin e
-Voltaire
-Roussea u
-Balza c
-Victor Hu o
-Dumas
-Georges San d
-de Masser
+Pascal      Laennec       Toucanta
+Pasteur     Cuvier        Bourdon
+Curie       Levassor      Chardonnet
+Buffon      Braille       Heroult
+Berthelot   Haller        Sauvage
+Ampère      Lavoisier     Sauria
+Daguerre    Montgolfier   Le Blane
 
-Merrmee
-Prevost
-Ronsar d
-Sarc .ou
+_Musicians_
 
-Flauber t
-Zol a
-de Maupassan t
-Anatole Franc e
-Daude t
-P amour Rollan d
-Rostan d
-Jules Vern e
-Mane de Stae l
-Stendhal
-Gautie r
-de Goncourt
-La marlin e
-Sue
-Lot i
-Mme de Sevi g ne
-Proust
+Bizet           Favre
+Gounod          Debussy
+Berlioz         Lalo
+Saint Saëns     Ravel
+Massenet
 
-Pascal
-Pasteur
-Curi e
-Bufto n
-Beaethelot .
-Ampere
-Daguerr°e-
+_Painters and Sculptors_
 
-Laen.nec
-Cuvier
-Levasso r
-Braille
-Haller
-Lavoisie r
-Montgoltier
-
-Toucanta .
-Bourdon
-Chardonnet.
-Henault
-Sauvag e
-Sauri a
-Le Blano
-
-Cezann e
-Coro t
-Dega s
-Delaerols
-Davi d
-Dore
-Foram
-CerOmne.
-Houdo n
-.m a res
-Lebru n
+Cézanne          Meissonier
+Corot            Millet
+Degas            Poussin
+Delacroix        Prudhon
+David            Renoir
+Doré             Rodin
+Forain           Rousseau, P. E. T.
+Gérôme           Rouault
+Houdon           Toulouse-Lautrec
+Ingres           Seurat
+Lebrun
 Matisse
 
-1[eissen e r
-Mille t
-Ponssi n
-Prudhon
-Renoi r
-Rodin
-Rousseau, P . E . T.
-P ouaul t
-Touionse-Lautre c
-Seurat
-' The. French do things different than, w e
-what I don ' t bike . "
+_Philosophers_
 
-Chateaubrian d
-Char-m u
-Calvin
-Mont esciule u
-Abelard
-La Btiryei'e
-Diderot
-Condoree t
-Cousin
+Chateaubriand    Descartes
+Charron          Montaigne
+Calvin           Pascal
+Montesquieu      Comte
+Abelard          Bergson
+La Bruyère       Maritain
+Diderot          Poincaré
+Condorcet        Rochefoucauld
+Cousin           Renan
+                 Rousseau
 
-Descartes
-.Mozitaigrie
-Pasca l
-Comt e
-Bergso n
-Naritai n
-Poincar e
-R ochefoucatrlcl
-Ptenan
-Roussea u
+_Historians_
+
+Tocqueville      Thierry
+Guizot           Saint-Simon
+Thiers           Quinet
+Taine
 
 ### B. Customs and Manners
 
