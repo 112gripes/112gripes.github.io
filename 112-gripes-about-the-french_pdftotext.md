@@ -807,158 +807,112 @@ heel of a conqueror for four years, there is an understandable upsurge of
 patriotism — and a desire to celebrate liberation, to honor their martyrs, to
 commemorate their resistance.
 
+<div id="41"><em>41. "At the Folies Bergère or the Casino de Paris, even the usher girls demand tips! What a racket!"</em></div>
+
+It isn't a racket. We don't think that tipping taxi-drivers, waitresses or red
+caps is a "racket".
+
+In some theaters in France, the ushers pay for their job (like our cheek-room
+concessions). In most theaters the ushers get little or no salary and depend
+for their liveliheod on tips. Frenchmen always tip ushers at movie houses,
+theaters, the Opera, symphony halls. The usher who serves a dozen Americans who
+do not tip has lost the money which a dozen Frenchmen would have given her.
+
 ### Cleanliness and sanitation
 
-42
+<div id="42"><em>42. "Why isn't there decent plumbing in French houses? The toilet facilities are disgraceful!"</em></div>
 
-French hollers ,
+They are. What should the French do about it ? It takes money to have decent
+plumbing. That's why so many people in France don't have it. That's why so many
+people in our own United States don't have decent plumbing either.
 
-They are . What should the French do about it ? It,
-takes money to have decent plumbing . That's why s o
-zru ny people in France don't have it . That's wily so marr y
-people iii our own United States don't have decent plumb either .
-The Germans have much better plumbing than the
-French - the Germans could afford it .
-Most French buildings are very old : its harder and more
-expensive to install plumbing in an old house than in '
-new one .
-Incidentally, 9,400,000 homes in the US. do not have
-electricity . 80 of. of the farmhouses do not have bath rooms and running rater . About 3,007,72 homes d o
+The Germans have much better plumbing than the French — the Germans could
+afford it.
+
+Most French buildings are very old: its harder and more expensive to install
+plumbing in an old house than in a new one.
+
+Incidentally, 9,400,000 homes in the U.S. do not have electricity. 80% of the
+farmhouses do not have bathrooms and running water . About 3,607,724 homes do
 not have private flushing toilets.
 
-Al '' At the Polies .13crgere or the Casino de Paris, e'en the
-rtshter- girls demand tips! What a, racket! "
+<div id="43"><em>43. "French cities are filthy."</em></div>
 
-lt. isn 't a racket. We don't think that tipping tax i
-([fivers, waitresses or red caps is a "racket ".
-In some theaters in France, the ushers pay for their jo b
-(Ail>e our cheek-room concessions) . In most theaters the
-ushers get little or no salary and depend for their live
-liheod on tips . Frenchmen always tip ushers at movie
-l.oirses, theaters, the Opera, symphony halls . The ushe r
-wh, serves a dozen Americans who do not tip has lost the
-nioiiey which a dozen Frenchmen would have given ilea' .
+They are certainly dirtier today than they were before the war. The French
+haven't had paint for a long time.
 
-Why isn't there decent plumbing
-toilet facilities are disgraceful I "
+In some cities and districts, the acute shortage of gasoline prevents refuse
+trucks from making daily rounds.
 
-The
+French cities and houses are a great deal older than ours; old cities and old
+houses smell more than new ones.
 
-43
+French public sanitation, health and toilet regulations are certainly not on
+the same level as ours.
 
-"re
+But before the war, the French washed their streets and sidewalks more often
+than we do. France does not have the untidy back yards, the trash dumps in
+empty lots, the tin cans and refuse in public parks that are common in the
+United States.
 
-r€:axclr,
+French women were always scrupulous house-keepers. But few of us ever got in
+to see French home.
 
-cities are filtlry.
+<div id="44"><em>44. "The French are unsanitary."</em></div>
 
-They are certainly dirtier today than they were before
-the war . The French haven't had paint for a long time .
-In some cities and districts, the acute shortage o f
-gasoline prevents refuse trucks from making daily rounds .
+The French have a lower living standard than we in the United States. (So do
+the Poles, the Russians, the Greeks, the Yugoslavs, the Chinese, the Mexicans,
+the Hindus, the Turks, and most of the other peoples of the world.)
 
-French cities and houses are a• great deal older tha n
-ours ; old cities axed old houses smell more than ne w
-ones .
-French public sanitation, health and toilet regulation s
-are certainly not on the same level as ours .
-But before the war . the French washed their streets and
-sidewalks more often than we do . France does not hav e
-the untidy back yards . the trash dumps in empty lots ,
-the tin cans and refuse in public parks that are commo n
-in the - nited States .
-French j omen were always scrupulous house-keepers .
-But few of us eves- got . rn to see French honie .
-44
+Sanitary standards rise as the standard of living rises. France is not as
+prosperous as we are. It is not cheap to install modern plumbing.
 
-..
-L
 
-Je
+<div id="45"><em>45. "The French don't bathe."</em></div>
 
-french are uns.a tory, ''
+The French don't bathe often enough. They can't. They don't have real soap.
+They have had no soap worthy of the name since 1940. The Germans took the soap,
+for four years. That's a long time.
 
-The .. French have a lower living standard than, we i n
-tho i nited States, (So do the Poles, the Russians, . th e
-Greeks, the Yugoslavs . the Chinese, the Mexicans, the
-Hindus . the Turks . and most of the other peoples of the
-world . )
-Sanitary standards rise as the standard of living rises .
-France is not as prosperous as . we are . It is not chea p
-to install modern ph .uzaoing .
-45
+The ration for Frenchman today, four months after the war is over, is two cakes
+of poor ersatz soap per month — 20 grams every two months. Most real soap can
+only be obtained on the black market, where it costs around 125 francs for
+310 grams.
 
-The French don't bathe . "
+<div id="46"><em>46. "You ride on the subway and the smell almost knocks you out, Garlic, sweat — and perfume!"</em></div>
 
-The French don't bathe often enough . They can't .
-36
+French subways today are overcrowded, hot, untidy, and smell bad. The subways
+are carrying all the traffic too that used to be carried on buses.
 
-They don't, have real soap . They have had no soap worth y
-of the name since 1940 . The Germans took the seal) ,
-for four years . That 's a-long time .
-The ration for Frenchman today . four months after the
-war is over, is two cakes of poor ersatz soap per month - 20 grams every two months . Most real soap can onl y
-be obtained on the black market, where it costs aroun d
-125 francs for 31+) grams .
+You smell garlic because the French, who are superb cooks, use more of it than
+we do.
 
-46
+You smell sweat because the French must use a very poor ersatz soap — and don't
+get enough of that.
 
-" You. r2.dc'
+You smell perfume because French women would rather smell of perfume than of an
+unwashedness which they dislike as much as you do. When you have no soap,
+perfume comes in mighty handy. In the eighteenth and nineteenth centuries, in
+the United States as in other countries, perfumes and _eau de cologne_ were
+used to give a pleasant scent where an unpleasant one might otherwise be.
 
-'
-and the 8a I'll
-€hc s? ; tway
+Incidentally, the Chinese will confess to you, if you're a friend, that the
+scent of white people, no matter how well scrubbed they are, is unpleasant to
+the Chinese. Body odor is closely related to diet. Change the food people eat
+and you change the way they smell.
 
-out, Garlic, .sweat- and perrz:me
+<div id="47"><em>47. "The French villages are pig-sties. They pile their manure right in front of the houses or in the courtyards."</em></div>
 
-almost knocks. you
+Some French villages are pig-sties. Others are not. They do, on the whole,
+_look_ much dirtier than our small towns; they are a lot older, too.
 
-1"
+The malodorous custom of piling manure in courtyards or in front of houses is
+practiced in many villages throughout Europe, including many German villages in
+south and central Germany (for example, Geislingen, Walldorff, etc.).
 
-French subways today are overcrowded, not, untidy ,
-and smell had . The subways are ca.rrymg all the traffi c
-too that used to be carried V on buses .
-You smell garlic because the French . who are super b
-cooks . use more of it than we do .
-You smell sweat because the French must use a ver y
-poor ersatz soap - and don 't get enough of that .
-You smell perfume because French women would rathe r
-smell of perfume than of an unwashedness-which the y
-dislike as much as you do . When you have no soap ,
-perfume comes in mighty handy . In the eighteenth and
-nineteenth centuries, in the United_ States as in other
-countries, perfumes and eau de cologne were used to giv e
-a pleasant scent. where an unpleasant one might otherwise
+<div id="48"><em>48. "I'd like the French a lot better if they were cleaner."</em></div>
 
-Incidentally, the Chinese will confess to you, if you'r e
-a friend, that the scent of white people, no matter ho w
-well scrubbed they are, is unpleasant to the Chinese .
-Body odor is closely related to diet . Change the food
-people eat and you change the way they smell .
-47
-
-."
-
-ii.e Preheh vilideies are .
-rag-,sties
-To i pile thei r
-Yr at2 rl 1e right in front of the
-hoc yes or in the eoait-yards . "
-1
-
-Some French villages are pig-sties . Others are not .
-They do, on the whole . loot' much dirtier than our smal l
-towns ; they are a Iot older . too .
-The malodorous custom of piling manure in court yards or in front of houses is practiced in many village s
-throughout Europe, including many German villages i n
-south and central Garman- (for example, Geislingen ,
-Waadorff, etc .) .
-
-48
-
-"I'd like the, French- a lot better if they were cleaner . "
-
-That's perfectly understandable .
+That's perfectly understandable.
 
 ### Work and Laziness
 
