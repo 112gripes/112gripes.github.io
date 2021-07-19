@@ -916,103 +916,97 @@ That's perfectly understandable.
 
 ### Work and Laziness
 
-49
+<div id="49"><em>49. "Why do they knock off work for two to three hours every day?"</em></div>
 
-"Why do they knock! of tcoric for two to three home ever y
-day
+They keep their stores open two to three hours later than we do. (They did when
+there were things to sell; there's no point in keeping a store open if the
+shelves are bare.)
 
-They keep their stores open two to three hours late r
-than we do . (They did when there were things to sell ;
-there's no point in keeping a store open if the shelves ar e
-bate. )
-The long lunch hour is a custom which is not confine d
-to France . It is found in It-aly= , Spain, the Balkans and
-many parts of Germany . It is a custom we find annoyin g
-because it interferes with our comfort (as tourists) and
-because it differs from our way of doing things .
-The average Frenchman maintains that a lunch eate n
-at leisure is a lot better than a chicken-salad-on-toas t
-gobbled down at a drugstore counter . "‘I e take time t o
-live as well as work, " one Frenchman said .
-The,shortage of food, the high cost of restaurant meals ,
-and the fact . that only a few factories run messes make s
-it necessary for the average Frenchman today to go hom e
-for his lunch .
-'50 " The French spend all their three at_ these sates . They
-i fist sit around drinking instead of work .ting . "
+The long lunch hour is a custom which is not confined to France. It is found in
+Italy, Spain, the Balkans and many parts of Germany. It is a custom we find
+annoying because it interferes with our comfort (as tourists) and because it
+differs from our way of doing things.
 
-The same people don't sit at the cafes all day . Watch
-them come and go . They worked before they sat clow n
-and they gy to wail. after they leave . Many business
-negotiations are carried on at a cafe ; and many busines s
-deals are concluded there .
-We Americans don't approve of the cafe custom . We
-don't approve of a . leisurely lunch tour, All this mean s
-is that the French custom is different from ours .
-The cafe is something we just don't have in the States .
-It isn't a . bar. It isn't• a saloon . Its more like a club .
-It's the place a man can get away from a erorcded home .
-It's the place he call meet his friends . Its the place a
-man tames his girl or wife and family -- to have coffee
-(when they used to have coffee! . beer, wine to read the
-papers . play checkers . write letters. To the French ,
-the cafe is a place to relax . not a place to get drunk .
-"Cafe", by the we, means coffee . Before the wa r
-most of the drinking at the cafes was coffee thinking .
-There is no coffee now . Blame the Germans for that ,
+The average Frenchman maintains that a lunch eaten at leisure is a lot better
+than a chicken-salad-on-toast gobbled down at a drugstore counter. "We take
+time to live as well as work," one Frenchman said.
 
-of an average American worker . France has far less Industrialization, mechanization . and labor-saving devices tha n
-we do . That is also true of nearly all other nations in the
-world.
-The French claim they get . more out of life than we do .
-They say they have better music, art, poetry, philosophy ,
-literature . They say they take time to enjoy living .
-They say they do not kill themselves iii the endless pursui t
-of money-.
-52
+The shortage of food, the high cost of restaurant meals, and the fact that only
+a few factories run messes makes it necessary for the average Frenchman today
+to go _home_ for his lunch.
 
-It 'epends on where you drive and where you look .
-Incidentally, where did you get the gas and time t o
-drive all through Paris "
+<div id="50"><em>50. "The French spend all their time at these cafés. They just sit around drinking instead of working."</em></div>
 
-:1
+The same people don't sit at the cafés all day. Watch them come and go. They
+worked before they sat down and they go to work after they leave. Many business
+negotiations are carried on at a café; and many business deals are concluded
+there.
 
-wear woode n
+We Americans don't approve of the café custom. We don't approve of a leisurely
+lunch hour. All this means is that the French custom is different from ours.
 
-"They .aai 'e lazy . "
+The café is something we just don't have in the States. It isn't a bar. It
+isn't a saloon. It's more like a club. It's the place a man can get away from a
+crowded home. It's the place he can meet his friends. It's the place a man
+takes his girl or wife and family — to have coffee (when they used to have
+coffee), beer, wine; to read the papers, play checkers, write letters. To the
+French, the café is a place to relax, not a place to get drunk.
 
-"They're pn's2it ve . Freheh tarmu's
-shoes . "
+"Café", by the way, means coffee. Before the war most of the drinking at the
+cafés was coffee drinking. There is no coffee now. Blame the Germans for that.
 
-Some are some are not . - o one works longer hours ,
-works harder or is more thrifty than the French farmer .
-On the whole, the French take life and work at a more
-leisurely, unhurried pace than we do . On the whole
-the output of an average French worker is less than tha t
+<div id="51"><em>51. "They are lazy."</em></div>
 
-The French farmer is more sensible than you think .
-The French farmer wears wooden shoes because the y
-insulate his feet against mud and damp much better than.
-leather can .
-France does not have the very hot summer days and
-nights we get in the Middle West . ' The landscape of
+Some are; some are not. No one works longer hours, works harder or is more
+thrifty than the French farmer.
 
-53
-51
+On the whole, the French take life and work at a more leisurely, unhurried pace
+than we do. On the whole, the output of an average French worker is less than
+that of an average American worker. France has far less industrialization,
+mechanization, and labor-saving devices than we do. That is also true of nearly
+all other nations in the world.
 
-" Yon can . rdin's all i1uon.j)), Paris a?td aasic'r' see cralcu- e
-uorhtiuj . '
+The French claim they get more out of life than we do. They say they have
+better music, art, poetry, philosophy, literature. They say they take time to
+enjoy living. They say they do not kill themselves in the endless pursuit of
+money.
 
-40
+<div id="52"><em>52. "You can drive all through Paris and never see anyone working."</em></div>
 
-41
+It depends on where you drive and where you look.
 
-France is not deforested because for centuries the Frenc h
-have been careful to re-plant the trees they' ve cut down .
-And so the rivers of France run deep all year round, and
-the French soil is cool and moist, and wooden shoes com e
-in mighty handy . The Frencilfarmer finds them mor e
-practical than leather-shoes .
+Incidentally, where did you get the gas and time to drive "all through Paris"?
+
+<div id="53"><em>53. "They're primitive. French farmers still wear wooden shoes."</em></div>
+
+The French farmer is more sensible than you think. The French farmer wears
+wooden shoes because they insulate his feet against mud and damp much better
+than leather can.
+
+France does not have the very hot summer days and nights we get in the Middle
+West. The landscape of France is not deforested because for centuries the
+French have been careful to re-plant the trees they've cut down. And so the
+rivers of France run deep all year round, and the French soil is cool and
+moist, and wooden shoes come in mighty handy. The French farmer finds them more
+practical than leather-shoes.
+
+<div id="54"><em>54. "Why don't the French work their fields? You see farm after farm without anyone working. The French are lazy."</em></div>
+
+There were, until very recently, 2,230,000 Frenchmen _in Germany_ as PWs, slave
+labor, deportees.
+
+After World War I, the young people of France streamed from the farms to the
+cities. In 1930, whole villages in some areas of France were deserted. Farm
+legislation made an effort to check the flow of population from the country to
+the cities, but it was not very effective.
+
+It is, however, wrong to deduce from this that the French are "lazy". The
+French farmer has always been regarded as one of the most industrious and
+thrifty in the world.
+
+Perhaps another reason that more Frenchmen are not in the fields is that French
+people have been killed by mines laid by the Germans. In one month this year
+150 were killed or maimed in this manner.
 
 ### Moral
 
@@ -1025,25 +1019,6 @@ It i,s as foolish to generalize about French-women fro
 the few any American has met as it would be to generaliz e
 about all American women from the few a man migh t
 pick up near an rmy- camp .
-
-54' . .' Ti' hp don't .the French. wo ii, Thed' /Fells . ? Yov_. .Se e
-fceiin after . - Ruin without anyone woi'f'tng . 'he Frenc h
-are lazy .
-
-There were, until very recently, 2,230,000 Frenchmen
-in Oetnaar as PM', slave la bor . deportees .
-After World War I . the young people of France streame d
-from the farms to the cities . In 1930, whole villages in
-some areas of Trance were deserted . Farm legislatio n
-made an effort to cheek the flow of population from the
-country to the cities . but it was not vein- effective .
-It is, how-ever, wrong to deduce from this that the French ,
-are "lazy" . Tile French farmer has always been regarde d
-as one of the most industrious and thrifty in the world .
-Perhaps another reason that more Frenchmen are no t
-in the fields is that French people have been hided b y
-mines _ laid by thE . Germans . In one month this yea r
-130 were billed or maimed in this manner .
 
 ;,:'OM(..- 12
 
