@@ -738,113 +738,78 @@ Taine
 
 ### B. Customs and Manners
 
-It is always something of a shock when you ran int o
-different ways of talking, eating, doing things . But what
-is different is not always inferior . "different " does not ,
-mean "worse" . There is more than one way of skinnin g
-a cat .
-The story is told of an American soldier who saw som e
-Chinese putting rice on the graves in a Chungking cemetery . That doesn't make sense", said the American wit h
-a smile . "When do you expect the dead to eat the ric e
-"When your dead return to smell your flowers", wa s
-the answer .
+<div id="35"><em>35. "The French do things different than we do. That's what I don't like."</em></div>
 
-36
+It is always something of a shock when you ran into different ways of talking,
+eating, doing things. But what is different is not always inferior; "different"
+does not mean "worse". There is more than one way of skinning a cat.
 
-as the average American . The average Frenchman_hada lot less money than the average American .
+The story is told of an American soldier who saw some Chinese putting rice on
+the graves in a Chungking cemetery. "That doesn't make sense", said the
+American with a smile. "When do you expect the dead to eat the rice?"
 
-A11 the French do is talk .
+"When your dead return to smell your flowers", was the answer.
 
-No nation could exist for a week if all it did was talk .
-Frenchmen emoy conversation . They consider it an
-art . They , are on the whole . skillful at . it .
-We don't prize "good conversation" as much as the
-French do ,
-it was the brilliance . charm and imagination of Frenc h
-talk that contributed niuich to the reputation of Paris as
-a world center of gaiety .
-37
+<div id="36"><em>36. "All the French do is talk."</em></div>
 
-never heard people gab so
+No nation could exist for a week if all it did was talk.
 
-iii-rJ.CiL,
+Frenchmen enjoy conversation. They consider it an art. They are on the whole,
+skillful at it.
 
-(ACC-U,
+We don't prize "good conversation" as much as the French do.
 
-39
+It was the brilliance, charm and imagination of French talk that contributed
+much to the reputation of Paris as a world center of gaiety.
 
-"
+<div id="37"><em>37. "I never heard people gab so much. Gab, gab, gab."</em></div>
 
-TA
+If you understood the. language it might be interesting and not just "gab".
 
-Because they are wearing pre-war clothes -clothe s
-that are five and six years old . New cloths axe for the
-most part reserved for repatriated French PWs and
-deportees .
-The average Frenchman haver looked as well dresse d
-,32
+An American writer, Ambrose Bierce, said, "A bore is a person who talks — when
+you want him to listen."
 
-the
+<div id="38"><em>38. "Why do Frenchmen look so shabby?"</em></div>
 
-rich or "touristy " neighborhoods of any big America n
-city -- Fifth Avenue, idichigan Boulevard, Wilshire Boulevard, It is on the Champs Elysees, around l'Opera and .
-on the Boulevard Haussrnan that . you see those Frenchme n
-who are well-dressed . It is there, too, that you see thos e
-who profit from the inflation and the black market .
-Some of the Frenchmen who look so well dressed ar e
-well dressed only in the . places you see . Under a goo d
-collar and cu$s, there may be the oldest, most patched-u p
-shirt you ever saw . Socks are made of pieces of ol d
-cloth . Underwear is made of anything a person can la y
-his hands on.
+Because they are wearing pre-war clothes — clothes that are five and six years
+old. New clothes are for the most part reserved for repatriated French PWs and
+deportees.
 
-gab, gab . "
+The average Frenchman haver looked as well dressed as the average American.
+The average Frenchman had a lot less money than the average American.
 
-iqj do Fi'encknteit look so 8iza5b y
+<div id="39"><em>39. "What amazes me is how, with all their stories about suffering, you see so many well-dressed Frenchmen."</em></div>
 
-/wit amazes mm is how . ah-th all their stoises about
-7 F"rETtcl1'iit-Gm . "
-y0ca uu" ee cD ittCtrcy well-do
+The places we frequent in Paris are comparable to the rich or "touristy"
+neighborhoods of any big American city — Fifth Avenue, Michigan Boulevard,
+Wilshire Boulevard. It is on the Champs Elysees, around l'Opéra and on the
+Boulevard Haussman that you see _those_ Frenchmen who are well-dressed. It is
+there, too, that you see those who profit from the inflation and the black
+market.
 
-The places we frequent in Paris are comparable to
+Some of the Frenchmen who look so well dressed are well dressed only in the
+places you see. Under a good collar and cuffs, there may be the oldest, most
+patched-up shirt you ever saw. Socks are made of pieces of old cloth. Underwear
+is made of anything a person can lay his hands on.
 
-If you understood the . language it might be interestin g
-and not just "gale '
-An . American writer, Ambrose Bierce, said . "A bore i s
-a person who talks - when you want him to listen ."
-38
+<div id="40"><em>40. "Why do the French parade all the the time? Take the Champs Élysées, for example; every time you turn around there is a parade."</em></div>
 
-"TV
+They don't parade all the time. They do parade more than we do. They have more
+holidays. They have had a much longer and more complicated history. Since 1789,
+France has had two empires, two monarchies, and three republics.
 
-40
+In France, as in America, there are a great many organizations (like our
+American Legion, VFWs, Masons, Odd Fellows, etc.) which hold annual meetings
+or conventions or parades.
 
-do the French parade all the the time ? Tak e
-the Champs Elysees . tor example ; .every time, yoia tur n
-around there is a. 1)Eaaude . 't
-"Why
-
-They don ' t parade all the time . They do parad e
-more than \ e do . They have more holidays . They have
-33
-
-I
-
-frail' a much longer and more complicated history, Sinc e
-1769, France has had two empires, two monarchies, and
-three republics .
-In France, as in America, there are a great many organizations (like our American Legion, VF Ws, Masons ,
-tsdcl Fellows, etc .) which hold annual meetings or conventions or parades .
-In France, as in any counti],v which has been liberate d
-titter being under the heel of a conqueror for four years ,
-there is an understandable upsurge of patriotism =. and
-It desire to celebrate liberation, to honor theirmartyr s
-to commemorate their resistance .
+In France, as in any country which has been liberated after being under the
+heel of a conqueror for four years, there is an understandable upsurge of
+patriotism — and a desire to celebrate liberation, to honor their martyrs, to
+commemorate their resistance.
 
 ### Cleanliness and sanitation
 
 42
-
-211
 
 French hollers ,
 
