@@ -1010,172 +1010,117 @@ people have been killed by mines laid by the Germans. In one month this year
 
 ### Moral
 
-55 - F2e.,rZ ab are ea sy plait-ups . "
+<div id="55"><em>55. "French women are easy pick-ups."</em></div>
 
-The French women who are easy pick-ups ,are those
-who are easily picked up .
-m
-It i,s as foolish to generalize about French-women fro
-the few any American has met as it would be to generaliz e
-about all American women from the few a man migh t
-pick up near an rmy- camp .
+The French women who are easy pick-ups, are those who are easily picked up.
 
-;,:'OM(..- 12
+It is as foolish to generalize about French women from the few any American has
+met as it would be to generalize about _all_ American women from the few a man
+might pick up near an Army camp.
 
-" Fiench- wo'mecc
+<div id="56"><em>56. "French women are immoral."</em></div>
 
-Cn' .ii'ri9ri .oi'
+Which French women?
 
-1.
+Most French girls before the war had far less freedom than our girls back home.
+A great many were not permitted to go out without a chaperone. France is
+dominantly Catholic in religion and in morals.
 
-Which FrenelY women ?
-Most French girls before the war had far less freedom .
-than our girls back home . A great many'-were not.,permitted to 'go . out without a chaperone . . France is dominantl y
-.
-Catholic in religion and in morals, The immoral Frenchwomen are, . of course, . the ea s ies t
-woie1i. for us to Meet . That's why we -meet so many o f
-.
-them .
-57
+The immoral Frenchwomen are, of course, the easiest women for us to meet.
+That's why we meet so many of them.
 
-r'enrh themselves feel . abort all the street"How'do the
-°calkers ? How cars they close their eyes to all the imnw 'ality ?"
+<div id="57"><em>57. "How do the French themselves feel about all the streetwalkers? How can they close their eyes to all the immorality?"</em></div>
 
-They don't close their eyes to it . That's the first difference between French and American attitudes towar d
-;prostitution . The French recognize that prostitutio n
-es sts, and regulate it . Before the war, all prostitute s
-were ie inected regularly . licensed, and had their activitie s
-strictly limited to specific areas . The French think tha t
-legalized prostitiuon g ives health protection to the genera l
-public and that the restriction of prostitution to known
-areas protects decent women from being molested .
-Today there is undoubtedly an abnormal . number of
-prostitutes in France . 71ai.ay girls who cannot Iive o n
-their wages take to the street . Thousands of Frenc h
-women have lost their sweethearts, husbands, homes .
-The same thing is happening all over Europe, It i s
-another of the appalling consequences of the war German y
-started .
-A Frenchmen who took a walk in Paris : recently, said to
-an American friend, "In forty years of living in Paris ,
-T have never teen so many prostitutes
-And in respectable
-neighborhoods
-It's disgracefu l
-The French, by the way , are snacked by the rude way
-iu which CPIs talk to a woman, and by the number o f
-unpleasant experiences decent French . women have had
-with intoxicated and amorous American soldier s
-5$
+They don't close their eyes to it. That's the first difference between French
+and American attitudes toward prostitution. The French recognize that
+prostitution exists, and regulate it. Before the war, all prostitutes were
+inspected regularly, licensed, and had their activities strictly limited to
+specific areas. The French think that legalized prostitiuon gives health
+protection to the general public and that the restriction of prostitution to
+known areas protects decent women from being molested.
 
-Rene/ women. are too demo (ii
+Today there is undoubtedly an abnormal number of prostitutes in France. Many
+girls who cannot live on their wages take to the street. Thousands of French
+women have lost their sweethearts, husbands, homes. The same thing is happening
+all over Europe. It is another of the appalling consequences of the war Germany
+started.
 
-.epsasi >
+A Frenchmen who took a walk in Paris, recently, said to an American friend,
+"In forty years of living in Paris, I have never seen so many prostitutes! And
+in respectable neighborhoods! It's disgraceful."
 
-Prices are made by demand and supply . If there weren' t
-44
+The French, by the way, are shocked by the rude way in which GIs talk to a
+woman, and by the number of unpleasant experiences decent French women have had
+with intoxicated and amorous American soldiers.
 
-so many men after the same commodity, prices woul d
-come down .
-Tf you want to see-how much it costs a French woma n
-to live, see question S0 .
-- .59
+<div id="58"><em>58. "French women are too damned expensive."</em></div>
 
-" The French drink too mnth . "
-The Fr ench think we do. You very rarely see a Frenchman drunk. They don't go in for whiskey . They hav e
-never liked cocktails . They are a wine-drinking people
-they have a . right to be - French grapes and wines ar e
-among the beet in the world .
-In 1942, .41,130,000 ; 000 was spent in the L .S . in retail_
-liquor establishments . In 1939, there were 135 .034 drank
-ing places, doing an annual business of 81,385,032,000 .
-The Economic Almanac of 1941.-45 states that in 1937 ,
-5,1 O/ of our per capita outlay was spent on alcoholic
-beverages .
+Prices are made by demand and supply. If there weren't so many men after the
+same commodity, prices would come down.
 
-60
+If you want to see how much it costs a French woman to live, see
+[question § 86](#86).
 
-"Every time a Track
 
-girl sit
+<div id="59"><em>59. "The French drink too much"</em></div>
 
-down site
+The French think we do. You very rarely see a Frenchman drunk. They don't go in
+for whiskey. They have never liked cocktails. They are a wine-drinking people:
+they have a right to be — French grapes and wines are among the best in the
+world.
 
-mills ibex
+In 1942, $1,130,000,000 was spent in the U.S. in retail liquor establishments.
+In 1939, there were 135,934 drinking places doing an annual business of
+$1,385,032,000. The _Economic Almanac_ of 1944-45 states that in 1937, 5,1% of
+our per capita outlay was spent on alcoholic beverages.
 
-dress oe skirt up . "
+<div id="60"><em>60. "Every time a French girl sits down, she pulls her dress or skirt up."</em></div>
 
-She isn't trying to call your attention to her legs . She
-w
-is trying to save wear and tear on old clothes . or on ne y
-clothes which are made of such shoddy material that the
-won't take much wear .
-45
+She isn't trying to call your attention to her legs. She is trying to save wear
+and tear on old clothes, or on new clothes which are made of such shoddy
+material that they won't take much wear.
 
-61 " The French are immoral . They arc morally
+<div id="61"><em>61. "The French are immoral. They are morally decayed."</em></div>
 
-that mankind will be in its debt forever . : . When free
-men look back upon this Republic . they will remember . . .
-the artists and thinkers, the poets, musicians, and scientist s
-who made France a temple of the Western spirit ." (Yea;
+That is a very broad and vague statement. How can it be proved?
 
-decaled. "
+The French, like many other European peoples, are far less Puritanical than we
+are in their manner, love-making, conversation and conduct. Europeans often say
+we Americans are a young and "unsophisticated" nation; we retort that they are
+old and "immoral". Their morality _differs_ from ours on certain matters.
+Whether it is less "moral" or more "uninhibited" depends on your point of view.
 
-u
-That is a very broad and vague statement . How ca n
-it be proved i
-The• French, like many other European peoples, are fa r
-less Puritanical than e are in their manner, love-making ,
-conversation and conduct . Europeans often say w e
-Americans are a young and "unsophisticated" nation ;
-we retort that they are old and "immoral'"Their moralit y
-eli f w-;s from ours on certain matters . Whether it is less
-"moral " or more "uninhibited" depends on your point
-of view .
-Don't fudge France by the Montmartre . ' the Montmartre
-catei:s to foreign tourists in search of the risque .
-France is a very devout 'nation . It has a religious
-Catholic population (only one million Frenchmen ,ar e
-Protestants) . The French have a very strong fai-nil y
-system, a- rely low divorce rate, and a mach lower crim e
-rate than we do .
-From the American point of view, what is mor e
-important than anyones manners or customs are the thing s
-he believes in and fights for . In this sense, we agre e
-with theidea of Thomas Jefferson : "Resistance to tyrant s
-is obedience to Cod ."
-For over 000 years France has 1been one of the grea t
-civilizations of the world . "Within the framework o f
-the Third Republic, . .there lived and flourished a civilization so brilliant, so human, so g racious and beautiful,
+Don't judge France by the Montmartre; the Montmartre _caters_ to foreign
+tourists in search of the risque.
 
-York Taanes . )
+France is a very devout nation. It has a religious Catholic population (only
+one million Frenchmen are Protestants). The French have a very strong family
+system, a very low divorce rate, and a much lower crime rate than we do.
 
-62
+From the American point of view, what is more important than anyone's manners
+or customs are the things he believes in and fights for. In this sense, we
+agree with the idea of Thomas Jefferson: "Resistance to tyrants is obedience to
+God."
 
-.
-" They Liss rzqh-t in Oefopen - - in the, .Str'Cets,
+For over 000 years France has been one of the great civilizations of the world.
+"Within the framework of the Third Republic… there lived and flourished a
+civilization so brilliant, so human, so gracious and beautiful, that mankind
+will be in its debt forever… When free men look back upon this Republic, they
+will remember… the artists and thinkers, the poets, musicians, and scientists
+who made France a temple of the Western spirit." (_New York Times_)
 
-This always startles Americans - at first .
-Kissing on both cheeks is the traditional French greetin g
-between old friends .
-For their' love-ma-lun g . the French prefer privacy, i f
-available ---- just as we do .
+<div id="62"><em>62. "They kiss right in the open — in the streets."</em></div>
 
-63
+This always startles Americans — at first.
 
-v oic eon lhwi pot -op with the ensto7n of haeozg wome n
-attendant's In the men ._ room s
-Because it is an old custom and it does not. embarras s
-d
-there . - Tf you lived in France-=long enough, it woul
-probably cease embarrassing you.
+Kissing on both cheeks is the traditional French greeting between old friends.
 
-foreigner in Paris, like a foreigner in New York, might
-ell feel like the farmer who spent most of his vacatio n
-in a big city jumping out of the way of ears, "Lham thes e
-furriners '. ' ' he cried : Then° even put spot-lights on their
-Ni
+For their love-making, the French prefer privacy, if available — just as we do.
 
+<div id="63"><em>63. "How can they put up with the custom of having women attendants in the men's rooms?"</em></div>
+
+Because it is an old custom and it does not embarrass _them_. If you lived in
+France long enough, it would probably cease embarrassing you.
 
 ### Automobiles and locomotives
 
@@ -1192,6 +1137,12 @@ drivers are distinguished for their caution or their regar d
 for pedestrians. French drivers are as terrified of ou r
 driving as we are indignant about theirs ,
 65
+
+foreigner in Paris, like a foreigner in New York, might
+ell feel like the farmer who spent most of his vacatio n
+in a big city jumping out of the way of ears, "Lham thes e
+furriners '. ' ' he cried : Then° even put spot-lights on their
+Ni
 
 The French. can't rlrzvn ,c? r_crr
 They 'vin vehicles . "
