@@ -1124,97 +1124,64 @@ France long enough, it would probably cease embarrassing you.
 
 ### Automobiles and locomotives
 
-64 TVhy clothe French dive so g-ci- fast?"
+<div id="64"><em>64. "Why do the French drive so g-d fast?"</em></div>
 
-automobiles so's they can find the pedestrians to ando n.
-at night' "
+The French ask the same question about the Americans. French traffic has
+speeded up with the introduction of thousands of American jeeps, command cars,
+and trucks. It is not generally believed that American jeep and truck drivers
+are distinguished for their caution or their regard for pedestrians. French
+drivers are as terrified of our driving as we are indignant about theirs.
 
-The French ask the same question about the American s
-French traffic has speeded up with the introduction o f
-thousands of American jeeps, command ears, and trucks .
-It is not generally believed that American jeep and truc k
-drivers are distinguished for their caution or their regar d
-for pedestrians. French drivers are as terrified of ou r
-driving as we are indignant about theirs ,
-65
+<div id="65"><em>65. "The French drive like lunatics! They don't obey traffic rules; they don't even use common sense."</em></div>
 
-foreigner in Paris, like a foreigner in New York, might
-ell feel like the farmer who spent most of his vacatio n
-in a big city jumping out of the way of ears, "Lham thes e
-furriners '. ' ' he cried : Then° even put spot-lights on their
-Ni
+Most Frenchmen are probably not as skillful drivers as most Americans.
 
-The French. can't rlrzvn ,c? r_crr
-They 'vin vehicles . "
+Their traffic rules and system are inferior to ours.
 
-The French, on the whole . certainly do not chive as well,
-keep a car up as well, or protect their vehicles weil a s
-we do. Neither do women . compared to men .
-We have had more mechanical training, more technica l
-experience . And at the present time we ha,Ye incAgnpa rahi better maintenance facilities .
+But foreigners who drive in America are astonished by the speed, daring and
+recklessness of American driving.
 
-"The French. d, ire h: .e ionu tics! They don't obey tic')
-rules ; they dcc ' t area ase common sense .
+The statistics on automobile accidents and deaths in the United States are
+nothing for us to be proud of. Even allowing for the greater amount of cars we
+have and the greater amount of driving we do, our automobile accident rate is
+the highest in the world.
 
-Most Frenchmen are probably not as skillful driver s
-as most Americans .
-Their traffic rules and system are inferior to ours .
-But foreigners who drive in America are astonishe d
-by the speed . daring and recklessness of American driving .
-The statistics on automobile accidents and deaths i n
-the United States are nothing for us to be proud of. Even
-allowmg for the greater amount of cars we have and the
-greater amount of driving we do, our automobile accident
-world -
+A foreigner in Paris, like a foreigner in New York, might well feel like the
+farmer who spent most of his vacation in a big city jumping out of the way of
+ears. "Darn these furriners!" he cried. "They even put spot-lights on their
+automobiles so's they can find the pedestrians to run down at night!"
 
-They can ' t heap at 0.
+<div id="66"><em>66. "The French can't drive a car. They can't keep it up. They ruin vehicles."</em></div>
 
-67
+The French, on the whole, certainly do not drive as well, keep a car up as
+well, or protect their vehicles as well as we do. Neither do women, compared to
+men.
 
-" French. rc ilroads are a
-terrible . "
+We have had more mechanical training, more technical experience. And at the
+present time we have incomparably better maintenance facilities.
 
-mess,
+<div id="67"><em>67. "French railroads are a mess. Their equipment is terrible."</em></div>
 
-The,,
+They are.
 
-?L2
+The state of the French railroads can be traced to these facts:
 
-re a t
+1. The Nazis took away most of the best French rolling stock.
+2. We shot up a good deal of the French railway system before and after D-Day.
 
-They are .
-.
-The state of t.he. French railroads can be traced to thes e
-facts (1) the Nazis took away most of the best Frenc h
-rolling
-stock : (2) we shot rep a good deal of the Frenc h
-Arateishgn
-railway system before and after D-Day .
+After liberation, the French found only 35% of their locomotives, 37% of their
+freight cars, and 34% of their passenger coaches.
 
-After liberation, the French found only 35 0,' 0 of their
-locomotives, 37 0! 0 of their freight cars, and 34 0,, o of their
-passenger coaches .
-Before the.>,ar France had some of the finest trains in
-the world, and some of the fastest short-distance runs i n
-the world .
-As in all European countries, France had three classes
-of accommodations . Their third-class coaches were les s
-c u uufortaf)le than ours but their first-class accommoc] .ttions were in many respects better than anything we ha d
-in America ,
+Before the war France had some of the finest trains in the world, and some of
+the fastest short-distance runs in the world.
 
-68 "'Ye
+As in all European countries, France had three classes of accommodations. Their
+third-class coaches were less comfortable than ours; but their first-class
+accommodations were in many respects better than anything we had in America.
 
-gim
+<div id="68"><em>68. "We give them lomotives and they don't even run them."</em></div>
 
-U em locamotia es
-
-and they on even ran ,
-
-the7r. . "
-
-Then who -'oes 2 have are running .
-
-The locomotives which the Fi.--reh
+Then who does? The locomotives which the French have _are_ running.
 
 ## the French and the Germans
 
