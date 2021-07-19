@@ -1185,441 +1185,269 @@ Then who does? The locomotives which the French have _are_ running.
 
 ## the French and the Germans
 
-69
-
-'Forsake not an old friend, for the new is not comparabl
-unto him" .
-Eeciesiasticus, IX, 10 -
-
-The French aren ' t our 7:i-ad of people . The Gerunds are .' >
-
-What makes a nation "our kind of people" ? the
-w=-ay they look The clothes they wear ? The kin d
-of plumbing they have ? Or the things they believ e
-in - the things they fight : for ; the things they fight
-against ?
-The French believe that all men are born and create d
-equal . They believe . in freedom of speech, freedom o f
-religion, freedom of the press, the rights of minorities ,
-government of the people, by the people, and for the
-people . What do the Germans believe a n
-The French were our allies during the American Revolution . They were our allies in I917-191S . They were our
-allies in 1941-1945 . What were the German s
-The French proved, by their acts, that they are "ou r
-kind of people " . The Germans proved . by their acts ,
-"than . they are not . oar kind of people" . Look at the
-record . It's a record of facts, not assumptions it's a
-record of deeds . not pretense .
-You can't tell what Germany is really like, because yo u
-are not seeing Germany : you . are seeing a Germany that
-has been beaten, conquered, and occupied . You are
-seeing a Germany that has had the arrogance and insolenc e
-knocked out of her . You can 't tell what "the Germans "
-are really like, because you are seeing Germans who ar e
-being forced to obey themselves - under military govern ment.
-
-e
-
-"The French are not as clean as the Ger mans .
-
-Perhaps not .
-If the Germans had had no soap for five years the y
-wouldn't be a clean as they might like to be .
-A learned man once said, "An untidy friend is bette r
-than an immaculate enemy .
-
-71
-
-th e
-"The Germans are easier to set along with than
-French, because the Germans are loo abiding .
-
-The Germans obey the law --- even if the laws ar ne
-barbaric laws . The Germans obey their leaders -. eve
-if their leaders use savage . corrupt and obscene The;
-Germans obeyed Bismarck they obeyed Kaiser Wilhelm
-.
-they obeyed Hitler .
-Would the French have obeyed such men and suc h
-policies ? Would we American s
-
-72
-
-u
-"The F1each are rot as efficient as the Gerrua-ns i
-large scale, mass production . . ' '
-
-The French are not as efficient as the Germans in build -
-
--
-
-hree ware ! airte d
-Poland and Czechoslovakia iii I939r.
-by the same nation an sevent y years . This is strang e
-conduct for a "peaceful" peop h
-Incidentally, one of the most efteetive prapiigaanil a
-weapons the Nazis used, from 1933 to 1939, and on e
-which pulled the. w..,901 over the eyes of a lot of gullible
-ceeple, n as the constant cry "We Germans want peace .
-V e will ne eta go to war . Our aims in Europe ai r r
-eatjelled . '
-The Jamie said they wanted peace in 1931 --- and the y
-
-ing tanks, guns, PIane,s, flaaral( J-tlhrowcrs, cone€ntratie n
-cams and torture chambers .
-The French are not efficient in starting wars . Th e
-mane are;. German efficiency is used against peaceful,
-dec"azt people.
-\1' hat does "e flciency" really mean Is it only- a
-natter of output and production charts and impressiv e
-statistics ? Arc the Germans more "efficient" in providmg haiiiaines s or peace to their people ? Are t he t !ermans
-more " ellivi ent" in building cis IICy : klrldness, resl)ec t
-fer human life ? Has German "eficicucy" led to greete r
-r, isdom, . better art, deeper morals, finer philosophies z
-A prison is one of the most "efficient" institutions teaaa i
-e ver reaatc c1 - but who wants to Inc in i t
-
-iia, .ic.tc rI Marnclruria . The Germans : said they , wante d
-peace in 193$ -- and they grabbed Austria . Mussolin i
-said Italy wanted peace in l035 and invaded Ethiopia .
-Germany promised the world peace again in 1938, afte r
-
--Cf
-
-e
-
-73
-
-"The-
-
-F1'f'rrf'h,(ry'e ten? IdC. 9i2flkfi'sr
-
-he
-
-the Munich agreement -- and then invaded (r ''ho
-elo vakia, .
-all reminiscent of the story of the two drunks . The
-hr•st, kept; beating his friend on the head with a club ,
-wailing all the while : "You're my pal, my buddy, m y
-best friend, and I love you ." And the second replie d
-tearfully, . "I believe . you but you have such a funn y
-way of showing it .
-
-.Gr=lrrtcr.7Le' led: !'!(f/1g
-
-Who started the afar anyway ? Who still teit th e
-"trouble-making" ?
-The facts prove beyond any shadow of a doubt that th e
-French wanted peace . From 1918 to 1939, they pleade d
-for peace, argued for peace, built for peace . Their arm y
-their equipment, their fortifications, their entire militar y
-strategy was devoted to a war of defense .
-The Germans invaded France in 1870 ; the German s
-invaded'Belgium and France in 1914 ; the Germans invacicil
-
-74
-
-VVt'd be a lot smarter tai . be ctIiirs of the e'er^mans and
-ji 0h t the .h'rench ."
-1 bait in the •orltl would we fight the . Fret eh trboc t
-
-What ideas, principles or goals would we have in commo n
-with the Germans ?
-"What boots it at one gate to make defence . : and a t
-another to let in the foe ?"
-- John Milton
-75
-
-"The
-
-are ."
-
-riench aren.
-
-Ralf
-
-The 'French 'did not have, and could not have had, th er
-military and industrial power tc beat Germany ; (Fo
-iiistanee, for the past hundred years France has not ha d
-enough coal, especially coking coal . to supply her peace 's
-time needs . French iron ore normally flows co Germany s
-Ruhr valley for smelting, just as the ore of Minnesota goe
-to the coal and limestone area of Pittsbur gh. )
-France was beaten by Germany . because Germany wa s
-enormously superior to Fc" nee in manpower, equipment ,
-. Germany had th e
-resat-trees . armament, and strategy
-incalculable advantage of having planned an ofiezisiti°e .
-e
-Blitzkri e . war -- while ranee, which wanted peac y
-desperately, devoted its energies and training entirel
-t
-to detcu e measures . (That why they built the Magino s
-.)
-The
-few
-advocates
-of
-modern
-mechanized
-armie
-Line
-n
-(such as General: de Gaulle) were like voices crying out i "
-.
-and
-"fifth
-column
-the wilderness . German propaganda
-activities financed from Berlin, helped to demoralize and
-confuse a nation that didn't want war in the fast place .
-The French lost 1,115,O00 men and women, militar y
-. That i s
-and civilian . in dead, wounded and , disabled
-.
-(The
-United
-an enormous loss for a nation of 40 million
-.
-up
-to
-V-d
-Day,
-were
-abou t
-States military casualties
-1,060,000 in dead and wounded .
-
-strhYts, the. way the Germans
-
-This is true . Perhaps
-would have been a lot bette r
-for all of us if the Germans weren't so industrious . It
-was German industriousness in six short years, 1933-1939 ,
-that built the most terrible army, air force, tank force ,
-bombs and submarine Warfare the world had ever seen .
-No one ever accused Al Capone of not being industrious .
-it
-
-76
-
-g
-
-si
-
-%e french hass(, no courage . TJ7iy can ' t they defend
-agobust the Geri uasus ? "
-
-theirsseise S
-
-Maybe it. would be better to ask, "Why don't th e
-Germans pick on someone their own size ? "
-Modern warfare is not simply a matter of courage . A
-great lightweight can't lick a great heavyweight - eve n
-if he has courage to spare .
-Hitler threw the manpower and industrial resource s
-of over 80,000 ; 000 Germans against 40,000,000 Frenchmen .
-58
-
-77
-
-':
-French-don' t z_-n
-'The
-against the Cerrtiar is
-
-. g.z rerto torn
-
-tart-e er:e, i_ +-
-
-up
-
-5,9
-
-True. That, in fact, is one of the things the. German s
-counted on in 1870, in 1914 and in 1939.
-France never fully recovered from the results of Worl d
-War L Here is what the French loam from 1914 to 191 8
-Killed or died
-1 .337S0 9
-Wounded
-4,266 .000
-Prisoners and missing
-537,00 0
-
-nearly 2,000 .000 French men in German prison and work
-camps - away from French women . The Gerirsan policy
-of .malnutrition worked so well that in 1945, when th e
-French government was drafting men to re--create a
-.French army, it was found that 40 a !a of all Frenchmen
-called up for physical duty were physically unfit . In
-1942, at the height of German occupation, there wer e
-500 .000 more deaths than births in France .
-
-Total
-
-6,1 60 .840
-The French had mobilized 8,410,000 men . They lost
-6,160 .800- or 73.3 0; 0 . No nation had ever suffered
-such a staggering . loss . No nation had shown a greater
-record of sheer courage and tenacity . There was scarcel y
-a family in France that did not number one or more o f
-its members among the dead . World War I . left France
-weak and exhausted - for the seoond war German y
-launched against her within a generation .
-The catastrophic effects of the first World War hi t
-France particularly hard because they were added to th e
-serious problem of a declining birth-rate . By 1939 ,
-largely because of the losses of World War I, the pro
-portion of the French population under 20. years of age .
-was small --- and growing smaller ; the proportion o f
-Frenchmen over 60 years of age was large = and growin g
-larger.
-In 1940 . after occupation, the Germans tried to cripple i
-France permanently by a policy of deliberate starvation
-and the segreg ation of the.° sexes . The Germans . held
-60
-
-7$
-
-T c reach: c7kia t yc•lp iI . i- caL LCkf ogount
-Ge9ii oa
-s
-ii mcaL itt t!!°_ I eilt .hec walk en. . ''
-.
-/
-
-th e
-
-No one --- least of all the French themselves -- will
-try do deny the enormity of the defeat and the humiliatio n
-France suffered. ur 1940 . French military leadership and
-strategy was tragically inadequate . But this does not
-mean that the French did not put up a.  : real fight
-In the six week Bathe of France . from May 10 to June 22 ,
-1940, the French lost ; rn military personnel alone . 260,00 0
-wounded and 108,064i killed . A total of 368 ;000 casualties
-in six weeks is not something to pass off lightly .
-Yes, the Germans gave the French a terrible beating .
-But it took the combined strength of the United States ,
-Great Britain, Soviet Russia, Canada, etc ., to beat the
-Germans . It's asking rather a great deal of France t o
-match such strength against hers . (See question § 76 .)
-61
-
-79
-
-The French aren 't clew ing 2rp their boni.bed cities .
-Just eoir .pure . them to the Germane. (ities . In llun:ich and
-,'tuItgart tlhe Germans- got busy and o7e g.iced up their streets : "
-
-The French lack materials, . 'racks, gasol?ne, -.bulldozers . .
-and manpower .
-The Germans started cleaning up their cities (befor e
-we invaded Germany) with PWs - French, Polish .,
-Russian, etc . The Germans had 2 .230 .000 abi.e-bodie d
-French men and women inside Germany as PWs, slav e
-laborers, etc .
-Today, it is not the Germans alone who are cleaning
-up their cities . It is our \Elitarv Government whic h
-supervises reconstruction and assigns German civilian s
-and PWs to the job . Germany is an occupied country ;
-France is not . Apart from these qualifications . ..he
-Germans would probably do a quicker and better job of .
-cleaning up their cities than the French . So what ?
-
-they were authorized reparations, approved by the -Unite d
-States, Great Britain and Russia . The - French had a
-right, under international law, to take back some of th e
-commodities the Germans had stolen from them .
-Here are sample figures on what the Germans took ou t
-of Franc e
-Wheat ,
-2.310 .000 metric tons
-Oat,7
-2.360 .000
-Hai
-1 . .330 .000
-Strays . . . .
-1 .870.000
-7 ) .000
-Potatoes
-Fresh fruits
-2 , 1 x.000
-Cider apples
-210 .0020
-Sugar
-180 .000
-Horses
-650 .000
-Eggs . .
-.
-150,000,000 dozen
-Wine
-,
-100 .000,000 gals
--Beer
-83 .000 .000
-Champagne
-16 .000,00 0
-Cognac
-
-80
-
-lip? French cleaned out Stuttgart, we snc long convoy s
-of stuff going bank. to France-machinery . goods, cattle ,
-svuppliea, horses, ---- long convoys of ,stuff looted fron t
-the Germans . "
-
-Where had the . Germans gotten the stuff t Fro m
-France, The long convoys you saw were not . : "loot" :
-
-3 .458 .00 0
-
-(1 metric ton equals 2,205 pounds, approximately equa l
-to 1 long ton of 2,240 lbs . )
-The Germans also " requisitioned " or damage d
-668,253,000,000 Francs worth of agricultural products ;.
-448,474.000,000 Francs worth of industrial and commercia l
-products
-246,301,000,000 Francs worth of war material .
-(See also question § 100 .)
-.
-63
-
-81
-
-The French -troops in German' had, the yeomen terrorized. . "
-The French army, as any other, had to cope with disordely conduct, looting .,rape, and other acts of violence by
-their soldiers against enemy populations.
-If you think French troops misbehac'ed hi Germany.
-you might ask now German troops behaved in Poland .
-Russia; Greece, Holland .
-If you were a French soldier, whose land had bee n
-invaded, whose wife or sister or mother had been take n
-into a German concentration camp and raped or killed ,
-you might have found it difficult to control Your emotions .
-Lastly, a good many French women have been in terro r
-of American troops, especially in Paris . Our SIP records
-testify to a deplorable amount of drunkenness, molesting
-of women and street fights -- by americans .
-
-82 "The French soldiers were- suppoeFci to
-but they didn't waste any time,
-
-Irate
-
-8h2t9Z ,Cf
-
-the Genrucras ,
-
-up with German.
-
-rt.rls . "
-
-That is as deplorable as the same conduct on the par t f ii- 2ericans.
-
-64
+<div id="69"><em>69. "The French aren't our kind of people. The Germans are."</em></div>
+
+What makes a nation "our kind of people"? The way they look? The clothes they
+wear? The kind of plumbing they have? Or the things they believe in — the
+things they fight for; the things they fight against?
+
+The French believe that all men are born and created equal. They believe in
+freedom of speech, freedom of religion, freedom of the press, the rights of
+minorities, government of the people, by the people, and for the people. What
+do the Germans believe in?
+
+The French were our allies during the American Revolution. They were our allies
+in 1917-1918 . They were our allies in 1941-1945. What were the Germans?
+
+The French proved, by their acts, that they _are_ "our kind of people". The
+Germans proved, by their acts, that they are _not_ "our kind of people". Look
+at the record. It's a record of facts, not assumptions, it's a record of deeds,
+not pretense.
+
+You can't tell what Germany is really like, because you are not seeing Germany:
+you are seeing a Germany that has been beaten, conquered, and occupied. You are
+seeing a Germany that has had the arrogance and insolence knocked out of her.
+You can't tell what "the Germans" are really like, because you are seeing
+Germans who are being forced to obey themselves — under military government.
+
+'Forsake not an old friend, for the new is not comparable unto him".
+— Ecclesiasticus, IX, 10 —
+
+<div id="70"><em>70. "The French are not as clean as the Germans."</em></div>
+
+Perhaps not.
+
+If the Germans had had no soap for five years they wouldn't be as clean as they
+might like to be.
+
+A learned man once said, "An untidy friend is better than an immaculate enemy."
+
+<div id="71"><em>71. "The Germans are easier to get along with than the French, because the Germans are law-abiding."</em></div>
+
+The Germans obey the law — even if the laws are barbaric laws. The Germans obey
+their leaders — even if their leaders are savage, corrupt and obscene. The
+Germans obeyed Bismarck; they obeyed Kaiser Wilhelm; they obeyed Hitler.
+
+Would the French have obeyed such men and such policies? Would we Americans?
+
+<div id="72"><em>72. "The French are not as efficient as the Germans in large scale, mass production."</em></div>
+
+The French are not as efficient as the Germans in building tanks, guns, planes,
+flame-throwers, concentration camps and torture chambers.
+
+The French are not efficient in starting wars. The Germans are. German
+efficiency is used against peaceful, decent people.
+
+What does "efficiency" really mean? Is it only a matter of output and
+production charts and impressive statistics? Are the Germans more "efficient"
+in providmg happiness or peace to their people? Are the Germans more
+"efficient" in building decency, kindness, respect for human life? Has German
+"efficiency" led to greater wisdom, better art, deeper morals, finer
+philosophies?
+
+A prison is one of the most "efficient" institutions man ever created — but who
+wants to live in it?
+
+<div id="73"><em>73. "The French are trouble-makers; the Germans are really peaceful at heart."</em></div>
+
+Who started the war anyway? Who started the "trouble-making"?
+
+The facts prove beyond any shadow of a doubt that the French wanted peace.
+From 1918 to 1939, they pleaded for peace, argued for peace, built for peace.
+Their army, their equipment, their fortifications, their entire military
+strategy was devoted to a war of _defense_.
+
+The Germans invaded France in 1870; the Germans invaded Belgium and France in
+1914; the Germans invaded Poland and Czechoslovakia in 1939. Three wars started
+by the same nation an seventy years. This is strange conduct for a "peaceful"
+people.
+
+Incidentally, one of the most efteetive propaganda weapons the Nazis used, from
+1933 to 1939, and one which pulled the wool over the eyes of a lot of gullible
+people, was the constant cry "We Germans want peace. We will never go to war.
+Our aims in Europe are satisfied."
+
+The Japs said they wanted peace in 1931 — and they invaded Manchuria. The
+Germans said they wanted peace in 1935 — and they grabbed Austria. Mussolini
+said Italy wanted peace in 1935 and invaded Ethiopia. Germany promised the
+world peace again in 1938, after the Munich agreement — and then invaded
+Czechoslovakia.
+
+It's all reminiscent of the story of the two drunks. The first kept beating his
+friend on the head with a club, wailing all the while: "You're my pal, my
+buddy, my best friend, and I love you." And the second replied tearfully,
+"I believe you but you have such a funny way of showing it."
+
+<div id="74"><em>74. "We'd be a lot smarter to be allies of the Germans and fight the French."</em></div>
+
+What in the world would we fight the French _about_?
+
+What ideas, principles or goals would we have in common with the Germans?
+
+"What boots it at one gate to make defence, and at another to let in the foe?"
+— John Milton —
+
+<div id="75"><em>75. "The French aren't industrious, the way the Germans are."</em></div>
+
+This is true. Perhaps it would have been a lot better for all of us if the
+Germans weren't so industrious. It was German industriousness in six short
+years, 1933-1939, that built the most terrible army, air force, tank force,
+bombs and submarine warfare the world had ever seen. No one ever accused
+Al Capone of not being industrious.
+
+<div id="76"><em>76. "The French have no courage. Why can't they defend themselves against the Germans?"</em></div>
+
+Maybe it would be better to ask, "Why don't the Germans pick on someone their
+own size?"
+
+Modern warfare is not simply a matter of courage. A great lightweight can't
+lick a great heavyweight — even if he has courage to spare.
+
+Hitler threw the manpower and industrial resources of over 80,000,000 Germans
+against 40,000,000 Frenchmen.
+
+The French did not have, and _could_ not have had, the military and industrial
+power to beat Germany. (For instance, for the past hundred years France has not
+had enough coal, especially coking coal, to supply her peacetime needs. French
+iron ore normally flows to Germany's Ruhr valley for smelting, just as the ore
+of Minnesota goes to the coal and limestone area of Pittsburgh.)
+
+France was beaten by Germany because Germany was enormously superior to France
+in manpower, equipment, resources, armament, and strategy. German has the
+incalculable advantage of having planned an offensive, Blitzkrieg war — while
+France, which wanted peace desperately, devoted its energies and training
+entirely to _defensive_ measures. (That's why they built the Maginot Line.)
+The few advocates of modern mechanized armies (such as Général de Gaulle) were
+like voices crying out in the wilderness. German propaganda and "fifth column"
+activities financed from Berlin, helped to demoralize and confuse a nation that
+didn't want war in the first place.
+
+The French lost 1,115,000 men and women, military and civilian, in dead,
+wounded and disabled. That is an enormous loss for a nation of 40 million.
+(The United States military casualties, up to VJ Day, were about 1,060,000 in
+dead and wounded.
+
+<div id="77"><em>77. "The French don't even have enough men to stand up against the Germans."</em></div>
+
+True. That, in fact, is one of the things the Germans counted on in 1870, in
+1914 and in 1939.
+
+France never fully recovered from the results of World War I. Here is what the
+French lost from 1914 to 1918:
+
+Killed or died           1,357,800
+Wounded                  4,266,000
+Prisoners and missing      537,000
+                         ---------
+    Total                6,160,800
+
+
+The French had mobilized 8,410,000 men. They lost 6,160,800 — or 73.3%. No
+nation had ever suffered such a staggering loss. No nation had shown a greater
+record of sheer courage and tenacity . There was scarcely a family in France
+that did not number one or more of its members among the dead. World War I left
+France weak and exhausted — for the second war Germany launched against her
+within a generation.
+
+The catastrophic effects of the first World War hit France particularly hard
+because they were added to the serious problem of a declining birth-rate. By
+1939, largely because of the losses of World War I, the proportion of the
+French population under 20 years of age was small — and growing smaller; the
+proportion of Frenchmen over 60 years of age was large — and growing larger.
+
+In 1940, after occupation, the Germans tried to cripple France permanently by a
+policy of deliberate starvation and the segregation of the sexes. The Germans
+held nearly 2,000,000 French men in German prison and work camps — away from
+French women. The German policy of malnutrition worked so well that in 1945,
+when the French government was drafting men to re-create a French army, it was
+found that 40% of all Frenchmen called up for physical duty were physically
+unfit. In 1942, at the height of German occupation, there were 500,000 more
+deaths than births in France.
+
+<div id="78"><em>78. "The French didn't put up a real fight against the Germans. They just let the Heinies walk in."</em></div>
+
+No one — least of all the French themselves — will try do deny the enormity of
+the defeat and the humiliation France suffered in 1940. French military
+leadership and strategy was tragically inadequate. But this does not mean that
+the French did not put up a "real fight".
+
+In the six week Battle of France, from May 10 to June 22, 1940, the French
+lost, in military personnel alone, 260,000 wounded and 108,000 killed. A total
+of 368,000 casualties in six weeks is not something to pass off lightly.
+
+Yes, the Germans gave the French a terrible beating. But it took the combined
+strength of the United States, Great Britain, Soviet Russia, Canada, etc., to
+beat the Germans. It's asking rather a great deal of France to match such
+strength against hers. (See [question § 76](#76).)
+
+<div id="79"><em>79. "The French aren't cleaning up their bombed cities. Just compare them to the German cities. In Munich and Stuttgart the Germans got busy and cleaned up their streets."</em></div>
+
+The French lack materials, trucks, gasoline, bulldozers and manpower.
+
+The Germans started cleaning up their cities (before we invaded Germany) with
+PWs — French, Polish, Russian, etc. The Germans had 2,230,000 able-bodied
+French men and women inside Germany as PWs, slave laborers, etc.
+
+Today, it is not the Germans alone who are cleaning up their cities. It is our
+Militarv Government which supervises reconstruction and assigns German
+civilians and PWs to the job. Germany is an occupied country; France is not.
+Apart from these qualifications, the Germans _would_ probably do a quicker and
+better job of cleaning up their cities than the French. So what?
+
+<div id="80"><em>80. "The French cleaned out Stuttgart, we saw long convoys of stuff going back to France — machinery, goods, cattle, supplies, horses, — long convoys of stuff looted from the Germans."</em></div>
+
+Where had the Germans gotten the stuff? From France. The long convoys you saw
+were not "loot": they were authorized reparations, approved by the United
+States, Great Britain and Russia. The French had a right, under international
+law, to take back some of the commodities the Germans had stolen from them.
+
+Here are sample figures on what the Germans took out of France:
+
+Wheat                 2,310,000 metric tons
+Oat                   2,360,000 —
+Hay                   1,530,000 —
+Straw                 1,870,000 —
+Potatoes                600,000 —
+Fresh fruits            290,000 —
+Cider apples            210,000 —
+Sugar                   180,000 —
+Horses                  650,000 —
+Eggs                150,000,000 dozen
+Wine                190,000,000 gals
+Beer                 83,000,000 —
+Champagne            16,000,000 —
+Cognac                3,458,000 —
+
+(1 metric ton equals 2,205 pounds, approximately equal to 1 long ton of 2,240
+lbs.)
+
+The Germans also "requisitioned" or damaged:
+
+- 668,253,000,000 Francs worth of agricultural products ;
+- 448,474,000,000 Francs worth of industrial and commercial products;
+- 246,361,000,000 Francs worth of war material.
+
+(See also [question § 100](#100).)
+
+<div id="81"><em>81. "The French troops in Germany had the women terrorized."</em></div>
+
+The French army, as any other, had to cope with disordely conduct, looting,
+rape, and other acts of violence by their soldiers against enemy populations.
+
+If you think French troops misbehaved in Germany, you might ask now German
+troops behaved in Poland, Russia, Greece, Holland.
+
+If you were a French soldier, whose land had been invaded, whose wife or sister
+or mother had been taken into a German concentration camp and raped or killed,
+you might have found it difficult to control your emotions.
+
+Lastly, a good many French women have been in terror of American troops,
+especially in Paris. Our MP records testify to a deplorable amount of
+drunkenness, molesting of women and street fights — by Americans.
+
+<div id="82"><em>82. "The French soldiers were supposed to hate the Germans, but but they didn't waste any time shacking up with German girls."</em></div>
+
+That is as deplorable as the same conduct on the part of Americans.
 
 ## Prices: "We're being gypped"
 
