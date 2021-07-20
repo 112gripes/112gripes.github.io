@@ -1558,186 +1558,117 @@ There s nothing fishy about it.
 
 ## the Black Market
 
-90
+<div id="90"><em>90. "The black market in France is disgraceful!"</em></div>
 
-"The black ma et in France
+It is. Most Frenchmen think it is, too. The French newspapers are full of daily
+criticism of the black market.
 
-is di.sg,acetz,21 "
+Why did the black market arise in France? The basic reason for any black
+market, in France or in any country at war, is that there is a great shortage
+of certain goods, which people need.
 
-It. is . Most Frenchmen think it, is . too . The French
-newspapers are full of daily criticism_ of the black market .
-Why did the black market arise in France ? The basi c
-reason for any black market, in France or in any country
-at war, is that there is a great shortage of certain goods ,
-which people need .
-Why were (and are) there great shortages in Franc e
-Largely because during four years of occupation .. the
-Germans stripped France bare . picked her clean as a
-bone . (In. Marseille, the food depot for the whole south.
-of France, the Germans took 60 D Q of the food that wa s
-being shipped in .) And when theGei'mans left they
-took along everything they could lay their hands on .
-There was another important reason for the blac k
-market. . Daring four fears of occupation, thousand s
-of French men and women who were fugitives from th e
-Gestapo or' members of the resistance, had no identiiication cards and no ration cards . They could only liv e
-through false papers . They could only live illegally .
-They could only live by getting food and supplies - fro m
-the black market . So the black market took on a quality
-which we never had in the United States it becam e
-patriotic for many people to patronize the black market .
-It was one way of continuing to fight German rule, Qn e
-way of getting supplies with which to carry on resistance .
+Why were (and are) there great shortages in France? Largely because during four
+years of occupation, the Germans stripped France bare, picked her clean as a
+bone. (In Marseille, the food depot for the whole south of France, the Germans
+took 60% of the food that was being shipped in.) And when the Germans left they
+took along everything they could lay their hands on.
 
-weapon a.r;Xz%y >.g itie._
-Lek market in France is,not-, as it was in Mme rica .
-math
-for relati .oe luxuries (gasoline, whiskey . steaks ,
-!,yutteeh . In France, no cite family could et enoug h
-m the rations doled out by the Germans . (From
-food
-the liberation of .Paris in 1944, the Parisians wer e
--i0.1 .
-:_
-_
-aer-preen
-1 .067 and3 .?,t calories of food per day .
-ge'.r
-.- calories a day is considered the necessary minimu m
-fo_r ,
-;its not engaged In heavy work . (The averag e
-consumption in the United States is 3,307 calories daily :
-Otis omit ration provides 4 ;000 to 3 .000 calories a day .
-th black market purchases . most Frenchme n
-t had enough - to eat for four years . Hence the.
-have
-story
-of
-.two
-Frenchmen . discussing the. black market ,
-L4_y„
-Would you hx .:,-rsilliing to stop biting anything .
-on the black market for a week ?" "Certainly . not, "
-. ?".
-w a; i e reply . "Do you want my children to go hungry
-- The ;,fiatk market in France will disappear when ther e
-is enou g h food and supplies in the ordinary stores, in
-sufficient. quantity to . be sold at reasonable prices . if
-the French had more transportation to bring the crop s
-irate. the cities, the . black -market would do less business .
-'was drmans, incidentally . .were notorious traders o n
-market e ,- for personal profit .
-Vito
-uan authorities did riot. 'try to stamp out the
-e
-.I '.','c.
-ma 1 yet --- bec a-use. they knew it, would increas e
-;-i. f"i :- oess of t -Le .n,oh neopte Coward their go>'ernrs
+There was another important reason for the black market. During four years of
+occupation, thousands of French men and women who were fugitives from the
+Gestapo or members of the resistance, had no identification cards and no ration
+cards. They could only live through false papers. They could only live
+illegally. They could only live by getting food and supplies — from the black
+market. So the black market took on a quality which we never had in the United
+States: it became _patriotic_ for many people to patronize the black market.
+It was one way of continuing to fight German rule, one way of getting supplies
+with which to carry on resistance.
 
-me.nt and leaders : The. Germans used every trick i n
-the . hag . to disrupt the French economy and demoraliz e
-.
-French people .
-Lastly, where did the French black market get America n
-cigarettes, soap, candy, chocolate, razor blades . shoe s
-From . American soldiers, who sold them - on the blac k
-market . .
+It was a weapon _against_ the Germans.
 
-91 .
+The black market in France is not, as it was in America, a market for relative
+luxuries (gasoline, whiskey, steaks, butter.) In France, no city family could
+get enough _food_ from the rations doled out by the Germans. (From 1941 to the
+liberation of Paris in 1944, the Parisians were getting between 1,067 and 1,325
+calories of food per day. 2,400 dalories a day is considered the necessary
+minimum for adults not engaged in heavy work. The average consumption in the
+United States is 3,367 calories daily. Our army ration provides 4,000 to 5,000
+calories a day.) Even with black market purchases, most Frenchmen have not had
+enough to eat for four years. Hence the story of two Frenchmen discussing the
+black market. One said, "Would you be willing to stop buying anything on the
+black market for a week?" "Certainly not," was the reply. "Do you want my
+children to go hungry?"
 
-"T Y ley !hrL ' t the Feetieh.
-the bla-eI. market ? "
+The black market in France will disappear when there is enough food and
+supplies in the ordinary stores, in sufficient quantity to be sold at
+reasonable prices. If the French had more transportation to bring the crops
+into the cities, the black market would do less business.
 
-Mdse
+The Germans, incidentally, were notorious traders on the black market — for
+personal profit.
 
-8ti'ougu' /r alJwh5 to
+The German authorities did not try to stamp out the black market — because they
+knew it would increase the bitterness of the French people toward their
+government and leaders. The Germans used every trick in the bag to disrupt the
+French economy and demoralize French people.
 
-&topI
+Lastly, where did the French black market get American cigarettes, soap, candy,
+chocolate, razor blades, shoes? From American soldiers, who sold them — on the
+black market.
 
--hate all this more than we do . They have to live with it .
-No Frenchman -i>l deny the mistakes France has made .
-the blows France has suffered, the long and difficult, roa d
-that France must now take . But the way in wh=ich Franc e
-will recover, the way in which theFrench will meet problems as grave and difficult as any she has ever known .
-is something which the French people, acting democratically . ill-decide for themselves .
-- If there is a . moral for the world in all this . it is : don't
-ever let the Germans or any other Fascist power bea t
-you .
-If there is a lesson for . Americans . it is : we don 't kick
-especiall y when he was knocked
-a friend when h er s down
-e-
+<div id="91"><em>91. "Why don't the French use stronger methods to stop the black market?"</em></div>
 
-The French people ash that question every day.
-It is not our job to appraise the energy or Vie method s
-of the French government . It is not :inplace for American s
-to tell the French how to run their affairs . This much ,
-however . can be said
-France is pulling herself up by
-the bootstraps . It ' s very easy to stand to one side and
-say . ":Pull harder. It's a cinch . just pull harder . "
-Lkance' is still "punch-drunk", uncertain, . demoralized
-from the war and the effects of the war . It is hard fo r
-us to realize . the appalling toil which the war took fro m
-France . It is hard for us to realize how profoundly th e
-entire economic and political structure of France hra ..'bee n
-shaken by the events from 1940-1945 .
-France is tired, hungry . discouraged, poor, weak . The
-French saw their country . defeated . They saw some . o f
-their leaders and .i c.i ces sell them down the . river- :. They
+The French people ask that question every day.
 
-"7'he leaders
+It is not our job to appraise the energy or the methods of the French
+government. It is not in place for Americans to tell the French how to run
+their affairs. This much, however, can be said. France is pulling herself up by
+the bootstraps. It's very easy to stand to one side and say, "Pull harder.
+It's a cinch. Just pull harder."
 
-. of rh.e .French e reeist r,?ee
-.
-thE black market They all got rich on .it . '
+France is still "punch-drunk", uncertain, demoralized from the war and the
+effects of the war. It is hard for us to realize the appalling toil which the
+war took from France. It is hard for us to realize how profoundly the entire
+economic and political structure of France has been shaken by the events from
+1940-1945.
 
-b e.h .u-d
+France is tired, hungry, discouraged, poor, weak. The French saw their country
+defeated. They saw some of their leaders and heroes sell them down the river.
+They hate all this more than we do. They have to live with it.
 
-This is the exact argument used by Dr . Gcehbcis and
-the German propaganda machine . The Germans wante d
-to smash the resistance movement they constantl y
-smeared the leaders of that movement . Gcebbels kep t
-hammering at the idea that those who resisted Germa n
-rule were simply criminals .
-The French resistance used the black market during
-the four years of German occupation . They had to use
-it, in order to survive . (See question § 90 .)
+No Frenchman will deny the mistakes France has made, the blows France has
+suffered, the long and difficult road that France must now take. But the _way_
+in which France will recover, the way in which the French will meet problems as
+grave and difficult as any she has ever known, is something which the French
+people, acting democratically, will decide for themselves.
 
-,'t,'nce the liberation of 'ranee, no group in France ha s
--:')
-:„o
-' igor°ouslj fought• the black market and demande d
--1_a« e government stop it than the resistance og n i
-s,zrons uid the resistance leaders .
-9
+If there is a moral for the world in all this, it is: don't ever let the
+Germans or any other Fascist power beat you.
 
-n
+If there is a lesson for Americans, it is: we don't kick a friend when he is
+down — especially when he was knocked down by our enemy.
 
-7L''ItLli ];s
+<div id="92"><em>92. "The leaders of the French resistance were behind the black market. They all got rich on it."</em></div>
 
-rui " i .one
+This is the exact argument used by Dr. Goebbels and the German propaganda
+machine. The Germans wanted to smash the resistance movement; they constantly
+smeared the leaders of that movement. Goebbels kept hammering at the idea that
+those who resisted German rule were simply criminals.
 
-R.
+The French resistance _used_ the black market during the four years of German
+occupation. They had to use it, in order to survive . (See [question § 90](#90).)
 
-loot-n
+Since the liberation of France, no group in France has more vigorously fought
+the black market and demanded that the government stop it than the resistance
+organizations and the resistance leaders.
 
-tin pij to sto p
+<div id="93"><em>93. "The French haven't done a damn thing to stop pleasure driving by Frenchmen."</em></div>
 
-n .
-
-The latest check-up on pleasure driving by the Frenc h
-too': : place one Septembei. 25, 1945 when . French MPs
-stopped hundreds of French military vehicles in the greate r
-Paris area in a surprise cheek-up .for official credentials .
-eneh vehicles were stopped and each driver had t o
-h ucc papers showing the car was being used for official
-Preneb civilians or military personnel who
-0.1s :, n
-o.
-:n
-
-pr'o i??' papcra .weere ''_1plieO ±az ::hurt act :o?]_
+The latest check-up on pleasure driving by the French took place one September
+25, 1945 when French MPs stopped hundreds of French military vehicles in the
+greater Paris area in a surprise check-up for official credentials. All French
+vehicles were stopped and each driver had to produce papers showing the car was
+being used for official business. French civilians or military personnel who
+lacked proper papers were booked for court action.
 
 ## those French Soldiers
 
