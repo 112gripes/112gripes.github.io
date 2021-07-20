@@ -522,32 +522,32 @@ introduced the forty-hour work week.
 
 Here are some of the inventions and discoveries which have come from France:
 
-Aluminium (discovered simultaneously in U.S. and France)
-Braille system of reading for the blind
-Breech-loading shotgun
-Cellophane
-Commercial gas engine
-Electric steel
-Electric storage battery
-Flying balloon
-Gyroscope
-Iron galvanizing process
-Laminated glass
-Machine for making paper
-Metallic cartridge
-Pasteurization
-Phosphorus match
-Photography
-Rayon
-Rayon nitrocellulose
-Screw propeller
-Sewing machine
-Smokeless powder
-Steam automobile
-Steam pressure gauge
-Stethoscope
-Synthesis of camphor
-Television 1000 line screen
+ * Aluminium (discovered simultaneously in U.S. and France)
+ * Braille system of reading for the blind
+ * Breech-loading shotgun
+ * Cellophane
+ * Commercial gas engine
+ * Electric steel
+ * Electric storage battery
+ * Flying balloon
+ * Gyroscope
+ * Iron galvanizing process
+ * Laminated glass
+ * Machine for making paper
+ * Metallic cartridge
+ * Pasteurization
+ * Phosphorus match
+ * Photography
+ * Rayon
+ * Rayon nitrocellulose
+ * Screw propeller
+ * Sewing machine
+ * Smokeless powder
+ * Steam automobile
+ * Steam pressure gauge
+ * Stethoscope
+ * Synthesis of camphor
+ * Television 1000 line screen
 
 The Nobel Prize has been awarded since 1901 for contributions in Physics,
 Chemistry, Medicine and Physiology, Literature and the Advancement of Peace.
@@ -654,85 +654,100 @@ TODO format table/columns
 
 _Writers_
 
-Villon          Flaubert
-Rabelais        Zola
-Corneille       Maupassant
-La Fontaine     Anatole France
-Molière         Daudet
-Racine          Raomain Rolland
-Voltaire        Rostand
-Rousseau        Jules Verne
-Balzac          Mme de Staël
-Victor Hugo     Stendhal
-Dumas           Gautier
-Georges Sand    Goncourt
-Musset          Lamartine
-Merimée         Sue
-Prévost         Loti
-Ronsard         Mme de Sévigné
-Sardou          Proust
-Le Sage         Jules Romains
-Verlaine        André Malraux
+<table>
+<tr><td>Villon          </td><td>Flaubert</td><tr>
+<tr><td>Rabelais        </td><td>Zola</td><tr>
+<tr><td>Corneille       </td><td>Maupassant</td><tr>
+<tr><td>La Fontaine     </td><td>Anatole France</td><tr>
+<tr><td>Molière         </td><td>Daudet</td><tr>
+<tr><td>Racine          </td><td>Raomain Rolland</td><tr>
+<tr><td>Voltaire        </td><td>Rostand</td><tr>
+<tr><td>Rousseau        </td><td>Jules Verne</td><tr>
+<tr><td>Balzac          </td><td>Mme de Staël</td><tr>
+<tr><td>Victor Hugo     </td><td>Stendhal</td><tr>
+<tr><td>Dumas           </td><td>Gautier</td><tr>
+<tr><td>Georges Sand    </td><td>Goncourt</td><tr>
+<tr><td>Musset          </td><td>Lamartine</td><tr>
+<tr><td>Merimée         </td><td>Sue</td><tr>
+<tr><td>Prévost         </td><td>Loti</td><tr>
+<tr><td>Ronsard         </td><td>Mme de Sévigné</td><tr>
+<tr><td>Sardou          </td><td>Proust</td><tr>
+<tr><td>Le Sage         </td><td>Jules Romains</td><tr>
+<tr><td>Verlaine        </td><td>André Malraux
+</table>
+
 
 _Explorers_
 
-Cartier
-Champlain
-La Salle
-Marquette
+<table>
+<tr><td>Cartier</td><tr>
+<tr><td>Champlain</td><tr>
+<tr><td>La Salle</td><tr>
+<tr><td>Marquette</td><tr>
+</table>
 
 _Scientists and Inventors_
 
-Pascal      Laennec       Toucanta
-Pasteur     Cuvier        Bourdon
-Curie       Levassor      Chardonnet
-Buffon      Braille       Heroult
-Berthelot   Haller        Sauvage
-Ampère      Lavoisier     Sauria
-Daguerre    Montgolfier   Le Blane
+<table>
+<tr><td>Pascal</td><td>Laennec</td><td>Toucanta</td><tr>
+<tr><td>Pasteur</td><td>Cuvier</td><td>Bourdon</td><tr>
+<tr><td>Curie</td><td>Levassor</td><td>Chardonnet</td><tr>
+<tr><td>Buffon</td><td>Braille</td><td>Heroult</td><tr>
+<tr><td>Berthelot</td><td>Haller</td><td>Sauvage</td><tr>
+<tr><td>Ampère</td><td>Lavoisier</td><td>Sauria</td><tr>
+<tr><td>Daguerre</td><td>Montgolfier</td><td>Le Blane</td><tr>
+</table>
 
 _Musicians_
 
-Bizet           Favre
-Gounod          Debussy
-Berlioz         Lalo
-Saint Saëns     Ravel
-Massenet
+<table>
+<tr><td>Bizet</td><td>Favre</td><tr>
+<tr><td>Gounod</td><td>Debussy</td><tr>
+<tr><td>Berlioz</td><td>Lalo</td><tr>
+<tr><td>Saint Saëns</td><td>Ravel</td><tr>
+<tr><td>Massenet</td><tr>
+</table>
 
 _Painters and Sculptors_
 
-Cézanne          Meissonier
-Corot            Millet
-Degas            Poussin
-Delacroix        Prudhon
-David            Renoir
-Doré             Rodin
-Forain           Rousseau, P. E. T.
-Gérôme           Rouault
-Houdon           Toulouse-Lautrec
-Ingres           Seurat
-Lebrun
-Matisse
+<table>
+<tr><td>Cézanne</td><td>Meissonier</td><tr>
+<tr><td>Corot</td><td>Millet</td><tr>
+<tr><td>Degas</td><td>Poussin</td><tr>
+<tr><td>Delacroix</td><td>Prudhon</td><tr>
+<tr><td>David</td><td>Renoir</td><tr>
+<tr><td>Doré</td><td>Rodin</td><tr>
+<tr><td>Forain</td><td>Rousseau, P. E. T.</td><tr>
+<tr><td>Gérôme</td><td>Rouault</td><tr>
+<tr><td>Houdon</td><td>Toulouse-Lautrec</td><tr>
+<tr><td>Ingres</td><td>Seurat</td><tr>
+<tr><td>Lebrun</td><tr>
+<tr><td>Matisse</td><tr>
+</table>
 
 _Philosophers_
 
-Chateaubriand    Descartes
-Charron          Montaigne
-Calvin           Pascal
-Montesquieu      Comte
-Abelard          Bergson
-La Bruyère       Maritain
-Diderot          Poincaré
-Condorcet        Rochefoucauld
-Cousin           Renan
-                 Rousseau
+<table>
+<tr><td>Chateaubriand</td><td>Descartes</td><tr>
+<tr><td>Charron</td><td>Montaigne</td><tr>
+<tr><td>Calvin</td><td>Pascal</td><tr>
+<tr><td>Montesquieu</td><td>Comte</td><tr>
+<tr><td>Abelard</td><td>Bergson</td><tr>
+<tr><td>La Bruyère</td><td>Maritain</td><tr>
+<tr><td>Diderot</td><td>Poincaré</td><tr>
+<tr><td>Condorcet</td><td>Rochefoucauld</td><tr>
+<tr><td>Cousin</td><td>Renan</td><tr>
+<tr><td></td><td>Rousseau</td><tr>
+</table>
 
 _Historians_
 
-Tocqueville      Thierry
-Guizot           Saint-Simon
-Thiers           Quinet
-Taine
+<table>
+<tr><td>Tocqueville</td><td>Thierry</td><tr>
+<tr><td>Guizot</td><td>Saint-Simon</td><tr>
+<tr><td>Thiers</td><td>Quinet</td><tr>
+<tr><td>Taine</td><td></td><tr>
+</table>
 
 ### B. Customs and Manners
 
@@ -1043,7 +1058,7 @@ women have lost their sweethearts, husbands, homes. The same thing is happening
 all over Europe. It is another of the appalling consequences of the war Germany
 started.
 
-A Frenchmen who took a walk in Paris, recently, said to an American friend,
+A Frenchman who took a walk in Paris, recently, said to an American friend,
 "In forty years of living in Paris, I have never seen so many prostitutes! And
 in respectable neighborhoods! It's disgraceful."
 
@@ -1333,11 +1348,12 @@ True. That, in fact, is one of the things the Germans counted on in 1870, in
 France never fully recovered from the results of World War I. Here is what the
 French lost from 1914 to 1918:
 
-Killed or died           1,357,800
-Wounded                  4,266,000
-Prisoners and missing      537,000
-                         ---------
-    Total                6,160,800
+<table class="casualties">
+<tr><td>Killed or died</td><td>1,357,800</td></tr>
+<tr><td>Wounded</td><td>4,266,000</td></tr>
+<tr><td>Prisoners and missing</td><td>537,000</td></tr>
+<tr><td>Total</td><td>6,160,800</td></tr>
+</table>
 
 
 The French had mobilized 8,410,000 men. They lost 6,160,800 — or 73.3%. No
@@ -1401,20 +1417,22 @@ law, to take back some of the commodities the Germans had stolen from them.
 
 Here are sample figures on what the Germans took out of France:
 
-Wheat                 2,310,000 metric tons
-Oat                   2,360,000 —
-Hay                   1,530,000 —
-Straw                 1,870,000 —
-Potatoes                600,000 —
-Fresh fruits            290,000 —
-Cider apples            210,000 —
-Sugar                   180,000 —
-Horses                  650,000 —
-Eggs                150,000,000 dozen
-Wine                190,000,000 gals
-Beer                 83,000,000 —
-Champagne            16,000,000 —
-Cognac                3,458,000 —
+<table>
+<tr><td>Wheat</td><td>2,310,000</td><td>metric tons</td></tr>
+<tr><td>Oat</td><td>2,360,000</td><td>—</td></tr>
+<tr><td>Hay</td><td>1,530,000</td><td>—</td></tr>
+<tr><td>Straw</td><td>1,870,000</td><td>—</td></tr>
+<tr><td>Potatoes</td><td>600,000</td><td>—</td></tr>
+<tr><td>Fresh fruits</td><td>290,000</td><td>—</td></tr>
+<tr><td>Cider apples</td><td>210,000</td><td>—</td></tr>
+<tr><td>Sugar</td><td>180,000</td><td>—</td></tr>
+<tr><td>Horses</td><td>650,000</td><td>—</td></tr>
+<tr><td>Eggs</td><td>150,000,000</td><td>dozen</td></tr>
+<tr><td>Wine</td><td>190,000,000</td><td>gals</td></tr>
+<tr><td>Beer</td><td>83,000,000</td><td>—</td></tr>
+<tr><td>Champagne</td><td>16,000,000</td><td>—</td></tr>
+<tr><td>Cognac</td><td>3,458,000</td><td>—</td></tr>
+</table>
 
 (1 metric ton equals 2,205 pounds, approximately equal to 1 long ton of 2,240
 lbs.)
@@ -1425,7 +1443,7 @@ The Germans also "requisitioned" or damaged:
 - 448,474,000,000 Francs worth of industrial and commercial products;
 - 246,361,000,000 Francs worth of war material.
 
-(See also [question § 100](#100).)
+(See also [question § 106](#106).)
 
 <div id="81"><em>81. "The French troops in Germany had the women terrorized."</em></div>
 
@@ -1508,18 +1526,19 @@ luxuries. A shot of cognac is definitely a luxury for most Frenchmen.
 Examine the following prices, which the French are paying — if and when they
 can get the articles:
 
-                        July 1945
-                      --------------------
-Bread 1 kg (2.21bs.)          7.40 francs
-Beef 1 kg                    97.00 —
-Butter 1 kg                 113.00 —
-Eggs 1 dz                    45.60 —
-Soap 1 kg                    31.00 —
-Electricity, 1 kw             4.64 —
-Gas, m<sup>3</sup>            3.29 —
-Cotton Socks                150.00 — (when you can get them)
-Undershirt                  350.00 — (plus 8 points)
-Suit                   1,500-1,000 — (but try to find one)
+<table>
+<tr><th></th><th colspan=2>July 1945</th></tr>
+<tr><td>Bread 1 kg (2.21bs.)</td><td>7.40</td><td>francs</td></tr>
+<tr><td>Beef 1 kg</td><td>97.00</td><td>—</td></tr>
+<tr><td>Butter 1 kg</td><td>113.00</td><td>—</td></tr>
+<tr><td>Eggs 1 dz</td><td>45.60</td><td>—</td></tr>
+<tr><td>Soap 1 kg</td><td>31.00</td><td>—</td></tr>
+<tr><td>Electricity, 1 kw</td><td>4.64</td><td>—</td></tr>
+<tr><td>Gas, m<sup>3</sup></td><td>3.29</td><td>—</td></tr>
+<tr><td>Cotton Socks</td><td>150.00</td><td>— (when you can get them)</td></tr>
+<tr><td>Undershirt</td><td>350.00</td><td>— (plus 8 points)</td></tr>
+<tr><td>Suit</td><td>1,500-1,000</td><td>— (but try to find one)</td></tr>
+</table>
 
 The average skilled worker in France gets 1,200-1,300 francs ($24-26) a week.
 How much cognac, perfume, kerchiefs, bracelets can the average Frenchman buy
@@ -1815,7 +1834,117 @@ You can't see the increase (300-400 %) in tuberculosis diphteria, typhoid fever,
 
 <div id="106"><em>106. "The French got off pretty easy in the war."</em></div>
 
-## TODO tables, numbers
+What do you call "pretty easy ?" Here is what the war cost France !
+
+In people
+
+<table class="casualties">
+  <tr><th>Military casualties</th><th></th></tr>
+  <tr><td>Killed</td><td>200,000</td></tr>
+  <tr><td>Wounded</td><td>280,000</td></tr>
+  <tr><td>Total</td><td>480,000</td></tr>
+</table>
+
+
+<table class="casualties">
+  <tr><th>Civilian casualties</th><th></th></tr>
+  <tr><td>Killed in bombings</td><td>60,000</td></tr>
+  <tr><td>Killed in Battle of France 1940</td><td>80,000</td></tr>
+  <tr><td>Killed in other military operations</td><td>20,000</td></tr>
+  <tr><td>Shot or massacred in France</td><td>40,000</td></tr>
+  <tr><td>Total civilians killed in France</td><td>150,000</td></tr>
+</table>
+
+
+<table class="casualties">
+  <tr><th>Civilian casualties</th><th></th></tr>
+  <tr><td>Political prisoners</td><td>130,000</td></tr>
+  <tr><td>Laborers</td><td>20,000</td></tr>
+  <tr><td>Prisoners of War</td><td>30,000</td></tr>
+  <tr><td>Total</td><td>180,000</td></tr>
+</table>
+
+
+<table class="casualties">
+  <tr><th>Total civilians and deportees killed or died</th><th>330,000</th></tr>
+</table>
+
+
+<table class="casualties">
+  <tr><th>Disabled civilians</th><th></th></tr>
+  <tr><td>In France</td><td>127,000</td></tr>
+  <tr><td>Deportees (returned from Germany)</td><td>228,000</td></tr>
+  <tr><td>Total</td><td>335,000</td></tr>
+</table>
+
+
+<table class="casualties">
+  <tr><th>Total military and civilian killed</th><th>330,000</th></tr>
+  <tr><th>Total military and civilian killed, wounded, disabled</th><th>1,115,000</th></tr>
+</table>
+
+
+In Materials
+
+1,785,000 buildings were destroyed.
+
+5,000 bridges were blown-up.
+
+Three-fifths of all French railroad stock was either destroyed or taken to Germany by Germans as they retreated in 1945.
+
+Half of all the livestock in France was lost or stolen.
+
+Three-fourths of all the agricultural equipment was lost.
+
+12,500,000,000 man-hours of labor, which millions of Frenchmen were forced to perform for the Germans were lost to France.
+
+The national debt <em>increased</em> 32 billion dollars.
+
+These figures represent a loss to France of half of her national wealth - or the total earnings of all Frenchmen, for two years.
+
+
+In labor
+
+<table class="casualties">
+  <tr><td>Deportees</td><td>765,000</td></tr>
+  <tr><td>Forced workers in France</td><td>850,000</td></tr>
+  <tr><td>Industrial workers in French plants (working for Germany)</td><td>2,500,000</td></tr>
+  <tr><td>Agricultural workers growing crops for German conscription</td><td>780,000</td></tr>
+  <tr><td>Total</td><td>4,895,000</td></tr>
+</table>
+
+
+<table class="casualties">
+  <tr><td>Hours of work lost to France due to mass deportations</td><td>7,427,804,000</td></tr>
+  <tr><td>Hours of work lost to France because of forced labor in France for the Germans</td><td>5,124,335,000</td></tr>
+  <tr><td>Total</td><td>12,551,639,000</td></tr>
+</table>
+
+
+In money
+
+<table class="casualties">
+  <tr><th></th><th>1945 Franc value</th></tr>
+  <tr><td>Destruction of buildings, agriculture, Industry, war material etc</td><td>2,342,000,000,000</td></tr>
+  <tr><td>German exchange extortion (setting the franc at 20 francs to the mark, instead of the real value - 10 francs to the mark.)</td><td>1,832,000,000,000</td></tr>
+  <tr><td>Pensions to military and civilian dead and disabled</td><td>359,000,000</td></tr>
+  <tr><td>Cash payments to maintain German army of occupation</td><td>2,353,480,000,000</td></tr>
+  <tr><td>Agricultural products taken by Germans or damaged</td><td>668,253,000,000</td></tr>
+  <tr><td>Transport and Communication damaged</td><td>1,527,222,000,000</td></tr>
+  <tr><td>Industry and Commerce requisitioned or damaged</td><td>448,474,000,000</td></tr>
+  <tr><td>Clearing and removal costs</td><td>536,580,000,000</td></tr>
+  <tr><td>War material taken by Germans or damaged</td><td>246,361,000,000</td></tr>
+  <tr><td>Special charges imposed on France <em>in addition</em> to the direct costs of German occupation</td><td>102,000,000,000</td></tr>
+</table>
+
+Estimated total money cost to France of the war : 98 billion dollars.
+
+Estimated total cost to U.S. - 300 billion dollars.
+
+France is about one fourteenth the size of the United States.
+
+You can put nearly all of France into Utah and Nevada.
+
 
 <div id="107"><em>107. "Why don't they get to work and rebuild their country ?"</em></div>
 
@@ -1867,27 +1996,14 @@ In the last pre-war elections of 1936, the parties of the Popular Front (Radical
 
 Since the liberation, the French have held municipal elections in May 1945 and cantonal elections in September 1945. The voting strength of the main parti in those elections was approximately as follows:
 
-### TODO table
 
-Name of Party
-% vote case May 1945
-% vote case Sept. 1945
+Name of Party                 % vote case May 1945    % vote case Sept. 1945
+---------------              ----------------------  ------------------------
+Communist Party                        17                    21
+Social Party                           15                    24
+Radical Socialist Party                32                    24
+Popular Republican Movement             5                     9
 
-Communist Party
-17
-21
-
-Social Party
-15
-24
-
-Radical Socialist Party
-32
-24
-
-Popular Republican Movement
-5
-9
 
 <div id="111"><em>111. "The French are Communist."</em></div>
 
