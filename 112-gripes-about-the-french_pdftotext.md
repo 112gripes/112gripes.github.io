@@ -1707,7 +1707,7 @@ espionage for SHAEF, no French guerrillas behind the German lines, no French
 Maquis in Central France, no FFI inside France as we fought our way through?
 How many more American lives do you think we would have lost?
 
-#### (((Greg's rewrite from the bottom, below))) TODO cleanup, merge, hyperlink to other questions
+#### (((Greg's rewrite from the bottom, below))) TODO cleanup
 
 <div id="96"><em>96. "Why don't French soldiers ever clean their uniforms ?"</em></div>
 
@@ -1725,7 +1725,7 @@ The French soldier got paid 800 francs <p>a month</p> ($16) until September, 194
 
 Many of them are, even though they are in civilian clothes. Reason? In most French commands (FIXME the Paris area), enlisted men are permitted to wear civilian clothes when they are on pass or off duty. French officers in all commands are permitted to wear civilian clothes when off duty.
 
-It is also worth remembering that in the 1945 draft, the French had to reject 40% of the men called up as physically unfit for military duty (and the standards used were lower than those used in our army.) Why were so many young Frenchmen unfit physically? Because they were underfed by the Germans during the occupation. Because tuberculosis and other diseases spread, during the four years of German occupation. Because of the effects of World War I. (See question 77.) Because the best French youth were killed, wounded, disabled, or taken as slave laborers into Germany.
+It is also worth remembering that in the 1945 draft, the French had to reject 40% of the men called up as physically unfit for military duty (and the standards used were lower than those used in our army.) Why were so many young Frenchmen unfit physically? Because they were underfed by the Germans during the occupation. Because tuberculosis and other diseases spread, during the four years of German occupation. Because of the effects of World War I. (See [question § 77](#77).) Because the best French youth were killed, wounded, disabled, or taken as slave laborers into Germany.
 
 <div id="98"><em>98. "The French are sloppy-looking soldiers. One look at them and you know they're not good fighters."</em></div>
 
@@ -1749,7 +1749,7 @@ Local papers always play up local news. Local papers are proud of the deeds of l
 
 If it's publicity in the American press which you're objecting to, then criticize American news judgment; not French vanity. The story of the maquis and FFI was a "natural" news story. It's the kind of story that has hit the front pages ever since there were wars — and newspapers to report on them.
 
-As for the role the FFI and the Maquis played in the fight against Germany, see the statements of General Patton and General Patch, under question 77.
+As for the role the FFI and the Maquis played in the fight against Germany, see the statements of General Patton and General Patch, under [question § 77](#77).
 
 <div id="101"><em>101. "The French soldiers stole everything they could get their hands on. They stole our gas, jeeps, trucks, rations. We had to post guards over every vehicle."</em></div>
 
@@ -1767,7 +1767,7 @@ It is worth remembering that the French armies had a very large number of men wh
 
 That's the line Gœbbels used. The Germans exerted every propaganda effort to make us think there was no real resistance in France. Nazi censorship and Nazi firing squads tried to stop our hearing about the resistance.
 
-For the <em>facts</em>, see questions 17, 18, 104.
+For the <em>facts</em>, see questions [§ 17](#17), [§ 69](#18), [§ 104](#104).
 
 <div id="103"><em>103. "The French mostly collaborated with the Germans."</em></div>
 
@@ -1777,7 +1777,7 @@ The Germans overran France in 1940. For two years they used every promise, trick
 
 The LVF (Légion Volontaire Française), the French volunteer army that the Germans tried to organize, was a gigantic flop.
 
-For the facts on how the French fought the Germans from 1940 until the liberation, see questions 17, 18, 104.
+For the facts on how the French fought the Germans from 1940 until the liberation, see questions [§ 17](#17), [§ 69](#18), [§ 104](#104).
 
 <div id="104"><em>104. "After France fell, the French laid down and let the Germans walk all over them. They just waited for us to liberate them. Why didn't they put up a fight?"</em></div>
 
@@ -1893,7 +1893,7 @@ Popular Republican Movement
 
 <div id="111"><em>111. "The French are Communist."</em></div>
 
-The Community Party got 10 seats in the Chamber of Deputies in the 1932 elections, and 72 out of 608 seats in the 1936 elections. For their vote in 1945, see question 110.
+The Community Party got 10 seats in the Chamber of Deputies in the 1932 elections, and 72 out of 608 seats in the 1936 elections. For their vote in 1945, see [question § 110](#110).
 
 <div id="112"><em>112. "France is a decadent nation."</em></div>
 
