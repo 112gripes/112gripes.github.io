@@ -1672,146 +1672,40 @@ lacked proper papers were booked for court action.
 
 ## those French Soldiers
 
-t
+<div id="94"><em>94. "It burns me up to see a Frenchman using American uniforms."</em></div>
 
-Sdiife
+It would burn you up more if they were in German uniforms.
 
-nm v p
+Before we invaded North Africa, in 1942, our government arranged to equip
+eleven French divisions. Why? Because every French soldier took a place that
+might have had to be filled by an American.
 
-F'reldChieia
+The 11,000 French soldiers who were killed in action _after_ D-Day were
+entitled to the uniforms in which they died.
 
-.t would burn you up more i they
+Question: Where else could the French have gotten uniforms? From the Germans?
+France was occupied by the Germans when we were equipping the French Army.
 
-a :34.W
+Question: Why didn't the French dye their uniforms, to distinguish them from
+ours? Because they did not have the dyes. Why didn't we dye the uniforms before
+turning them over to the French? Because we were using our dyes for more
+important war production purposes. Why didn't we or the French provide more
+easily-recognised French insignia? That was a mistake.
 
-were
+<div id="95"><em>95. "The French act as if they won the war single-handede."</em></div>
 
-ill
+Those who do are damned fools. The French did not win this war single-handed.
+Neither did we. Neither did the Russians or the British or the Chinese.
 
-(4-ma n
-
-rhh : . 
-
-f
-
-efoi'e we invaded North Afhica, in 1942, our go-vein tame arranged to equip eleven French divisions . Wh y
-.Because. every French soldier took a place that might . have
-haci to be filled by- an American .
-The 11 : 000 French soldiers who were killed in actio n
-aasre.r )-lDayr were entitled to the uniforms in which then
-died .
-uestiun Where else could the French have gotten
-uniforms ? - From the Germans '2 France was occupie d
-by the Germans when we. were. equipping the French Army .
-Question ; Why .didn 't- the French dye their unifonn;s ;
-to -distinguish them 'from ours ? Because they did not .
-?ha -e the d es. Why didn't we dye the uniforms befor e
-turning them over to the French % Because we wer e
-hrairig .our dyes for more important . war production purf:osre . didn't We or the French provide .. more
---isil..r recognised French insignia ? That -wa .s a mistake.
-
-95
-
-r1
-
-
-
-rYilf'T-
-
-ar
-t .:j
-
-i2 .:
-
-7
-
-f
-
-it-"2t
-
-i- c3)i
-
-the tear
-
-<.t iff -!
-
-t)!
-
-Those. - -ti do ore damned fools . The French did ;lot.
-1.4s ii _ single-handed, . Neither did we,
-.
-i.i e?:
-
-Mitt th Ru.e.uttis or the British or the Chine3t, ;
-gC :)Oa Want to form your Own opinion about how lintel .
-die French did to help win the war, ask yourself thes e
-uuessions : Suppose the French army and navy ha d
-joinei no with the Germans m 1940 as Hitler tried to
-get them to do) Suppose . the French armies whic h
-wetsting the Germans or the Itahails had been fightin g
-there had been no French' nnderg ound ,
-3thppo
-eneli resistance, no French sabotage of Gernna n
-it z:en.- pi eduction no French espionage for SHAFF,
-French guerrillas behind the German lines, no Frenc h
-in aitrtl France, no FT'z inc de France as w e
-fought ur way through ? How many more America n
-hdcas do you think we would have lost
-
-ieet: J, so(,'T)ri'3 scee deep their uaiiooiits ?"
-TThe 'French soldier got oahiti• o p : full uniform issued t o
-ni
-fit, is impossible for him to draw another : it i s
-utmost mpossible for him to jnireha e another .
-(e'leazing takes three to four weeks in France :
-Why don ' t: they use cleaning fluid ? Because they don' t
-Lave cleaning flunk
-Pie dont they wash their uniforms ? They do - bu t
-very poor ersatz soap, it . is the only soap they
-2rench soldier got paid Sit} &hxles a rrto-ol'h ($16)
-
-until September, 1945, when this sum was cut  v
-sanc s
-a month (:3 .60) . (This cut in pay came at a : al
-time
-the French government announced it woul d ,e
-cr y
-American soldier in France 850 francs a mont h
-zA ,t. na : )
-The French soldier gets a total pay of about. '-' c(tts a
-day: How well could you keep up you r
-o'canil on
-
-98
-
-lochs .
-You .dont tell. how an army fi ghts b t_r _e
-tier
-The Greek . soldiers wore funny white skirts .
-licked the pants off the dashingly dressed ; : ..-s, and
-: . of th e
-they put 'up an amazing fight against the
-Wellrnrachi,_nhe Pa-nzers, and the Luftws.ffv Gerin 'n officers called metu arl GT .=lophy ; "eareless;" . "undisciplined" soldiers -- but ._ -'as the
-Germans who got the shellacking .
-Tlie" ,arrnnv of George Washington often i : :_ e
-raggedmof3 . Tl eii fighting . record is anc_ h a story . .
-The .French under General Le Cleve fought . :err war .
-from the ..heart- of Africa to Lake . Chad and - .na North frica in an. astonishing eainpaian., No ace sneered a t
-their. uniforms then ,
-.
-. - Trench
-It might . be helpful to remember -that
-ac
-soldiers had been guerrilla fighters. (in the FFL
-i - cls. s
-the resistance) . They still dress : n'et and- cart
-like guerrillas ..
-
-12 cents a day ?
-
-97
-
----
+If you want to form your own opinion about how much the French did to help win
+the war, ask yourself these questions: Suppose the French army and navy had
+joined up with the Germans in 1940 (as Hitler tried to get them to do)?
+Suppose the French armies which were fighting the Germans or the Italians had
+been fighting us? Suppose there had been no French underground, no French
+resistance, no French sabotage of German military production, no French
+espionage for SHAEF, no French guerrillas bhind the German lines, no French
+Maquis in Central France, no FFI inside France as we fought our way through?
+How many more American lives do you think we would have lost?
 
 #### (((Greg's rewrite from the bottom, below))) TODO cleanup, merge, use div and em and ids, hyperlink to other questions
 
@@ -1825,7 +1719,7 @@ Why don't they use cleaning fluid? Because they don't have cleaning fluid.
 
 Why don't they wash their unifroms? They do — but with a very poor ersatz soap. It is the only soap they can get.
 
-The French soldier got paid 800 francs <p>a month</p> ($16) until September, 1945, when this sum was cut to 180 francs a month ($3.60). (This cut in pay came at about the time the French government announced it would give every American soldier in France 850 francs a month as a bonus.) The French soldier gets a total pay of about 22 cents a day. How well could you keep up your uniform on 12 cents a day ?
+The French soldier got paid 800 francs <p>a month</p> ($16) until September, 1945, when this sum was cut to 180 francs a month ($3.60). (This cut in pay came at about the time the French government announced it would give every American soldier in France 850 francs a month as a bonus.) The French soldier gets a total pay of about 12 cents a day. How well could you keep up your uniform on 12 cents a day ?
 
 97. "In Paris you see hundreds of young Frenchmen, our age, in civilian clothes. Why aren't they all in the Army ?"
 
