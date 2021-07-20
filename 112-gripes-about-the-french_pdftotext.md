@@ -1707,9 +1707,9 @@ espionage for SHAEF, no French guerrillas bhind the German lines, no French
 Maquis in Central France, no FFI inside France as we fought our way through?
 How many more American lives do you think we would have lost?
 
-#### (((Greg's rewrite from the bottom, below))) TODO cleanup, merge, use div and em and ids, hyperlink to other questions
+#### (((Greg's rewrite from the bottom, below))) TODO cleanup, merge, hyperlink to other questions
 
-96. "Why don't French soldiers ever clean their uniforms ?"
+<div id="96"><em>96. "Why don't French soldiers ever clean their uniforms ?"</em></div>
 
 The French soldier got only <em>one</em> full uniform issued to him. It is impossible for him to draw another; it is almost impossible for him to purchase another.
 
@@ -1721,13 +1721,13 @@ Why don't they wash their unifroms? They do — but with a very poor ersatz soap
 
 The French soldier got paid 800 francs <p>a month</p> ($16) until September, 1945, when this sum was cut to 180 francs a month ($3.60). (This cut in pay came at about the time the French government announced it would give every American soldier in France 850 francs a month as a bonus.) The French soldier gets a total pay of about 12 cents a day. How well could you keep up your uniform on 12 cents a day ?
 
-97. "In Paris you see hundreds of young Frenchmen, our age, in civilian clothes. Why aren't they all in the Army ?"
+<div id="97"><em>97. "In Paris you see hundreds of young Frenchmen, our age, in civilian clothes. Why aren't they all in the Army ?"</em></div>
 
 Many of them are, even though they are in civilian clothes. Reason? In most French commands (FIXME the Paris area), enlisted men are permitted to wear civilian clothes when they are on pass or off duty. French officers in all commands are permitted to wear civilian clothes when off duty.
 
 It is also worth remembering that in the 1945 draft, the French had to reject 40% of the men called up as physically unfit for military duty (and the standards used were lower than those used in our army.) Why were so many young Frenchmen unfit physically? Because they were underfed by the Germans during the occupation. Because tuberculosis and other diseases spread, during the four years of German occupation. Because of the effects of World War I. (See question 77.) Because the best French youth were killed, wounded, disabled, or taken as slave laborers into Germany.
 
-98. "THe French are sloppy-looking soldiers. One look at them and you know they're not good fighters."
+<div id="98"><em>98. "The French are sloppy-looking soldiers. One look at them and you know they're not good fighters."</em></div>
 
 You don't tell how an army fights by the way it looks. The Greek soldiers wore funny white skirts — but they licked the pants off the dashingly dressed Italians, and they put up an amazing fight against the might of the Wehrmacht, the Panzers, and the Luftwaffe.
 
@@ -1739,11 +1739,11 @@ The French under General Le Clerc fought their war from the heart of Africa to L
 
 It might be helpful to remember that many French soldiers had been guerrilla fighters (in the FFI, the Maquis, the resistance). THey still dress, act and carry themselves like guerillas.
 
-99. "Why do French soldiers look so sloppy in their uniforms ?"
+<div id="99"><em>99. "Why do French soldiers look so sloppy in their uniforms ?"</em></div>
 
 Some do, some don't. Check this yourself. Look around.
 
-100. "What got my gout was all the publicity the French soldiers got! Take the Maquis and the FFI — the part they played in the war was exaggerated in the press."
+<div id="100"><em>100. "What got my gout was all the publicity the French soldiers got! Take the Maquis and the FFI — the part they played in the war was exaggerated in the press."</em></div>
 
 Local papers always play up local news. Local papers are proud of the deeds of local boys. It was an natural for the French to praise the fighting of the French as it was for the Botsford <em>Bugel</em> to give front-page space to the return of the Pfe Elmer Glutz on the day we dropped the atomic bomb on Japan.
 
@@ -1751,7 +1751,7 @@ If it's publicity in the American press which you're objecting to, then criticiz
 
 As for the role the FFI and the Maquis played in the fight against Germany, see the statements of General Patton and General Patch, under question 77.
 
-101. "The French soldiers stole everything they could get their hands on. They stole our gas, jeeps, trucks, rations. We had to post guards over every vehicle."
+<div id="101"><em>101. "The French soldiers stole everything they could get their hands on. They stole our gas, jeeps, trucks, rations. We had to post guards over every vehicle."</em></div>
 
 Some French soldiers certaindly did stel. We didn't like it.
 
@@ -1763,23 +1763,23 @@ It is worth remembering that the French armies had a very large number of men wh
 
 ## French Collaboration
 
-102. "The French were all collaborationists."
+<div id="102"><em>102. "The French were all collaborationists."</em></div>
 
 That's the line Gœbbels used. The Germans exerted every propaganda effort to make us think there was no real resistance in France. Nazi censorship and Nazi firing squads tried to stop our hearing about the resistance.
 
 For the <em>facts</em>, see questions 17, 18, 104.
 
-103. "The French mostly collaborated with the Germans."
+<div id="103"><em>103. "The French mostly collaborated with the Germans."</em></div>
 
 The Germans would disagree with that. The Germans tried for four years to get more Frenchmen to collaborate. That's why they killed so many hostages. That's why they destroyed 344 communities for "crimes" not connected with military operations.
 
 The Germans overran France in 1940. For two years they used every promise, trick and pressure to induce the French people to work in Germany for the German war machine. They offered workers better food, clothes, privileges and protection denied them in France under occupation rules. And in all of France, during that entire period, about 75,000 French workers enlisted. The Germans admitted the campaign was a failure.
 
-The LVF (Legion Volontaire Francaise), the French volunteer arumy that the Germans tried to organize, was a gigantic flop.
+The LVF (Légion Volontaire Française), the French volunteer army that the Germans tried to organize, was a gigantic flop.
 
 For the facts on how the French fought the Germans from 1940 until the liberation, see questions 17, 18, 104.
 
-104. "After France fell, the French laid down and let the Germans walk all over them. They just waited for us to liberate them. Why didn't they put up a fight?"
+<div id="104"><em>104. "After France fell, the French laid down and let the Germans walk all over them. They just waited for us to liberate them. Why didn't they put up a fight?"</em></div>
 
 Millions of French men, women and children put up a fight that took immense guts, skill and patience.
 
@@ -1807,7 +1807,7 @@ An official German report, quoted in the <em>Christian Science Monitor</em> on D
 
 ## "they got off pretty easy in this war"
 
-105. "You woulnd't think they'd even been in the war the way a city like Paris looks."
+<div id="105"><em>105. "You woulnd't think they'd even been in the war the way a city like Paris looks."</em></div>
 
 No, you wouldn't. You can't tell what the war cost France by a stroll down the Champs Elysees, just as you couldn't tell what the war cost America by a walk down the Atlantic City boardwalk.
 
@@ -1815,11 +1815,11 @@ You can't, in Paris, see the 1,115,000 French men and women and children who die
 
 You can't see the increase (300-400 %) in tuberculosis diphteria, typhoid fever, infantile paralysis. You can't see the number of babies who were born dead because of the food and milk shortages. You don't see rickets on the Champs Elysees. If you want more facts, read the answer to the next question.
 
-106. "The French got off pretty easy in the war."
+<div id="106"><em>106. "The French got off pretty easy in the war."</em></div>
 
 ## TODO tables, numbers
 
-107. "Why don't they get to work and rebuild their country ?"
+<div id="107"><em>107. "Why don't they get to work and rebuild their country ?"</em></div>
 
 The French Minister of Finance recently reported that France's industries are beginning to operate at 80 % of capacity. The rebuilding of France is a tremendous job which will take a long time. Shortages of coal, gasoline, electricity, power, transport, and manpower have made a more rapid recovery impossible.
 
@@ -1837,13 +1837,13 @@ And never forget the loss to France of 1.115.000 people (killed, wounded or disa
 
 ## French Politics
 
-108. "All French politicians are corrupt."
+<div id="108"><em>108. "All French politicians are corrupt."</em></div>
 
 That's as silly as saying that all American politicians get graft. Some French politicians are corrupt. So are some American politicians.
 
 Incidentally, the German propaganda line for French politics was, "All French politicians are corrupt." The Germans wanted the French people to lose confidence in their leaders, in their government, and — most of all — in democracy itself. The Germans ran a gigantic smear campaign before the war, during the war, and during the occupation. The only French politicians of importance whom the Germans did <em>not</em> smear were — Petain and Laval. They, said the Nazis, were not corrupt. Odd, isn't it?
 
-109. "The French don't have a decent political system. They've got too many parties. They never get together."
+<div id="109"><em>109. "The French don't have a decent political system. They've got too many parties. They never get together."</em></div>
 
 The French political system is a democracy. It is like ours in its basic principles: freedom of speech, freedom of religion, freedom of the press, freedom of the vote, minority rights, protection under the law, trial by jury, etc.
 
@@ -1859,7 +1859,7 @@ The multiple-party system has this grave dis advantage: in France, no one party 
 
 The French today are very much aware of the dangers and disadvantages of a multiple-party system. How they will solve it, how they will translate wide representation into simpler administration is their problem. They are trying to solve it — democratically.
 
-110. "The French are too radical in politics."
+<div id="110"><em>110. "The French are too radical in politics."</em></div>
 
 Don't be fooled by the names of the French parties. The Radical Socialist party for example, is neighter radical nor socialist. It is the party of small farmers and the lower middle-class: it is a middle-of-the-road party. (Its name is a carry-over from the past.)
 
@@ -1891,11 +1891,11 @@ Popular Republican Movement
 5
 9
 
-111. "The French are Communist."
+<div id="111"><em>111. "The French are Communist."</em></div>
 
 The Community Party got 10 seats in the Chamber of Deputies in the 1932 elections, and 72 out of 608 seats in the 1936 elections. For their vote in 1945, see question 110.
 
-112. "France is a decadent nation."
+<div id="112"><em>112. "France is a decadent nation."</em></div>
 
 How does one measure decadence ?
 
