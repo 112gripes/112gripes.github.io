@@ -1703,7 +1703,7 @@ joined up with the Germans in 1940 (as Hitler tried to get them to do)?
 Suppose the French armies which were fighting the Germans or the Italians had
 been fighting us? Suppose there had been no French underground, no French
 resistance, no French sabotage of German military production, no French
-espionage for SHAEF, no French guerrillas bhind the German lines, no French
+espionage for SHAEF, no French guerrillas behind the German lines, no French
 Maquis in Central France, no FFI inside France as we fought our way through?
 How many more American lives do you think we would have lost?
 
