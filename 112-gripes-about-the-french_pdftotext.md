@@ -1,5 +1,8 @@
 # 112 Gripes about the French
 
+## Foreword of the 2021 restored edition
+
+TODO?
 
 ## Foreword
 
