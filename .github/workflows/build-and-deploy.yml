@@ -2,7 +2,7 @@ name: pandoc-build
 on:
   push:
     paths:
-      - 'document.md'
+      - '112-gripes-about-the-french_pdftotext.md'
       - 'metadata.xml'
       - '.github/**'
       - 'Makefile'
@@ -18,8 +18,8 @@ jobs:
       #     branch: gh-pages # The branch the action should deploy to.
       #     folder: build # The folder the action should deploy.
       - run: make
-      - name: Archive epub in actions
+      - name: Archive built files
         uses: actions/upload-artifact@v2
         with:
-          name: Epub
+          name: build
           path: build/
