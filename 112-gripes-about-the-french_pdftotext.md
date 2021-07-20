@@ -1451,178 +1451,110 @@ That is as deplorable as the same conduct on the part of Americans.
 
 ## Prices: "We're being gypped"
 
-83
+<div id="83"><em>83. "Fifty francs to a dollar is blackmail! The dollar is worth at least 100-200 francs."</em></div>
 
-"Forty
+The rate of 50 francs to the dollar was established in 1942 at the Casablanca
+conference. France didn't set the rate; the rate was agreed upon by the
+governments of France and the United States.
 
-francs to a dollar is blackmoil
-,north, at Inlet 100-200 francs . "
+Why was the rate set at such a disadvantage to the American dollar?
 
-The dollar i s
+First, to keep American soldiers from buying up many of the articles which the
+French themselves desperately needed. The American soldier gets his lodging,
+food, clothes free — and his PX rations at extremely low prices. The French
+people do not get their lodging, food, clothes free — and the prices they pay
+for the things we get at our PXs (if they can even get those things) are very
+high.
 
-The rate of 50 . francs to the dollar was established i n
-1942 at the Casablanca conference . France didn 't set
-the rate the rate was agreed upon .by the go irernment s
-of France and the United States .
--Why was the -rate set at such a disadv-anta-ge to .the
-American dolla r
-First, to keep American soldiers from buying- . up Many
-of the articles which the French themselves -desperatel y
-needed . The American soldier gets his lodging, food ,
-clothes free - and his Psi . rations at extremely low- prices ;The French people do not get their lodging, food . clothe s
-free - and the prices they pay for the things we get a t
-our PXs (if they can even get those things) .are eery high .
-Secondly . -i.he dollar was kept low in order to keep price s
-from going even higher than they are now .
-If the dollar had had more purchasing power in France ,
-American purchasers could have cleaned out the shop s
-of, say . Paris . Prices would .be much higher than they
-already are .
-(Incidentally . if the dollar had been pegged at 100 francs .
-say, the French private would have been getting 88 a
-month pay at the wartime pay rate of 800 francs pe r
-month . He would now begetting 81 .80 per month at th e
-peacetime pay rate of ii francs per day .)
+Secondly, the dollar was kept low in order to keep prices from going even
+higher than they are now.
 
-84
+If the dollar had had more purchasing power in France, American purchasers
+could have cleaned out the shops of, say, Paris. Prices would be much higher
+than they already are.
 
-"The high prices and - inflation . era France are
+(Incidentally, if the dollar had been pegged at 100 francs, say, the French
+private would have been getting $8 a month pay at the wartime pay rate of 800
+francs per month. He would now be getting $1.80 _per month_ at the peacetime
+pay rate of 6 francs per day.)
 
-a disgrace . "
+<div id="84"><em>84. "The high prices and inflation in France are a disgrace."</em></div>
 
-Inflation is more than a disgrace - it is a tragedy. Th e
-French are hit by it much harder than we are .
-The basic reason for inflation, for very high prices, is the
-great shortage of food and goods and things which peopl e
-need and have the money to buy . When there is not
-enough of anything (except money), prices go up . When
-there is too much . prices go down ; when supply and
-demand operate in a healthy, normal fashion, prices ar e
-reasonable .
-Inflation in France will end when there are enoug h
-goods for all the people who want to buy= them . As long
-as there are severe shortages . prices will be high .
+Inflation is more than a disgrace — it is a tragedy. The French are hit by it
+much harder than we are.
 
-85
+The basic reason for inflation, for very high prices, is the great shortage of
+food and goods and things which people need and have the money to buy. When
+there is not enough of anything (except money), prices go up. When there is too
+much, prices go down; when supply and demand operate in a healthy, normal
+fashion, prices are reasonable.
 
-"T.-Vhera . we bzry -nice 'presents to send home, loc..
-through- the nos e
+Inflation in France will end when there are enough goods for all the people who
+want to buy them. As long as there are severe shortages, prices will be high.
 
-pay
+<div id="85"><em>85. "When we buy nice presents to send home, we pay through the nose!"</em></div>
 
-It's the. same nose you pay through when you buy nic e
-presents in the States . At home, most of us did not .bu y
-Iuxury articles . Here we do . How often, back home ,
-did you buy line French perfume for your girl How muc h
-did you pay ?
-The French government has taken the luxury tax off
-articles purchased by American soldiers . The Frenc h
-pay it we don't . Who is paying through the nose ?
+It's the same nose you pay through when you buy nice presents in the States.
+At home, most of us did not buy luxury articles. Here we do. How often, back
+home, did you buy fine French perfume for your girl? How much did you pay?
 
-86
+The French government has taken the luxury tax off articles purchased by
+American soldiers. The French pay it; we don't. Who is paying through the nose?
 
-- bracelets can the average Frenchman buy - after h e
-gets done paying for food and rent ? How much can the
-French GI buy - .on pay of 6 cents a da y
+<div id="86"><em>86. "The prices we are getting soaked is a scandal."</em></div>
 
-"The prices we are gctti,tg soaked• is a . scoe1al. "
+Prices in France are certainly very high. But high prices hit the French much
+harder than they hit any of us. Most of the things we buy in France are
+luxuries. A shot of cognac is definitely a luxury for most Frenchmen.
 
-Prices in France are certainly -very high . But hig h
-prices hit the French much harder than 'hey hit -any o f
-us . Most of the things we buy in France are luxuries .
-A shot of cognac is definitely a luxury for most Frenchmen .
-Examine the followin g prices, which the French are
-paying - if and when they can get the articles
-Bread 1 hg . (2 .21bs .) .
-Beef 1 kgButter 1 kg
-Eggs 1 dz .
-Soap 1kg
-Electricity, 1 inc w
-Gas, m 3
-Cotton Socks
-.
+Examine the following prices, which the French are paying — if and when they
+can get the articles:
 
-.
+                        July 1945
+                      --------------------
+Bread 1 kg (2.21bs.)          7.40 francs
+Beef 1 kg                    97.00 —
+Butter 1 kg                 113.00 —
+Eggs 1 dz                    45.60 —
+Soap 1 kg                    31.00 —
+Electricity, 1 kw             4.64 —
+Gas, m<sup>3</sup>            3.29 —
+Cotton Socks                150.00 — (when you can get them)
+Undershirt                  350.00 — (plus 8 points)
+Suit                   1,500-1,000 — (but try to find one)
 
-_
+The average skilled worker in France gets 1,200-1,300 francs ($24-26) a week.
+How much cognac, perfume, kerchiefs, bracelets can the average Frenchman buy
+— after he gets done paying for food and rent? How much can the French GI buy —
+on pay of 6 cents a day?
 
-Undershtr
-Suit
+<div id="87"><em>87. "What did the French ever do make up for the ridiculous exchange rate?"</em></div>
 
-<
+The French government has made an effort to reduce the low purchasing power of
+the American dollar by:
 
-7 .4 0
-0 ; .0 0
-113 .0 0
-4.5 .6 0
-31 .0 0
-4 .6 4
-3 .2 0
-150 .00
+1. Giving each US soldier in France a gift of 850 francs a month (this is over
+   four months pay for a French private).
+2. Reducing the cost of gifts purchased at PXs by 9-42%.
+3. Making luxury tax rebates of 11-47% on gifts purchased at retail stores and
+   sent home via Red Cross wrapping centers.
+4. Giving free conducted tours to Americans all through France.
+5. Opening special night-clubs and entertainment facilities for American
+   soldiers.
 
-87
+<div id="88"><em>88. "Giving us 850 francs a month is just a way for the French to get off the hook for all the Lend-Lease stuff we've given them."</em></div>
 
-"What dirt the French . ever do .to ioal.e up for the ridi- culous exchange late ?' '
+The 850 francs are in no way connected with Lend-Lease. The gift is not to be
+deducted from the French government debt or commitments under Lend-Lease. It
+has no reciprocal basis of any kind. It is an outright gift. It will ultimately
+cost the French around $40,290,000
 
-The French government has made an effort to reduc e
-the low purchasing power of the American dollar by :
-1 . Giymg each US soldier in France a gift of 850 franc s
-a month (this is over four months pay for a Frenc h
-private)
-Reducing the cost of gifts purchased at Piles b y
-9-42 0r 0
-. Making luxury tax rebates of 11-47 0; ' o on gift s
-purchased at retail stores and sent home via Re d
-Cross wrap-rung centers .
-4 Giving free conducted tours to Americans all
-through France .
-Opening s pecial night-clubs and entertainmen t
-facilities for American soldiers .
+<div id="89"><em>89. "This 850 francs a month gift to us has something fishy about it."</em></div>
 
--
+There s nothing fishy about it.
+"All looks yellow to the jaundiced eye"
 
-(when you can get
-them)
-350 .00 (plus 8 points )
-1,500-1 .000 francs
-(but try to and
-
-one )
-The average skilled worker in France gets 1 .200-1.300 fr.
-(824-26) a week . How much cognac, perfume, kerchiefs,
-
-88
-
-ining„ 21s 850 francs a ^iontia is fst a way for the
-Fre fch to ,qet ofl the fool.: tar all the Lend-Lease stu f we ' v e
-given them . "
-
-The, 850 francs are in no way connected with . Lend Lease . The gift is not to be
-deducted from the Frenc h
-government debt or commitments under Lend-Lease .
-It has no reciprocal basis of any kind . It is an outrigh
-t
-gift . It will ultimately cost the French around 8 40
-.290,00 0
-89
-
-T/
-550 rrafcs
-f_s/ty o tiot?t it . '
-
-a
-
-1 12o?
-
-t)i. O'r/t to
-
-s )% ;'(8 4om
-
-binc,
-
-There s nothing fishy about it .
-"All Iooks yellow to the jaundiced eye "
--Alexander Po p e .
+— Alexander Pope.
 
 ## the Black Market
 
