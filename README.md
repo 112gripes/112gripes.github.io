@@ -28,7 +28,6 @@
 
 - [x] Initial dump to txt of the PDF's OCR
 - [x] First pass of text cleanup & rewrital (@ronjouch starting at top, @gregsadetsky starting at end)
-    - [ ] 🏃 Tables #106 @nmielec 
     - [ ] A couple of full re-readings by different people
 - [ ] 🏃 @ronjouch Validate with lawyer the original text isn't copyrighted
     - [ ] Ask r/legaladvice if no news from tentative lawyer
@@ -42,6 +41,7 @@
     - [ ] Agree on consistent way of recreating punctuation from original. Do we use em-dashes? Space before question mark? Two spaces after periods?
     - [ ] Add `<abbr>` on abbreviations (first time? all times?)
     - [ ] Flag / deal with `TODO`s and `FIXME`s left in Markdown
+        - [ ] 🏃 Tables #106 @nmielec 
     - [ ] How to deal with errors in original - "democraties" in question 112 (add "sic" ?), "the war" repeated twice in question 105
     - [ ] How to deal with French names in original that don't use any accents ("Champs Elysees" in original rather than "Champs-Élysées")
 - [ ] 🏃 Setup CI: build html+epub & publish to .github.io domain . A markdown linter, maybe?
