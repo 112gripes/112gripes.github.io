@@ -28,6 +28,7 @@
 
 - [x] Initial dump to txt of the PDF's OCR
 - [x] First pass of text cleanup & rewrital (@ronjouch starting at top, @gregsadetsky starting at end)
+    - [ ] 🏃 Tables #106 @nmielec 
     - [ ] A couple of full re-readings by different people
 - [ ] 🏃 @ronjouch Validate with lawyer the original text isn't copyrighted
     - [ ] Ask r/legaladvice if no news from tentative lawyer
