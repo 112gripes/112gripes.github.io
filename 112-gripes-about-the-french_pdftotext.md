@@ -1692,7 +1692,7 @@ turning them over to the French? Because we were using our dyes for more
 important war production purposes. Why didn't we or the French provide more
 easily-recognised French insignia? That was a mistake.
 
-<div id="95"><em>95. "The French act as if they won the war single-handede."</em></div>
+<div id="95"><em>95. "The French act as if they won the war single-handed."</em></div>
 
 Those who do are damned fools. The French did not win this war single-handed.
 Neither did we. Neither did the Russians or the British or the Chinese.
