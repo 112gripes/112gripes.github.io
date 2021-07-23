@@ -27,7 +27,7 @@ The source text file(s), HTML and EPUB artifacts, and illustrations, are
 licenced under Creative Commons Attribution-ShareAlike 4.0 International license
 ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)).
 
-The build script(s) are licensed under GNU General Public License version 3.
+The build script(s) are licensed under MIT license.
 
 ## TODO
 
