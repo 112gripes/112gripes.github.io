@@ -21,18 +21,26 @@
 - Maximum readability of the source Markdown. If we need to inline more raw HTML
   to make the HTML/EPUB output better, we will. Standard Ebooks is all HTML.
 
+## License
+
+The source text file(s), HTML and EPUB artifacts, and illustrations, are
+licenced under Creative Commons Attribution-ShareAlike 4.0 International license
+([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)).
+
+The build script(s) are licensed under MIT license.
+
 ## TODO
 
 🏃 = task assigned and in progress. To collaborate, ask the assignee to avoid conflicts.
 ❓️ = tentatively assigned
 
 - [x] Initial dump to txt of the PDF's OCR
+- [x] Figure out license of our edition. CC BY-SA? BY?
 - [x] First pass of text cleanup & rewrital (@ronjouch starting at top, @gregsadetsky starting at end)
     - [ ] A couple of full re-readings by different people
 - [ ] 🏃 @ronjouch Validate with lawyer the original text isn't copyrighted
     - [ ] Ask r/legaladvice if no news from tentative lawyer
     - [ ] @nmielec clean up & upload illustrations
-- [ ] Figure out license of our edition. CC BY-SA? BY?
 - [ ] 🏃 @nmielec Figure out build pipeline (pandoc probably?)
     - [x] Preliminary tests of pandoc for html and epub generation
     - [ ] Decide on document structure and formatting (html and epub)
