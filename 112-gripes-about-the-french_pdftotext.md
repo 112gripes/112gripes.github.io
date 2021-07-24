@@ -1118,7 +1118,7 @@ or customs are the things he believes in and fights for. In this sense, we
 agree with the idea of Thomas Jefferson: "Resistance to tyrants is obedience to
 God."
 
-For over 000 years France has been one of the great civilizations of the world.
+For over 900 years France has been one of the great civilizations of the world.
 "Within the framework of the Third Republic… there lived and flourished a
 civilization so brilliant, so human, so gracious and beautiful, that mankind
 will be in its debt forever… When free men look back upon this Republic, they
