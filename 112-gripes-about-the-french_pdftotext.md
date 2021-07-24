@@ -798,7 +798,7 @@ The average Frenchman had a lot less money than the average American.
 
 The places we frequent in Paris are comparable to the rich or "touristy"
 neighborhoods of any big American city — Fifth Avenue, Michigan Boulevard,
-Wilshire Boulevard. It is on the Champs Elysees, around l'Opéra and on the
+Wilshire Boulevard. It is on the Champs Élysées, around l'Opéra and on the
 Boulevard Haussman that you see _those_ Frenchmen who are well-dressed. It is
 there, too, that you see those who profit from the inflation and the black
 market.
@@ -1829,11 +1829,11 @@ An official German report, quoted in the <em>Christian Science Monitor</em> on D
 
 <div id="105"><em>105. "You woulnd't think they'd even been in the war the way a city like Paris looks."</em></div>
 
-No, you wouldn't. You can't tell what the war cost France by a stroll down the Champs Elysees, just as you couldn't tell what the war cost America by a walk down the Atlantic City boardwalk.
+No, you wouldn't. You can't tell what the war cost France by a stroll down the Champs Élysées, just as you couldn't tell what the war cost America by a walk down the Atlantic City boardwalk.
 
 You can't, in Paris, see the 1,115,000 French men and women and children who died, were wounded, were in concentration camps, or were shot as hostages. You can't see the food and supplies that were taken from France. You can't see the 12,551,639,000 man-hours of labor that the Germans took for themselves. You can't see the meagre rations that the French were fed. You can't see the malnutrition that the Germans caused. (70% of the men and 55% of the women in France lost an average of 12% of their weight.)
 
-You can't see the increase (300-400 %) in tuberculosis diphteria, typhoid fever, infantile paralysis. You can't see the number of babies who were born dead because of the food and milk shortages. You don't see rickets on the Champs Elysees. If you want more facts, read the answer to the next question.
+You can't see the increase (300-400 %) in tuberculosis diphteria, typhoid fever, infantile paralysis. You can't see the number of babies who were born dead because of the food and milk shortages. You don't see rickets on the Champs Élysées. If you want more facts, read the answer to the next question.
 
 <div id="106"><em>106. "The French got off pretty easy in the war."</em></div>
 
