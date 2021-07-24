@@ -1226,7 +1226,7 @@ seeing a Germany that has had the arrogance and insolence knocked out of her.
 You can't tell what "the Germans" are really like, because you are seeing
 Germans who are being forced to obey themselves — under military government.
 
-'Forsake not an old friend, for the new is not comparable unto him".
+"Forsake not an old friend, for the new is not comparable unto him".
 — Ecclesiasticus, IX, 10 —
 
 <div id="70"><em>70. "The French are not as clean as the Germans."</em></div>
