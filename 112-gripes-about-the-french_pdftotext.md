@@ -49,7 +49,7 @@ and its constant push towards empathy and reasoning is as welcome as ever.
 
 We hope you enjoy reading it as much as we enjoyed restoring it.
 
-— Your friendly francophone dilettante publishers: R.J., N.M.
+— Your friendly francophone dilettante publishers: R.J., N.M. & contributors
 
 
 ## License
