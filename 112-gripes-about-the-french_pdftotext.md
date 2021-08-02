@@ -1,11 +1,62 @@
 # 112 Gripes about the French
 
-## Foreword of the 2021 restored edition
+## Foreword to the 2021 restored edition
 
-TODO?
+According to [Wikipedia](https://en.wikipedia.org/wiki/112_Gripes_About_the_French)
+as of summer 2021,
 
-This ebook is licenced under the Creative Commons Attribution-ShareAlike 4.0
+> _**112 Gripes About the French**_ was a 1945 handbook issued by the U.S.
+> military authorities to enlisted personnel arriving in France after the
+> Liberation. It was meant to defuse the growing tension between the American
+> military and the locals.
+> 
+> The euphoria of victory over Germany was short-lived, and within months of
+> Liberation, tensions began to rise between the French and the U.S. military
+> personnel stationed in the country, with the former seeing the latter as
+> arrogant and wanting to flaunt their wealth, and the latter seeing the former
+> as proud and resentful. Fights were breaking out more often, and fears were
+> raised, even among high officials, that the situation might eventually lead
+> to a breakdown of civil order.
+> 
+> Set out in a question-and-answer format, _112 Gripes about the French_ posed
+> a series of well-rehearsed complaints about the French, and then provided a
+> common-sense rejoinder to each of them — the aim of the authors being to
+> bring the average American soldier to a fuller understanding of his hosts.
+
+The book is left un-credited but is often attributed to Leo Rosten
+([1](https://www.tandfonline.com/doi/abs/10.1080/10260210410001733405),
+[2](https://www.thetimes.co.uk/article/handbook-for-gis-dispelled-myths-about-smelly-frenchwomen-with-loose-morals-jpkj687md)).
+
+The restored edition you are reading now is what happens when a bunch of
+internet nerds discovers something too interesting and peculiar to leave in
+poorly-digitized shape. It is legal, as we worked from the the un-copyrighted
+original text. You may find scans of the original archived here and there on the web,
+and we host a copy (of the PDF version watermarked by the George C. Marshall
+Foundation) at https://112gripes.github.io/112gripes.pdf .
+
+Our restored edition is faithful to the original 1945 text, save for fixing
+rare typos, and using modern formatting & typographical style. It is _not_
+faithful in form, as it aims to be maximally readable in browsers and e-readers.
+It is a labor of love from amateur publishers; your reports of typos & inconsistencies
+are welcome at https://github.com/112gripes/112-gripes-about-the-french/issues .
+
+In addition to fulfilling the desire of bringing this handbook up to modern
+technical standards for easier dissemination and studying, this document felt
+worthwhile and ripe for a restored edition as a peculiar piece of propaganda.
+It is propaganda for sure and is not devoid of archaisms, but it has the grace
+to not hide its rhetorical instruments, it has an endearing rhythm & style,
+and its constant push towards empathy and reasoning is as welcome as ever.
+
+We hope you enjoy reading it as much as we enjoyed restoring it.
+
+— Your friendly francophone dilettante publishers: R.J., N.M. & contributors
+
+
+## License
+
+This restored edition is licenced under the Creative Commons Attribution-ShareAlike 4.0
 International license ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))
+
 
 ## Foreword
 
