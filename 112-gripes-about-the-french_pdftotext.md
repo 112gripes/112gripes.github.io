@@ -28,7 +28,7 @@ The book is left un-credited but is often attributed to Leo Rosten
 [2](https://www.thetimes.co.uk/article/handbook-for-gis-dispelled-myths-about-smelly-frenchwomen-with-loose-morals-jpkj687md)).
 
 The restored edition you are reading now is what happens when a bunch of
-internet nerds discover something too interesting and peculiar to leave in
+internet nerds discovers something too interesting and peculiar to leave in
 poorly-digitized shape. It is legal, as we worked from the the un-copyrighted
 original text. You may find scans of the original archived here and there on the web,
 and we host a copy (of the PDF version watermarked by the George C. Marshall
@@ -49,7 +49,7 @@ and its constant push towards empathy and reasoning is as welcome as ever.
 
 We hope you enjoy reading it as much as we enjoyed restoring it.
 
-— Your friendly francophone dilettante publishers: R.J., N.M., G.S.
+— Your friendly francophone dilettante publishers: R.J., N.M.
 
 
 ## License
