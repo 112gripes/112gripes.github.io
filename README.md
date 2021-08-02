@@ -34,16 +34,9 @@ The build script(s) are licensed under MIT license.
 🏃 = task assigned and in progress. To collaborate, ask the assignee to avoid conflicts.
 ❓️ = tentatively assigned
 
-- [x] Initial dump to txt of the PDF's OCR
-- [x] Figure out license of our edition. CC BY-SA? BY?
-- [x] First pass of text cleanup & rewrital (@ronjouch starting at top, @gregsadetsky starting at end)
-    - [ ] A couple of full re-readings by different people
-- [ ] 🏃 @ronjouch Validate with lawyer the original text isn't copyrighted
-    - [ ] Ask r/legaladvice if no news from tentative lawyer
-    - [ ] @nmielec clean up & upload illustrations
-- [ ] 🏃 @nmielec Figure out build pipeline (pandoc probably?)
-    - [x] Preliminary tests of pandoc for html and epub generation
-    - [ ] Decide on document structure and formatting (html and epub)
+- [ ] A couple of full re-readings by different people
+- [ ] Decide document structure and formatting (html and epub)
+- [ ] @nmielec clean up & upload illustrations
 - [ ] Pimping around
     - [ ] Fix dumb ascii `"` quotation marks into proper nice typographic marks (careful about nested quotes)
     - [ ] Agree on consistent way of recreating punctuation from original. Do we use em-dashes? Space before question mark? Two spaces after periods?
@@ -52,9 +45,6 @@ The build script(s) are licensed under MIT license.
         - [ ] 🏃 Tables #106 @nmielec 
     - [ ] How to deal with errors in original - "democraties" in question 112 (add "sic" ?), "the war" repeated twice in question 105
     - [ ] How to deal with French names in original that don't use any accents ("Champs Elysees" in original rather than "Champs-Élysées")
-- [ ] 🏃 Setup CI: build html+epub & publish to .github.io domain . A markdown linter, maybe?
-    - [x] Github CI tests with pandoc in another repo for html+epub building and publishing to a .github.io domain
+- [ ] Move repo to `112gripes` org
+    - [ ] 🏃 Setup CI: build html+epub & publish to .github.io domain . A markdown linter, maybe?
     - [ ] Deploy to this repo when main structure is ready
-- [ ] Write a preface to our edition? Find a historian to do so?
-    - [ ] Mention / add references that confirm that Leo Rosten was probable original author. [see here](https://books.google.ca/books?id=9aCqRoUoKf4C&lpg=RA1-PA1922&ots=F3a8nU5PyQ&dq=112%20gripes%20leo%20rosten&pg=RA1-PA1922#v=onepage&q=112%20gripes%20leo%20rosten&f=false), [here](https://www.thetimes.co.uk/article/handbook-for-gis-dispelled-myths-about-smelly-frenchwomen-with-loose-morals-jpkj687md), [here](https://www.tandfonline.com/doi/abs/10.1080/10260210410001733405)
-- [ ] What else?
