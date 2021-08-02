@@ -1843,7 +1843,8 @@ Some do, some don’t. Check this yourself. Look around.
 Local papers always play up local news. Local papers are proud of the deeds of
 local boys. It was an natural for the French to praise the fighting of the
 French as it was for the Botsford _Bugel_ to give front-page space to the
-return of the Pfe Elmer Glutz on the day we dropped the atomic bomb on Japan.
+return of the <abbr title="Private First Class">Pfc</abbr> Elmer Glutz on the
+day we dropped the atomic bomb on Japan.
 
 If it’s publicity in the American press which you’re objecting to, then
 criticize American news judgment; not French vanity. The story of the maquis
@@ -1855,11 +1856,11 @@ the statements of General Patton and General Patch, under [question § 77](#77).
 
 <div id="101"><em>101. “The French soldiers stole everything they could get their hands on. They stole our gas, jeeps, trucks, rations. We had to post guards over every vehicle.”</em></div>
 
-Some French soldiers certaindly did stel. We didn’t like it.
+Some French soldiers certaindly did steal. We didn’t like it.
 
 So did some Americans. The French didn’t like that.
 
-The French had no monopoly on “moonlight requisiotning” — as any GI knows.
+The French had no monopoly on “moonlight requistioning” — as any GI knows.
 
 It is worth remembering that the French armies had a very large number of men
 who had been trained in underground fighting, in guerilla warfare, in the
@@ -1903,7 +1904,7 @@ Millions of French men, women and children put up a fight that took immense
 guts, skill and patience.
 
 The Fighting French never stopped fighting — in the RAF, North Africa, Italy,
-and up through France with the US 7 th Army.
+and up through France with the US 7<sup>th</sup> Army.
 
 Here is how the French people inside France fought the Germans after the fall
 of France:
@@ -1914,7 +1915,7 @@ machinery, slowed down production, changed blue-prints.
 They dynamited power plants, warehouses, transmission lines. They wrecked
 trains. They destroyed bridges. They damaged locomotives.
 
-They organized armed groups which fought the German police, the Gestpo, the
+They organized armed groups which fought the German police, the Gestapo, the
 Vichy militia.
 
 They executed French collaborationists.
@@ -1926,7 +1927,7 @@ and the nature and movement of military supplies.
 They got samples of new German weapons and explosive powder to London.
 
 They ran an elaborate “underground railway” for getting shot-down American and
-British flyers back to English. THey hid, clothed, fed and smuggled out of
+British flyers back to England. They hid, clothed, fed and smuggled out of
 France over 4,000 American airmen and parachutists. (Getting food and clothes
 isn’t easy when you’re on a starvation ration yourself. It’s risky to forget
 identification papers.) Every American airman rescue meant half a dozen French
@@ -1962,11 +1963,13 @@ France lost an average of 12% of their weight.)
 You can’t see the increase (300-400 %) in tuberculosis diphteria, typhoid
 fever, infantile paralysis. You can’t see the number of babies who were born
 dead because of the food and milk shortages. You don’t see rickets on the
-Champs Élysées. If you want more facts, read the answer to the next question.
+Champs Élysées.
+
+If you want more facts, read the answer to the next question.
 
 <div id="106"><em>106. “The French got off pretty easy in the war.”</em></div>
 
-What do you call “pretty easy ?” Here is what the war cost France!
+What do you call “pretty easy?” Here is what the war cost France!
 
 In people
 
@@ -2061,7 +2064,7 @@ In money
 <table class="casualties">
   <tr><th></th><th>1945 Franc value</th></tr>
   <tr><td>Destruction of buildings, agriculture, Industry, war material etc</td><td>2,342,000,000,000</td></tr>
-  <tr><td>German exchange extortion (setting the franc at 20 francs to the mark, instead of the real value - 10 francs to the mark.)</td><td>1,832,000,000,000</td></tr>
+  <tr><td>German exchange extortion (setting the franc at 20 francs to the mark, instead of the real value — 10 francs to the mark.)</td><td>1,832,000,000,000</td></tr>
   <tr><td>Pensions to military and civilian dead and disabled</td><td>359,000,000</td></tr>
   <tr><td>Cash payments to maintain German army of occupation</td><td>2,353,480,000,000</td></tr>
   <tr><td>Agricultural products taken by Germans or damaged</td><td>668,253,000,000</td></tr>
@@ -2074,7 +2077,7 @@ In money
 
 Estimated total money cost to France of the war: 98 billion dollars.
 
-Estimated total cost to U.S. - 300 billion dollars.
+Estimated total cost to U.S. — 300 billion dollars.
 
 France is about one fourteenth the size of the United States.
 
@@ -2084,12 +2087,13 @@ You can put nearly all of France into Utah and Nevada.
 <div id="107"><em>107. “Why don’t they get to work and rebuild their country ?”</em></div>
 
 The French Minister of Finance recently reported that France’s industries are
-beginning to operate at 80 % of capacity. The rebuilding of France is a
+beginning to operate at 80% of capacity. The rebuilding of France is a
 tremendous job which will take a long time. Shortages of coal, gasoline,
 electricity, power, transport, and manpower have made a more rapid recovery
 impossible.
 
-In 1944, after liberation, France found that of its pre-war transportation the following were left:
+In 1944, after liberation, France found that of its pre-war transportation the
+following were left:
 
 - 35% of the locomotives,
 - 37% of the freight cars,
@@ -2097,7 +2101,7 @@ In 1944, after liberation, France found that of its pre-war transportation the f
 - 38% of the merchant marine.
 
 The most important single factor which is holding up French production is the
-shortage of coal. On Februrar 3, 1945 our Office of War Information analyzed
+shortage of coal. On February 3, 1945 our Office of War Information analyzed
 economic conditions in France and pointed out how the coal crisis has plunged
 France into a vicious circle. Mines could not operate without timber pit props
 to shore up the ceilings of tunnels in coal veins as they were expanded.
@@ -2123,7 +2127,7 @@ politicians are corrupt.” The Germans wanted the French people to lose
 confidence in their leaders, in their government, and — most of all — in
 democracy itself. The Germans ran a gigantic smear campaign before the war,
 during the war, and during the occupation. The only French politicians of
-importance whom the Germans did _not_ smear were — Pétain and Laval.
+importance whom the Germans did _not_ smear were Pétain and Laval.
 They, said the Nazis, were not corrupt. Odd, isn’t it?
 
 <div id="109"><em>109. “The French don’t have a decent political system. They’ve got too many parties. They never get together.”</em></div>
@@ -2141,7 +2145,7 @@ position. They odn’t believe that “there are two ways of looking at things�
 the French think there are dozens of ways, and that if enough people hold to
 any one way they have a right to be represented in the government.
 
-French electrocal practice has not encouraged party organisation such as ours.
+French electoral practice has not encouraged party organisation such as ours.
 The elections to the Chamber of Deputies are more like our municipal (city)
 elections than our national elections. In our city elections, people frequently
 vote for their friends and neighbors, — for men rather than parties. This is
@@ -2182,6 +2186,7 @@ Since the liberation, the French have held municipal elections in May 1945 and
 cantonal elections in September 1945. The voting strength of the main party in
 those elections was approximately as follows:
 
+TODO should we use a `<table>` here too?
 
 Name of Party                 % vote case May 1945    % vote case Sept. 1945
 ---------------              ----------------------  ------------------------

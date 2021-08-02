@@ -42,4 +42,4 @@ The build script(s) are licensed under MIT license.
 - [ ] Pimping around
     - [ ] Add `<abbr>` on abbreviations (first time? all times?)
     - [ ] 🏃 @nmielec Tables #106
-- [ ] Fix remainint `TODO` & `FIXME` cases
+- [ ] Fix remaining `TODO` & `FIXME` cases
