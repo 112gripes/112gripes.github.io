@@ -107,12 +107,12 @@ TODO generate ToC
 
 <div id="1"><em>1. “We came to Europe twice in twenty-five years to save the French.”</em></div>
 
-We didn't come to Europe to save the French, either in 1917 or in 1944. We
-didn't come to Europe to do anyone any favors. We came to Europe because we in
+We didn’t come to Europe to save the French, either in 1917 or in 1944. We
+didn’t come to Europe to do anyone any favors. We came to Europe because we in
 America were threatened by a hostile, aggressive and very dangerous power.
 
-In this war, France fell in June of 1940. We didn't invade Europe until June of
-1944. We didn't even think of “saving the French” through military action until
+In this war, France fell in June of 1940. We didn’t invade Europe until June of
+1944. We didn’t even think of “saving the French” through military action until
 after Pearl Harbor — after the Germans declared war on us.
 
 We came to Europe, in two wars, because it was better to fight our enemy in
@@ -132,14 +132,14 @@ the Germans needed on the Atlantic for submarine and air warfare.
 
 American security and American foreign policy have always rested on this hard
 fact: we cannot permit a hostile power on the Atlantic Ocean. We cannot be
-secure if we are threatened on the Atlantic. That's why we went to war in 1917;
-that's why we had to fight in 1944. And that's why, as a matter of common sense
+secure if we are threatened on the Atlantic. That’s why we went to war in 1917;
+that’s why we had to fight in 1944. And that’s why, as a matter of common sense
 and the national interest, President Roosevelt declared (November 11, 1941):
 “The defense of any territory under the control of the French Volunteer Forces
 (the Free French) is vital to the defense of the United States.”
 
 
-<div id="2"><em>2. “At first, when we came into Normandy, and then into Paris, the French gave us everything — wine, cheese, fruit, everything. They threw their arms around us and kissed us every time we turned around. They gave us the biggest welcome you ever saw. But they've forgotten. They're ungrateful.”</em></div>
+<div id="2"><em>2. “At first, when we came into Normandy, and then into Paris, the French gave us everything — wine, cheese, fruit, everything. They threw their arms around us and kissed us every time we turned around. They gave us the biggest welcome you ever saw. But they’ve forgotten. They’re ungrateful.”</em></div>
 
 Perhaps the French ran out of wine, cheese, fruit and cognac to pass out free.
 Perhaps the French depleted the stocks they had hidden in their cellars from
@@ -149,11 +149,11 @@ Could not a Frenchman who read the question above ask, “Are the Americans so
 ungrateful? Have they so soon forgotten how much we gave them from what little
 we had?”
 
-<div id="3"><em>3. “The French don't invite us into their homes.”</em></div>
+<div id="3"><em>3. “The French don’t invite us into their homes.”</em></div>
 
-They don't have the food. (The Germans took it.)
+They don’t have the food. (The Germans took it.)
 
-They don't speak English and we don't speak French. It's hard to extend
+They don’t speak English and we don’t speak French. It’s hard to extend
 hospitality under those conditions.
 
 Ask those soldiers who _have_ been invited into a French home what it was like.
@@ -172,9 +172,9 @@ and goals rest on a common foundation. (See [question § 69](#69).)
 
 “Unless you bear with the faults of a friend you betray your own.”
 
-<div id="5"><em>5. “I'll never love the french.” “I hate the French!”</em></div>
+<div id="5"><em>5. “I’ll never love the french.” “I hate the French!”</em></div>
 
-You don't have to love the French. You don't have to hate them either. You
+You don’t have to love the French. You don’t have to hate them either. You
 might try to understand them.
 
 The more important point is not to let your feeling blind you to the fact that
@@ -183,7 +183,7 @@ they were and are our _allies_. They were in 1917, too.
 The most important question any people can ask itself is this: “Who fights with
 us? Who fights against us?”
 
-<div id="6"><em>6. “We're always pulling the French out of a jam. Did they ever do anything for us?”</em></div>
+<div id="6"><em>6. “We’re always pulling the French out of a jam. Did they ever do anything for us?”</em></div>
 
 They did. They helped us out of one of the greatest jams we were ever in.
 During the American revolution, when almost the entire world stood by in
@@ -194,7 +194,7 @@ over $3,000,000 more. (That was a lot more money in those days than it is now.)
 45,000 Frenchmen volunteered in the army of George Washington. They crossed the
 Atlantic Ocean in small boats that took two months to make the voyage.
 
-Washington's army had no military engineers; it was French engineers who
+Washington’s army had no military engineers; it was French engineers who
 designed and built our fortifications.
 
 The name of Lafayette is one that Americans will never forget, and the French
@@ -212,18 +212,18 @@ are at the end of our tether, and… now or never our deliverance must come.”
 It was France that came to our aid in our darkest hour.
 
 
-<div id="7"><em>7. “We can't rely on these French.”</em></div>
+<div id="7"><em>7. “We can’t rely on these French.”</em></div>
 
 That depends on what you mean by “rely”. If you expect the French to react like
 Americans, you will be disappointed. They are not Americans; they are French.
 If you expect the French to hurry the way we do, you will be disappointed; the
-French don't hurry — neither do most of the people in the world outside of
+French don’t hurry — neither do most of the people in the world outside of
 America.
 
 But we _were_ able to rely on the French for the most important thing: France
 fought with us, not against us, twice in the past two decades.
 
-<div id="8"><em>8. “We've had more beefing from the French than from the Germans. We are always quarreling with them. They criticize everything. They have to put their two cents in. But the Germans — they just do what you tell them to. They're co-operative; the French aren't.”</em></div>
+<div id="8"><em>8. “We’ve had more beefing from the French than from the Germans. We are always quarreling with them. They criticize everything. They have to put their two cents in. But the Germans — they just do what you tell them to. They’re co-operative; the French aren’t.”</em></div>
 
 Two men working together are more likely to tell each other off than a prisoner
 is to tell off the warden.
@@ -232,21 +232,21 @@ Of course we differ with the French; of course we argue with them. Why?
 Because we have a common goal and face common problems. Because we, like the
 French, have been taught to think for ourselves, to “put our two cents in”.
 Democracy is based on the idea that everyone has a basic right to “put his
-two cents in” . In America we say, “I'm from Missouri” or “Sez who?”
-The French have the'same attitude; they say, _“Je ne crois qu ce que je vois”_.
-(“I only believe what I see.”) Or _“Je ne demande pas mieux que d'être convaincu”_
-(“I don't ask much; I just want to be convinced.”)
+two cents in” . In America we say, “I’m from Missouri” or “Sez who?”
+The French have the’same attitude; they say, _“Je ne crois qu ce que je vois”_.
+(“I only believe what I see.”) Or _“Je ne demande pas mieux que d’être convaincu”_
+(“I don’t ask much; I just want to be convinced.”)
 
 There is a saying that in France everything is permitted that is not strictly
 forbidden — but in Germany every thing is _verboten_ that is not strictly
 permitted. We are in the French, not the German, tradition.
 
 Yes, we quarrel with the French. The members of a family argue pretty freely
-inside the home. We quarrel with our _allies_. We don't quarrel with our
+inside the home. We quarrel with our _allies_. We don’t quarrel with our
 enemies — we fight them.
 
-As for the Germans, they've _got_ to be “co-operative”. They have no choice.
-They're under military law.
+As for the Germans, they’ve _got_ to be “co-operative”. They have no choice.
+They’re under military law.
 
 Which is better: a critical ally or a fawning enemy?
 
@@ -254,7 +254,7 @@ Which is better: a critical ally or a fawning enemy?
 
 <div id="9"><em>9. “We gave the French uniforms, jeeps, trucks, supplies, ammunition — everything.”</em></div>
 
-We didn't give the French these things. We _lent_ them, under Lend-Lease, a
+We didn’t give the French these things. We _lent_ them, under Lend-Lease, a
 law passed by our Congress as “An Act to Promote the Defense of the United
 States”. We lent military equipment and supplies to our _ally_.
 
@@ -265,7 +265,7 @@ A Frenchman armed with an 03 rifle could kill Germans. It was wiser for us to
 turn out weapons and uniforms to arm the French than to turn out additional
 American soldiers.
 
-<div id="10"><em>10. “We gave the French billions of dollars worth of stuff. They'll never pay it back.”</em></div>
+<div id="10"><em>10. “We gave the French billions of dollars worth of stuff. They’ll never pay it back.”</em></div>
 
 Under Lend-Lease we provided military supplies and equipment to France worth
 $1,041,000,000.
@@ -301,7 +301,7 @@ Here are some of the things the French have provided us:
 - Printing — Stars and Stripes, Yank, Army Talks, Overseas Woman, I and E
   pamphlets.
 
-<div id="11"><em>11. “The French are using our gas, but they won't give it to Americans. You can't get gas in the French zones of occupation if you're driving through.”</em></div>
+<div id="11"><em>11. “The French are using our gas, but they won’t give it to Americans. You can’t get gas in the French zones of occupation if you’re driving through.”</em></div>
 
 You are not supposed to.
 
@@ -322,7 +322,7 @@ on duty would you give gasoline to unauthorized persons?
 The Statue of Liberty began as the idea of a group of Frenchmen, shortly after
 the Civil War. They commissioned a French sculptor, Frédéric Auguste Bartholdi,
 to do the work. A committee of Frenchmen was formed in 1874 to raise funds.
-Bartholdi recommended the site for the statue — Bedloe's Island in New York
+Bartholdi recommended the site for the statue — Bedloe’s Island in New York
 harbor.
 
 In France, 180 French cities, forty general councils, and thousands of
@@ -335,17 +335,17 @@ the American people.
 
 Why should we be? We are supposed to eat in army messes. Every meal we might
 eat in a French restaurant would use up just that much food, from the
-Frenchmen's limited supply.
+Frenchmen’s limited supply.
 
 <div id="14"><em>14. “Every time we go into a night club, we get soaked by these Frenchmen.”</em></div>
 
 Were you never soaked in a night club at home? Compare the prices in Paris
-night clubs to those in the night clubs you've visited in Miami or New York,
+night clubs to those in the night clubs you’ve visited in Miami or New York,
 Chicago or Los Angeles.
 
 A G.I. comes out of a night club in the States and says, “A buck and half for
 a Scotch and soda! That place is a clip joint!” The sane G.I. comes out of a
-night club in Paris and says “Ninety francs for a shot of cognac! That's
+night club in Paris and says “Ninety francs for a shot of cognac! That’s
 the French for you — they re all robbers!”
 
 <div id="15"><em>15. “The French are terrible scroungers. They keep mooching candy, soap, cigarettes, food from the GIs. They have no self-respect.”</em></div>
@@ -356,8 +356,8 @@ An empty stomach does not worry about losing face.
 
 <div id="16"><em>16. “The French welcomed us at first;  now they want us to get out.”</em></div>
 
-An American GI recently said, “We're like people who were given a wonderful
-reception for a week-end. But we've stayed in the house for a year. No one
+An American GI recently said, “We’re like people who were given a wonderful
+reception for a week-end. But we’ve stayed in the house for a year. No one
 wants a house guest that long.”
 
 Of course the French would prefer that American troops leave France as soon as
@@ -366,10 +366,10 @@ impose an added strain on the already overtaxed French economy. The French need
 the billets and food and supplies and services which they are now supplying to
 us. (See [question § 10](#10).)
 
-<div id="17"><em>17. “The French brag a lot about the fighting they did, but you don't hear any Americans passing out bouquets to them.”</em></div>
+<div id="17"><em>17. “The French brag a lot about the fighting they did, but you don’t hear any Americans passing out bouquets to them.”</em></div>
 
 General Patton cabled General Koenig, the French commander of the FFI, that the
-spectacular advance of his (Patton's) army across France would have been
+spectacular advance of his (Patton’s) army across France would have been
 impossible without the fighting aid of the FFI.
 
 General Patch estimated that from the time of the Mediterranean landings to the
@@ -383,7 +383,7 @@ fighting against us.
 The magnificent fight the Free French put up at Bir Hakeim, in the Libyan
 campaign, will be long remembered in the annals of heroism.
 
-Perhaps some of us don't like to pass out bouquets — to anyone but ourselves.
+Perhaps some of us don’t like to pass out bouquets — to anyone but ourselves.
 Perhaps we have short memories.
 
 <div id="18"><em>18. “The French let us down when the fighting got tough. What did they do — as fighters — to help us out?”</em></div>
@@ -408,10 +408,10 @@ according to our military experts. Those 48 hours were tactically priceless;
 they saved an untold number of American lives.
 
 French resistance groups blew up a series of bridges in southern France and
-delayed one of the Wehrmacht's crack units (Das Reich Panzer Division) for
+delayed one of the Wehrmacht’s crack units (Das Reich Panzer Division) for
 _twelve days_ in getting from Bordeaux to Normandy.
 
-About 30,000 FFI troups supported the Third Army's VIII Corps in Brittany:
+About 30,000 FFI troups supported the Third Army’s VIII Corps in Brittany:
 they seized and held key spots; they conducted extensive guerrilla operations
 behind the German lines.
 
@@ -440,23 +440,23 @@ They ride in the jeeps which are officially loaned to them by our government.
 How do you know they are wasting gas? How do you know their trips are not on
 official business? Did no Americans waste gas on pleasure trips?
 
-<div id="20"><em>20. “The French aren't friendly.”</em></div>
+<div id="20"><em>20. “The French aren’t friendly.”</em></div>
 
 Some Frenchmen are; other Frenchmen are not.
 
 The French as a whole are not as “hail fellow well met” as we Americans are.
 Neither are the British, the Swedes, the Greeks, the Mexicans.
 
-Frenchmen don't get personal or confidential quickly.
+Frenchmen don’t get personal or confidential quickly.
 
-They don't “open up” as quickly as we do in the States. The French are very
+They don’t “open up” as quickly as we do in the States. The French are very
 polite; they are also more formal than we are about personal relationships.
-(So are the Chinese.) The French respect another person's privacy, and they
+(So are the Chinese.) The French respect another person’s privacy, and they
 like to have their own privacy respected too.
 
 It is natural for anyone to think the people of another nation are not as
-friendly as his own people. It's hard to be friendly in a foreign language.
-It's hard to be friendly when you're hungry, cold, and have gone through six
+friendly as his own people. It’s hard to be friendly in a foreign language.
+It’s hard to be friendly when you’re hungry, cold, and have gone through six
 years of war — as the French have. Yet the Americans who came into Normandy,
 or who came into Paris right after the liberation, still talk about the
 astonishing outburst of gratitude, generosity and friendliness which the French
@@ -472,7 +472,7 @@ Friendship, said a wise man, lies in this: “To desire the same things and to
 reject the same things.” On this basis, the United States has never had a
 better friend than France. (See [question § 69](#69).)
 
-<div id="21"><em>21. “Why bother about the French? They won't throw any weight in the post-war world.”</em></div>
+<div id="21"><em>21. “Why bother about the French? They won’t throw any weight in the post-war world.”</em></div>
 
 Apart from reasons of honor and simple decency (Americans are not in the habit
 of letting their friends down), it is poor politics and worse diplomacy to
@@ -493,7 +493,7 @@ David Low, the English cartoonist, once drew a famous cartoon showing the
 nations in a large rowboat. The European nations were at one end of the boat,
 which was foundering in the water; Uncle Sam sat at the other end, high and dry
 and out of the water. And Uncle Sam was saying, “Why should I worry? The leak
-isn't in my end of the boat!” We have paid a terrible price for believing that
+isn’t in my end of the boat!” We have paid a terrible price for believing that
 a leak “at the other end of the boat” does not affect our destiny.
 
 ## the French
@@ -505,20 +505,20 @@ TODO intermediate ToC
 <div id="22"><em>22. “The french are too damned independent.”</em></div>
 
 The French are independent. They are proud. They are individualists. So are we.
-That's one reason there is friction between us.
+That’s one reason there is friction between us.
 
 <div id="23"><em>23. “The French are out for what they can get. They always play the winner.”</em></div>
 
-They didn't in 1939, when it looked to all the world as though the Germans were
+They didn’t in 1939, when it looked to all the world as though the Germans were
 sure winners. The French and British could have let the Germans rape Poland
 without a protest. The French and British declared war on Germany.
 
-Most of the French didn't play the winner in 1940 either, when it looked even
+Most of the French didn’t play the winner in 1940 either, when it looked even
 more that Germany was unbeatable. While some of their leaders in the Vichy
 government played ball with the Germans. The vast majority of the people
 refused to; they resisted in whatever way they could.
 
-<div id="24"><em>24. “The French are mercenary. They'll do anything for a couple of hundred francs.”</em></div>
+<div id="24"><em>24. “The French are mercenary. They’ll do anything for a couple of hundred francs.”</em></div>
 
 Where do you draw the line between a “smart business man” and a “mercenary Frenchman”?
 
@@ -553,7 +553,7 @@ Cynical talk, by the way is often considered “smart” and “sophisticated”
 But the French are not cynical about certain things, about ideas like “Liberty,
 Equality, Fraternity”. They mean it. They have always fought for it.
 
-<div id="27"><em>27. “The French are not up-to-date. They're not modern. They're living in the past.”</em></div>
+<div id="27"><em>27. “The French are not up-to-date. They’re not modern. They’re living in the past.”</em></div>
 
 Change comes slowly in France. On the whole, the French are conservative. If
 the average Frenchman has a secure living, he is satisfied. His dream is not to
@@ -572,7 +572,7 @@ in establishing old age pensions, compulsory insurance against illness,
 disability and death, maternity insurance, and so on. It was France that
 introduced the forty-hour work week.
 
-<div id="28"><em>28. “The French won't accept new ideas. They're not inventive.”</em></div>
+<div id="28"><em>28. “The French won’t accept new ideas. They’re not inventive.”</em></div>
 
 Here are some of the inventions and discoveries which have come from France:
 
@@ -615,7 +615,7 @@ Curie.
 <div id="29"><em>29. “The French are always criticizing. Nothing is right, everything has something wrong with it.”</em></div>
 
 That sounds as though the French are like us. We Americans are always griping
-about something. We're never satisfied. We criticize our allies, our
+about something. We’re never satisfied. We criticize our allies, our
 government, our army, our police, our politicians, our business leaders, our
 union leaders, our schools, our taxes, etc., etc. We are very proud of our
 right to criticize.
@@ -627,11 +627,11 @@ The French, too, have a very strong individualistic, democratic tradition.
 Beware the people who do not criticize. Beware the country where criticism is
 _verboten_. Beware the country where men obey like sheep.
 
-<div id="30"><em>30. “All the French want is a good time. That's all they think about in Paris.”</em></div>
+<div id="30"><em>30. “All the French want is a good time. That’s all they think about in Paris.”</em></div>
 
 It you judge the French by those you see on the Champs Élysées or in
 Montmartre, you are making the same mistake that was made by the tourist who
-visited the House of David and asked “Why don't Americans shave?”
+visited the House of David and asked “Why don’t Americans shave?”
 
 Paris is not France, any more than 52<sup>nd</sup> Street is America. Paris has
 for several hundred years been one of the great tourist attractions of the
@@ -643,7 +643,7 @@ in a month than we do on a week-end.
 
 The French reputation for gaiety was built on the fame of Paris as a gay city
 and on the French way of doing things. The French theater was always bright and
-varied. Paris' cabarets and music halls were famed throughout the world. But
+varied. Paris’ cabarets and music halls were famed throughout the world. But
 there are about 35 million Frenchmen who do not live in Paris.
 
 <div id="31"><em>31. “The French are insincere; it is an inborn trait with them.”</em></div>
@@ -669,7 +669,7 @@ characteristics, get the relative proportions between the two groups, then
 compare the proportions to a similar analysis of the “insincerity” of other
 nations, including the Papuans.
 
-<div id="32"><em>32. “The French just don't care about anything. They've even got a phrase for it — laissez-faire. That means why bother? Just let everything alone!”</em></div>
+<div id="32"><em>32. “The French just don’t care about anything. They’ve even got a phrase for it — laissez-faire. That means why bother? Just let everything alone!”</em></div>
 
 “Laissez-faire” is the name for a philosophy of economies. It means “let alone”
 — let the economy run by itself, by the laws of supply and demand, without
@@ -678,7 +678,7 @@ governmental interference or protection.
 The whole system we call capitalism, or free enterprise, rests on the idea of
 laissez-faire.
 
-<div id="33"><em>33. “The french have no guts; they're decadent.”</em></div>
+<div id="33"><em>33. “The french have no guts; they’re decadent.”</em></div>
 
 From the editorial columns of the New York Times at the time France fell:
 
@@ -805,14 +805,14 @@ _Historians_
 
 ### B. Customs and Manners
 
-<div id="35"><em>35. “The French do things different than we do. That's what I don't like.”</em></div>
+<div id="35"><em>35. “The French do things different than we do. That’s what I don’t like.”</em></div>
 
 It is always something of a shock when you ran into different ways of talking,
 eating, doing things. But what is different is not always inferior; “different”
 does not mean “worse”. There is more than one way of skinning a cat.
 
 The story is told of an American soldier who saw some Chinese putting rice on
-the graves in a Chungking cemetery. “That doesn't make sense”, said the
+the graves in a Chungking cemetery. “That doesn’t make sense”, said the
 American with a smile. “When do you expect the dead to eat the rice?”
 
 “When your dead return to smell your flowers”, was the answer.
@@ -824,7 +824,7 @@ No nation could exist for a week if all it did was talk.
 Frenchmen enjoy conversation. They consider it an art. They are on the whole,
 skillful at it.
 
-We don't prize “good conversation” as much as the French do.
+We don’t prize “good conversation” as much as the French do.
 
 It was the brilliance, charm and imagination of French talk that contributed
 much to the reputation of Paris as a world center of gaiety.
@@ -849,7 +849,7 @@ The average Frenchman had a lot less money than the average American.
 
 The places we frequent in Paris are comparable to the rich or “touristy”
 neighborhoods of any big American city — Fifth Avenue, Michigan Boulevard,
-Wilshire Boulevard. It is on the Champs Élysées, around l'Opéra and on the
+Wilshire Boulevard. It is on the Champs Élysées, around l’Opéra and on the
 Boulevard Haussman that you see _those_ Frenchmen who are well-dressed. It is
 there, too, that you see those who profit from the inflation and the black
 market.
@@ -861,7 +861,7 @@ is made of anything a person can lay his hands on.
 
 <div id="40"><em>40. “Why do the French parade all the the time? Take the Champs Élysées, for example; every time you turn around there is a parade.”</em></div>
 
-They don't parade all the time. They do parade more than we do. They have more
+They don’t parade all the time. They do parade more than we do. They have more
 holidays. They have had a much longer and more complicated history. Since 1789,
 France has had two empires, two monarchies, and three republics.
 
@@ -876,7 +876,7 @@ commemorate their resistance.
 
 <div id="41"><em>41. “At the Folies Bergère or the Casino de Paris, even the usher girls demand tips! What a racket!”</em></div>
 
-It isn't a racket. We don't think that tipping taxi-drivers, waitresses or red
+It isn’t a racket. We don’t think that tipping taxi-drivers, waitresses or red
 caps is a “racket”.
 
 In some theaters in France, the ushers pay for their job (like our cheek-room
@@ -887,11 +887,11 @@ do not tip has lost the money which a dozen Frenchmen would have given her.
 
 ### Cleanliness and sanitation
 
-<div id="42"><em>42. “Why isn't there decent plumbing in French houses? The toilet facilities are disgraceful!”</em></div>
+<div id="42"><em>42. “Why isn’t there decent plumbing in French houses? The toilet facilities are disgraceful!”</em></div>
 
 They are. What should the French do about it ? It takes money to have decent
-plumbing. That's why so many people in France don't have it. That's why so many
-people in our own United States don't have decent plumbing either.
+plumbing. That’s why so many people in France don’t have it. That’s why so many
+people in our own United States don’t have decent plumbing either.
 
 The Germans have much better plumbing than the French — the Germans could
 afford it.
@@ -906,7 +906,7 @@ not have private flushing toilets.
 <div id="43"><em>43. “French cities are filthy.”</em></div>
 
 They are certainly dirtier today than they were before the war. The French
-haven't had paint for a long time.
+haven’t had paint for a long time.
 
 In some cities and districts, the acute shortage of gasoline prevents refuse
 trucks from making daily rounds.
@@ -935,11 +935,11 @@ Sanitary standards rise as the standard of living rises. France is not as
 prosperous as we are. It is not cheap to install modern plumbing.
 
 
-<div id="45"><em>45. “The French don't bathe.”</em></div>
+<div id="45"><em>45. “The French don’t bathe.”</em></div>
 
-The French don't bathe often enough. They can't. They don't have real soap.
+The French don’t bathe often enough. They can’t. They don’t have real soap.
 They have had no soap worthy of the name since 1940. The Germans took the soap,
-for four years. That's a long time.
+for four years. That’s a long time.
 
 The ration for Frenchman today, four months after the war is over, is two cakes
 of poor ersatz soap per month — 20 grams every two months. Most real soap can
@@ -954,7 +954,7 @@ are carrying all the traffic too that used to be carried on buses.
 You smell garlic because the French, who are superb cooks, use more of it than
 we do.
 
-You smell sweat because the French must use a very poor ersatz soap — and don't
+You smell sweat because the French must use a very poor ersatz soap — and don’t
 get enough of that.
 
 You smell perfume because French women would rather smell of perfume than of an
@@ -963,7 +963,7 @@ perfume comes in mighty handy. In the eighteenth and nineteenth centuries, in
 the United States as in other countries, perfumes and _eau de cologne_ were
 used to give a pleasant scent where an unpleasant one might otherwise be.
 
-Incidentally, the Chinese will confess to you, if you're a friend, that the
+Incidentally, the Chinese will confess to you, if you’re a friend, that the
 scent of white people, no matter how well scrubbed they are, is unpleasant to
 the Chinese. Body odor is closely related to diet. Change the food people eat
 and you change the way they smell.
@@ -977,16 +977,16 @@ The malodorous custom of piling manure in courtyards or in front of houses is
 practiced in many villages throughout Europe, including many German villages in
 south and central Germany (for example, Geislingen, Walldorff, etc.).
 
-<div id="48"><em>48. “I'd like the French a lot better if they were cleaner.”</em></div>
+<div id="48"><em>48. “I’d like the French a lot better if they were cleaner.”</em></div>
 
-That's perfectly understandable.
+That’s perfectly understandable.
 
 ### Work and Laziness
 
 <div id="49"><em>49. “Why do they knock off work for two to three hours every day?”</em></div>
 
 They keep their stores open two to three hours later than we do. (They did when
-there were things to sell; there's no point in keeping a store open if the
+there were things to sell; there’s no point in keeping a store open if the
 shelves are bare.)
 
 The long lunch hour is a custom which is not confined to France. It is found in
@@ -1004,17 +1004,17 @@ to go _home_ for his lunch.
 
 <div id="50"><em>50. “The French spend all their time at these cafés. They just sit around drinking instead of working.”</em></div>
 
-The same people don't sit at the cafés all day. Watch them come and go. They
+The same people don’t sit at the cafés all day. Watch them come and go. They
 worked before they sat down and they go to work after they leave. Many business
 negotiations are carried on at a café; and many business deals are concluded
 there.
 
-We Americans don't approve of the café custom. We don't approve of a leisurely
+We Americans don’t approve of the café custom. We don’t approve of a leisurely
 lunch hour. All this means is that the French custom is different from ours.
 
-The café is something we just don't have in the States. It isn't a bar. It
-isn't a saloon. It's more like a club. It's the place a man can get away from a
-crowded home. It's the place he can meet his friends. It's the place a man
+The café is something we just don’t have in the States. It isn’t a bar. It
+isn’t a saloon. It’s more like a club. It’s the place a man can get away from a
+crowded home. It’s the place he can meet his friends. It’s the place a man
 takes his girl or wife and family — to have coffee (when they used to have
 coffee), beer, wine; to read the papers, play checkers, write letters. To the
 French, the café is a place to relax, not a place to get drunk.
@@ -1044,7 +1044,7 @@ It depends on where you drive and where you look.
 
 Incidentally, where did you get the gas and time to drive “all through Paris”?
 
-<div id="53"><em>53. “They're primitive. French farmers still wear wooden shoes.”</em></div>
+<div id="53"><em>53. “They’re primitive. French farmers still wear wooden shoes.”</em></div>
 
 The French farmer is more sensible than you think. The French farmer wears
 wooden shoes because they insulate his feet against mud and damp much better
@@ -1052,12 +1052,12 @@ than leather can.
 
 France does not have the very hot summer days and nights we get in the Middle
 West. The landscape of France is not deforested because for centuries the
-French have been careful to re-plant the trees they've cut down. And so the
+French have been careful to re-plant the trees they’ve cut down. And so the
 rivers of France run deep all year round, and the French soil is cool and
 moist, and wooden shoes come in mighty handy. The French farmer finds them more
 practical than leather-shoes.
 
-<div id="54"><em>54. “Why don't the French work their fields? You see farm after farm without anyone working. The French are lazy.”</em></div>
+<div id="54"><em>54. “Why don’t the French work their fields? You see farm after farm without anyone working. The French are lazy.”</em></div>
 
 There were, until very recently, 2,230,000 Frenchmen _in Germany_ as PWs, slave
 labor, deportees.
@@ -1094,11 +1094,11 @@ A great many were not permitted to go out without a chaperone. France is
 dominantly Catholic in religion and in morals.
 
 The immoral Frenchwomen are, of course, the easiest women for us to meet.
-That's why we meet so many of them.
+That’s why we meet so many of them.
 
 <div id="57"><em>57. “How do the French themselves feel about all the streetwalkers? How can they close their eyes to all the immorality?”</em></div>
 
-They don't close their eyes to it. That's the first difference between French
+They don’t close their eyes to it. That’s the first difference between French
 and American attitudes toward prostitution. The French recognize that
 prostitution exists, and regulate it. Before the war, all prostitutes were
 inspected regularly, licensed, and had their activities strictly limited to
@@ -1114,7 +1114,7 @@ started.
 
 A Frenchman who took a walk in Paris, recently, said to an American friend,
 “In forty years of living in Paris, I have never seen so many prostitutes! And
-in respectable neighborhoods! It's disgraceful.”
+in respectable neighborhoods! It’s disgraceful.”
 
 The French, by the way, are shocked by the rude way in which GIs talk to a
 woman, and by the number of unpleasant experiences decent French women have had
@@ -1122,7 +1122,7 @@ with intoxicated and amorous American soldiers.
 
 <div id="58"><em>58. “French women are too damned expensive.”</em></div>
 
-Prices are made by demand and supply. If there weren't so many men after the
+Prices are made by demand and supply. If there weren’t so many men after the
 same commodity, prices would come down.
 
 If you want to see how much it costs a French woman to live, see
@@ -1131,7 +1131,7 @@ If you want to see how much it costs a French woman to live, see
 
 <div id="59"><em>59. “The French drink too much”</em></div>
 
-The French think we do. You very rarely see a Frenchman drunk. They don't go in
+The French think we do. You very rarely see a Frenchman drunk. They don’t go in
 for whiskey. They have never liked cocktails. They are a wine-drinking people:
 they have a right to be — French grapes and wines are among the best in the
 world.
@@ -1143,9 +1143,9 @@ our per capita outlay was spent on alcoholic beverages.
 
 <div id="60"><em>60. “Every time a French girl sits down, she pulls her dress or skirt up.”</em></div>
 
-She isn't trying to call your attention to her legs. She is trying to save wear
+She isn’t trying to call your attention to her legs. She is trying to save wear
 and tear on old clothes, or on new clothes which are made of such shoddy
-material that they won't take much wear.
+material that they won’t take much wear.
 
 <div id="61"><em>61. “The French are immoral. They are morally decayed.”</em></div>
 
@@ -1157,14 +1157,14 @@ we Americans are a young and “unsophisticated” nation; we retort that they a
 old and “immoral”. Their morality _differs_ from ours on certain matters.
 Whether it is less “moral” or more “uninhibited” depends on your point of view.
 
-Don't judge France by the Montmartre; the Montmartre _caters_ to foreign
+Don’t judge France by the Montmartre; the Montmartre _caters_ to foreign
 tourists in search of the risque.
 
 France is a very devout nation. It has a religious Catholic population (only
 one million Frenchmen are Protestants). The French have a very strong family
 system, a very low divorce rate, and a much lower crime rate than we do.
 
-From the American point of view, what is more important than anyone's manners
+From the American point of view, what is more important than anyone’s manners
 or customs are the things he believes in and fights for. In this sense, we
 agree with the idea of Thomas Jefferson: “Resistance to tyrants is obedience to
 God.”
@@ -1184,7 +1184,7 @@ Kissing on both cheeks is the traditional French greeting between old friends.
 
 For their love-making, the French prefer privacy, if available — just as we do.
 
-<div id="63"><em>63. “How can they put up with the custom of having women attendants in the men's rooms?”</em></div>
+<div id="63"><em>63. “How can they put up with the custom of having women attendants in the men’s rooms?”</em></div>
 
 Because it is an old custom and it does not embarrass _them_. If you lived in
 France long enough, it would probably cease embarrassing you.
@@ -1199,7 +1199,7 @@ and trucks. It is not generally believed that American jeep and truck drivers
 are distinguished for their caution or their regard for pedestrians. French
 drivers are as terrified of our driving as we are indignant about theirs.
 
-<div id="65"><em>65. “The French drive like lunatics! They don't obey traffic rules; they don't even use common sense.”</em></div>
+<div id="65"><em>65. “The French drive like lunatics! They don’t obey traffic rules; they don’t even use common sense.”</em></div>
 
 Most Frenchmen are probably not as skillful drivers as most Americans.
 
@@ -1216,9 +1216,9 @@ the highest in the world.
 A foreigner in Paris, like a foreigner in New York, might well feel like the
 farmer who spent most of his vacation in a big city jumping out of the way of
 ears. “Darn these furriners!” he cried. “They even put spot-lights on their
-automobiles so's they can find the pedestrians to run down at night!”
+automobiles so’s they can find the pedestrians to run down at night!”
 
-<div id="66"><em>66. “The French can't drive a car. They can't keep it up. They ruin vehicles.”</em></div>
+<div id="66"><em>66. “The French can’t drive a car. They can’t keep it up. They ruin vehicles.”</em></div>
 
 The French, on the whole, certainly do not drive as well, keep a car up as
 well, or protect their vehicles as well as we do. Neither do women, compared to
@@ -1246,13 +1246,13 @@ As in all European countries, France had three classes of accommodations. Their
 third-class coaches were less comfortable than ours; but their first-class
 accommodations were in many respects better than anything we had in America.
 
-<div id="68"><em>68. “We give them lomotives and they don't even run them.”</em></div>
+<div id="68"><em>68. “We give them lomotives and they don’t even run them.”</em></div>
 
 Then who does? The locomotives which the French have _are_ running.
 
 ## the French and the Germans
 
-<div id="69"><em>69. “The French aren't our kind of people. The Germans are.”</em></div>
+<div id="69"><em>69. “The French aren’t our kind of people. The Germans are.”</em></div>
 
 What makes a nation “our kind of people”? The way they look? The clothes they
 wear? The kind of plumbing they have? Or the things they believe in — the
@@ -1268,13 +1268,13 @@ in 1917-1918 . They were our allies in 1941-1945. What were the Germans?
 
 The French proved, by their acts, that they _are_ “our kind of people”. The
 Germans proved, by their acts, that they are _not_ “our kind of people”. Look
-at the record. It's a record of facts, not assumptions, it's a record of deeds,
+at the record. It’s a record of facts, not assumptions, it’s a record of deeds,
 not pretense.
 
-You can't tell what Germany is really like, because you are not seeing Germany:
+You can’t tell what Germany is really like, because you are not seeing Germany:
 you are seeing a Germany that has been beaten, conquered, and occupied. You are
 seeing a Germany that has had the arrogance and insolence knocked out of her.
-You can't tell what “the Germans” are really like, because you are seeing
+You can’t tell what “the Germans” are really like, because you are seeing
 Germans who are being forced to obey themselves — under military government.
 
 “Forsake not an old friend, for the new is not comparable unto him”.
@@ -1284,7 +1284,7 @@ Germans who are being forced to obey themselves — under military government.
 
 Perhaps not.
 
-If the Germans had had no soap for five years they wouldn't be as clean as they
+If the Germans had had no soap for five years they wouldn’t be as clean as they
 might like to be.
 
 A learned man once said, “An untidy friend is better than an immaculate enemy.”
@@ -1340,12 +1340,12 @@ said Italy wanted peace in 1935 and invaded Ethiopia. Germany promised the
 world peace again in 1938, after the Munich agreement — and then invaded
 Czechoslovakia.
 
-It's all reminiscent of the story of the two drunks. The first kept beating his
-friend on the head with a club, wailing all the while: “You're my pal, my
+It’s all reminiscent of the story of the two drunks. The first kept beating his
+friend on the head with a club, wailing all the while: “You’re my pal, my
 buddy, my best friend, and I love you.” And the second replied tearfully,
 “I believe you but you have such a funny way of showing it.”
 
-<div id="74"><em>74. “We'd be a lot smarter to be allies of the Germans and fight the French.”</em></div>
+<div id="74"><em>74. “We’d be a lot smarter to be allies of the Germans and fight the French.”</em></div>
 
 What in the world would we fight the French _about_?
 
@@ -1354,20 +1354,20 @@ What ideas, principles or goals would we have in common with the Germans?
 “What boots it at one gate to make defence, and at another to let in the foe?”
 — John Milton —
 
-<div id="75"><em>75. “The French aren't industrious, the way the Germans are.”</em></div>
+<div id="75"><em>75. “The French aren’t industrious, the way the Germans are.”</em></div>
 
 This is true. Perhaps it would have been a lot better for all of us if the
-Germans weren't so industrious. It was German industriousness in six short
+Germans weren’t so industrious. It was German industriousness in six short
 years, 1933-1939, that built the most terrible army, air force, tank force,
 bombs and submarine warfare the world had ever seen. No one ever accused
 Al Capone of not being industrious.
 
-<div id="76"><em>76. “The French have no courage. Why can't they defend themselves against the Germans?”</em></div>
+<div id="76"><em>76. “The French have no courage. Why can’t they defend themselves against the Germans?”</em></div>
 
-Maybe it would be better to ask, “Why don't the Germans pick on someone their
+Maybe it would be better to ask, “Why don’t the Germans pick on someone their
 own size?”
 
-Modern warfare is not simply a matter of courage. A great lightweight can't
+Modern warfare is not simply a matter of courage. A great lightweight can’t
 lick a great heavyweight — even if he has courage to spare.
 
 Hitler threw the manpower and industrial resources of over 80,000,000 Germans
@@ -1376,25 +1376,25 @@ against 40,000,000 Frenchmen.
 The French did not have, and _could_ not have had, the military and industrial
 power to beat Germany. (For instance, for the past hundred years France has not
 had enough coal, especially coking coal, to supply her peacetime needs. French
-iron ore normally flows to Germany's Ruhr valley for smelting, just as the ore
+iron ore normally flows to Germany’s Ruhr valley for smelting, just as the ore
 of Minnesota goes to the coal and limestone area of Pittsburgh.)
 
 France was beaten by Germany because Germany was enormously superior to France
 in manpower, equipment, resources, armament, and strategy. German has the
 incalculable advantage of having planned an offensive, Blitzkrieg war — while
 France, which wanted peace desperately, devoted its energies and training
-entirely to _defensive_ measures. (That's why they built the Maginot Line.)
+entirely to _defensive_ measures. (That’s why they built the Maginot Line.)
 The few advocates of modern mechanized armies (such as Général de Gaulle) were
 like voices crying out in the wilderness. German propaganda and “fifth column”
 activities financed from Berlin, helped to demoralize and confuse a nation that
-didn't want war in the first place.
+didn’t want war in the first place.
 
 The French lost 1,115,000 men and women, military and civilian, in dead,
 wounded and disabled. That is an enormous loss for a nation of 40 million.
 (The United States military casualties, up to VJ Day, were about 1,060,000 in
 dead and wounded.
 
-<div id="77"><em>77. “The French don't even have enough men to stand up against the Germans.”</em></div>
+<div id="77"><em>77. “The French don’t even have enough men to stand up against the Germans.”</em></div>
 
 True. That, in fact, is one of the things the Germans counted on in 1870, in
 1914 and in 1939.
@@ -1432,7 +1432,7 @@ found that 40% of all Frenchmen called up for physical duty were physically
 unfit. In 1942, at the height of German occupation, there were 500,000 more
 deaths than births in France.
 
-<div id="78"><em>78. “The French didn't put up a real fight against the Germans. They just let the Heinies walk in.”</em></div>
+<div id="78"><em>78. “The French didn’t put up a real fight against the Germans. They just let the Heinies walk in.”</em></div>
 
 No one — least of all the French themselves — will try do deny the enormity of
 the defeat and the humiliation France suffered in 1940. French military
@@ -1445,10 +1445,10 @@ of 368,000 casualties in six weeks is not something to pass off lightly.
 
 Yes, the Germans gave the French a terrible beating. But it took the combined
 strength of the United States, Great Britain, Soviet Russia, Canada, etc., to
-beat the Germans. It's asking rather a great deal of France to match such
+beat the Germans. It’s asking rather a great deal of France to match such
 strength against hers. (See [question § 76](#76).)
 
-<div id="79"><em>79. “The French aren't cleaning up their bombed cities. Just compare them to the German cities. In Munich and Stuttgart the Germans got busy and cleaned up their streets.”</em></div>
+<div id="79"><em>79. “The French aren’t cleaning up their bombed cities. Just compare them to the German cities. In Munich and Stuttgart the Germans got busy and cleaned up their streets.”</em></div>
 
 The French lack materials, trucks, gasoline, bulldozers and manpower.
 
@@ -1515,16 +1515,16 @@ Lastly, a good many French women have been in terror of American troops,
 especially in Paris. Our MP records testify to a deplorable amount of
 drunkenness, molesting of women and street fights — by Americans.
 
-<div id="82"><em>82. “The French soldiers were supposed to hate the Germans, but but they didn't waste any time shacking up with German girls.”</em></div>
+<div id="82"><em>82. “The French soldiers were supposed to hate the Germans, but but they didn’t waste any time shacking up with German girls.”</em></div>
 
 That is as deplorable as the same conduct on the part of Americans.
 
-## Prices: “We're being gypped”
+## Prices: “We’re being gypped”
 
 <div id="83"><em>83. “Fifty francs to a dollar is blackmail! The dollar is worth at least 100-200 francs.”</em></div>
 
 The rate of 50 francs to the dollar was established in 1942 at the Casablanca
-conference. France didn't set the rate; the rate was agreed upon by the
+conference. France didn’t set the rate; the rate was agreed upon by the
 governments of France and the United States.
 
 Why was the rate set at such a disadvantage to the American dollar?
@@ -1564,12 +1564,12 @@ want to buy them. As long as there are severe shortages, prices will be high.
 
 <div id="85"><em>85. “When we buy nice presents to send home, we pay through the nose!”</em></div>
 
-It's the same nose you pay through when you buy nice presents in the States.
+It’s the same nose you pay through when you buy nice presents in the States.
 At home, most of us did not buy luxury articles. Here we do. How often, back
 home, did you buy fine French perfume for your girl? How much did you pay?
 
 The French government has taken the luxury tax off articles purchased by
-American soldiers. The French pay it; we don't. Who is paying through the nose?
+American soldiers. The French pay it; we don’t. Who is paying through the nose?
 
 <div id="86"><em>86. “The prices we are getting soaked is a scandal.”</em></div>
 
@@ -1613,7 +1613,7 @@ the American dollar by:
 5. Opening special night-clubs and entertainment facilities for American
    soldiers.
 
-<div id="88"><em>88. “Giving us 850 francs a month is just a way for the French to get off the hook for all the Lend-Lease stuff we've given them.”</em></div>
+<div id="88"><em>88. “Giving us 850 francs a month is just a way for the French to get off the hook for all the Lend-Lease stuff we’ve given them.”</em></div>
 
 The 850 francs are in no way connected with Lend-Lease. The gift is not to be
 deducted from the French government debt or commitments under Lend-Lease. It
@@ -1686,15 +1686,15 @@ Lastly, where did the French black market get American cigarettes, soap, candy,
 chocolate, razor blades, shoes? From American soldiers, who sold them — on the
 black market.
 
-<div id="91"><em>91. “Why don't the French use stronger methods to stop the black market?”</em></div>
+<div id="91"><em>91. “Why don’t the French use stronger methods to stop the black market?”</em></div>
 
 The French people ask that question every day.
 
 It is not our job to appraise the energy or the methods of the French
 government. It is not in place for Americans to tell the French how to run
 their affairs. This much, however, can be said. France is pulling herself up by
-the bootstraps. It's very easy to stand to one side and say, “Pull harder.
-It's a cinch. Just pull harder.”
+the bootstraps. It’s very easy to stand to one side and say, “Pull harder.
+It’s a cinch. Just pull harder.”
 
 France is still “punch-drunk”, uncertain, demoralized from the war and the
 effects of the war. It is hard for us to realize the appalling toil which the
@@ -1712,10 +1712,10 @@ in which France will recover, the way in which the French will meet problems as
 grave and difficult as any she has ever known, is something which the French
 people, acting democratically, will decide for themselves.
 
-If there is a moral for the world in all this, it is: don't ever let the
+If there is a moral for the world in all this, it is: don’t ever let the
 Germans or any other Fascist power beat you.
 
-If there is a lesson for Americans, it is: we don't kick a friend when he is
+If there is a lesson for Americans, it is: we don’t kick a friend when he is
 down — especially when he was knocked down by our enemy.
 
 <div id="92"><em>92. “The leaders of the French resistance were behind the black market. They all got rich on it.”</em></div>
@@ -1732,7 +1732,7 @@ Since the liberation of France, no group in France has more vigorously fought
 the black market and demanded that the government stop it than the resistance
 organizations and the resistance leaders.
 
-<div id="93"><em>93. “The French haven't done a damn thing to stop pleasure driving by Frenchmen.”</em></div>
+<div id="93"><em>93. “The French haven’t done a damn thing to stop pleasure driving by Frenchmen.”</em></div>
 
 The latest check-up on pleasure driving by the French took place one September
 25, 1945 when French MPs stopped hundreds of French military vehicles in the
@@ -1757,10 +1757,10 @@ entitled to the uniforms in which they died.
 Question: Where else could the French have gotten uniforms? From the Germans?
 France was occupied by the Germans when we were equipping the French Army.
 
-Question: Why didn't the French dye their uniforms, to distinguish them from
-ours? Because they did not have the dyes. Why didn't we dye the uniforms before
+Question: Why didn’t the French dye their uniforms, to distinguish them from
+ours? Because they did not have the dyes. Why didn’t we dye the uniforms before
 turning them over to the French? Because we were using our dyes for more
-important war production purposes. Why didn't we or the French provide more
+important war production purposes. Why didn’t we or the French provide more
 easily-recognised French insignia? That was a mistake.
 
 <div id="95"><em>95. “The French act as if they won the war single-handed.”</em></div>
@@ -1778,16 +1778,16 @@ espionage for SHAEF, no French guerrillas behind the German lines, no French
 Maquis in Central France, no FFI inside France as we fought our way through?
 How many more American lives do you think we would have lost?
 
-<div id="96"><em>96. “Why don't French soldiers ever clean their uniforms ?”</em></div>
+<div id="96"><em>96. “Why don’t French soldiers ever clean their uniforms ?”</em></div>
 
 The French soldier got only _one_ full uniform issued to him. It is impossible
 for him to draw another; it is almost impossible for him to purchase another.
 
 Cleaning takes three to four weeks in France.
 
-Why don't they use cleaning fluid? Because they don't have cleaning fluid.
+Why don’t they use cleaning fluid? Because they don’t have cleaning fluid.
 
-Why don't they wash their unifroms? They do — but with a very poor ersatz soap.
+Why don’t they wash their unifroms? They do — but with a very poor ersatz soap.
 It is the only soap they can get.
 
 The French soldier got paid 800 francs _a month_ ($16) until September, 1945,
@@ -1797,7 +1797,7 @@ soldier in France 850 francs a month as a bonus.) The French soldier gets a
 total pay of about 12 cents a day. How well could you keep up your uniform on
 12 cents a day?
 
-<div id="97"><em>97. “In Paris you see hundreds of young Frenchmen, our age, in civilian clothes. Why aren't they all in the Army ?”</em></div>
+<div id="97"><em>97. “In Paris you see hundreds of young Frenchmen, our age, in civilian clothes. Why aren’t they all in the Army ?”</em></div>
 
 Many of them are, even though they are in civilian clothes. Reason? In most
 French commands (including the Paris area), enlisted men are permitted to wear
@@ -1813,9 +1813,9 @@ years of German occupation. Because of the effects of World War I. (See
 [question § 77](#77).) Because the best French youth were killed, wounded,
 disabled, or taken as slave laborers into Germany.
 
-<div id="98"><em>98. “The French are sloppy-looking soldiers. One look at them and you know they're not good fighters.”</em></div>
+<div id="98"><em>98. “The French are sloppy-looking soldiers. One look at them and you know they’re not good fighters.”</em></div>
 
-You don't tell how an army fights by the way it looks. The Greek soldiers wore
+You don’t tell how an army fights by the way it looks. The Greek soldiers wore
 funny white skirts — but they licked the pants off the dashingly dressed
 Italians, and they put up an amazing fight against the might of the Wehrmacht,
 the Panzers, and the Luftwaffe.
@@ -1836,7 +1836,7 @@ carry themselves like guerillas.
 
 <div id="99"><em>99. “Why do French soldiers look so sloppy in their uniforms ?”</em></div>
 
-Some do, some don't. Check this yourself. Look around.
+Some do, some don’t. Check this yourself. Look around.
 
 <div id="100"><em>100. “What got my gout was all the publicity the French soldiers got! Take the Maquis and the FFI — the part they played in the war was exaggerated in the press.”</em></div>
 
@@ -1845,9 +1845,9 @@ local boys. It was an natural for the French to praise the fighting of the
 French as it was for the Botsford _Bugel_ to give front-page space to the
 return of the Pfe Elmer Glutz on the day we dropped the atomic bomb on Japan.
 
-If it's publicity in the American press which you're objecting to, then
+If it’s publicity in the American press which you’re objecting to, then
 criticize American news judgment; not French vanity. The story of the maquis
-and FFI was a “natural” news story. It's the kind of story that has hit the
+and FFI was a “natural” news story. It’s the kind of story that has hit the
 front pages ever since there were wars — and newspapers to report on them.
 
 As for the role the FFI and the Maquis played in the fight against Germany, see
@@ -1855,23 +1855,23 @@ the statements of General Patton and General Patch, under [question § 77](#77).
 
 <div id="101"><em>101. “The French soldiers stole everything they could get their hands on. They stole our gas, jeeps, trucks, rations. We had to post guards over every vehicle.”</em></div>
 
-Some French soldiers certaindly did stel. We didn't like it.
+Some French soldiers certaindly did stel. We didn’t like it.
 
-So did some Americans. The French didn't like that.
+So did some Americans. The French didn’t like that.
 
 The French had no monopoly on “moonlight requisiotning” — as any GI knows.
 
 It is worth remembering that the French armies had a very large number of men
 who had been trained in underground fighting, in guerilla warfare, in the
 methods of sabotage and the resistance. Such soldiers live off the land.
-They're taught to. They're trained to. Our own parachute troops also used
+They’re taught to. They’re trained to. Our own parachute troops also used
 “unorthodox methods”.
 
 ## French Collaboration
 
 <div id="102"><em>102. “The French were all collaborationists.”</em></div>
 
-That's the line Gœbbels used. The Germans exerted every propaganda effort to
+That’s the line Gœbbels used. The Germans exerted every propaganda effort to
 make us think there was no real resistance in France. Nazi censorship and Nazi
 firing squads tried to stop our hearing about the resistance.
 
@@ -1880,8 +1880,8 @@ For the _facts_, see questions [§ 17](#17), [§ 69](#18), [§ 104](#104).
 <div id="103"><em>103. “The French mostly collaborated with the Germans.”</em></div>
 
 The Germans would disagree with that. The Germans tried for four years to get
-more Frenchmen to collaborate. That's why they killed so many hostages.
-That's why they destroyed 344 communities for “crimes” not connected with
+more Frenchmen to collaborate. That’s why they killed so many hostages.
+That’s why they destroyed 344 communities for “crimes” not connected with
 military operations.
 
 The Germans overran France in 1940. For two years they used every promise,
@@ -1897,7 +1897,7 @@ Germans tried to organize, was a gigantic flop.
 For the facts on how the French fought the Germans from 1940 until the
 liberation, see questions [§ 17](#17), [§ 69](#18), [§ 104](#104).
 
-<div id="104"><em>104. “After France fell, the French laid down and let the Germans walk all over them. They just waited for us to liberate them. Why didn't they put up a fight?”</em></div>
+<div id="104"><em>104. “After France fell, the French laid down and let the Germans walk all over them. They just waited for us to liberate them. Why didn’t they put up a fight?”</em></div>
 
 Millions of French men, women and children put up a fight that took immense
 guts, skill and patience.
@@ -1920,7 +1920,7 @@ Vichy militia.
 They executed French collaborationists.
 
 They acted as a great spy army for SHAEF in London. They transmitted as many as
-300 reports a day to SHAEF on German troops' movements, military installations,
+300 reports a day to SHAEF on German troops’ movements, military installations,
 and the nature and movement of military supplies.
 
 They got samples of new German weapons and explosive powder to London.
@@ -1928,7 +1928,7 @@ They got samples of new German weapons and explosive powder to London.
 They ran an elaborate “underground railway” for getting shot-down American and
 British flyers back to English. THey hid, clothed, fed and smuggled out of
 France over 4,000 American airmen and parachutists. (Getting food and clothes
-isn't easy when you're on a starvation ration yourself. It's risky to forget
+isn’t easy when you’re on a starvation ration yourself. It’s risky to forget
 identification papers.) Every American airman rescue meant half a dozen French
 lives were risked. On an average, one Frenchman was shot _every two hours_ from
 1940 to 1944 by the Germans in an effort to stop French sabotage and assistance
@@ -1945,23 +1945,23 @@ industrial labor.”
 
 ## “they got off pretty easy in this war”
 
-<div id="105"><em>105. “You woulnd't think they'd even been in the war the way a city like Paris looks.”</em></div>
+<div id="105"><em>105. “You woulnd’t think they’d even been in the war the way a city like Paris looks.”</em></div>
 
-No, you wouldn't. You can't tell what the war cost France by a stroll down the
-Champs Élysées, just as you couldn't tell what the war cost America by a walk
+No, you wouldn’t. You can’t tell what the war cost France by a stroll down the
+Champs Élysées, just as you couldn’t tell what the war cost America by a walk
 down the Atlantic City boardwalk.
 
-You can't, in Paris, see the 1,115,000 French men and women and children who
+You can’t, in Paris, see the 1,115,000 French men and women and children who
 died, were wounded, were in concentration camps, or were shot as hostages.
-You can't see the food and supplies that were taken from France. You can't see
+You can’t see the food and supplies that were taken from France. You can’t see
 the 12,551,639,000 man-hours of labor that the Germans took for themselves.
-You can't see the meagre rations that the French were fed. You can't see the
+You can’t see the meagre rations that the French were fed. You can’t see the
 malnutrition that the Germans caused. (70% of the men and 55% of the women in
 France lost an average of 12% of their weight.)
 
-You can't see the increase (300-400 %) in tuberculosis diphteria, typhoid
-fever, infantile paralysis. You can't see the number of babies who were born
-dead because of the food and milk shortages. You don't see rickets on the
+You can’t see the increase (300-400 %) in tuberculosis diphteria, typhoid
+fever, infantile paralysis. You can’t see the number of babies who were born
+dead because of the food and milk shortages. You don’t see rickets on the
 Champs Élysées. If you want more facts, read the answer to the next question.
 
 <div id="106"><em>106. “The French got off pretty easy in the war.”</em></div>
@@ -2081,9 +2081,9 @@ France is about one fourteenth the size of the United States.
 You can put nearly all of France into Utah and Nevada.
 
 
-<div id="107"><em>107. “Why don't they get to work and rebuild their country ?”</em></div>
+<div id="107"><em>107. “Why don’t they get to work and rebuild their country ?”</em></div>
 
-The French Minister of Finance recently reported that France's industries are
+The French Minister of Finance recently reported that France’s industries are
 beginning to operate at 80 % of capacity. The rebuilding of France is a
 tremendous job which will take a long time. Shortages of coal, gasoline,
 electricity, power, transport, and manpower have made a more rapid recovery
@@ -2115,7 +2115,7 @@ This is a staggering blow to the manpower needed for rebuilding.
 
 <div id="108"><em>108. “All French politicians are corrupt.”</em></div>
 
-That's as silly as saying that all American politicians get graft. Some French
+That’s as silly as saying that all American politicians get graft. Some French
 politicians are corrupt. So are some American politicians.
 
 Incidentally, the German propaganda line for French politics was, “All French
@@ -2124,9 +2124,9 @@ confidence in their leaders, in their government, and — most of all — in
 democracy itself. The Germans ran a gigantic smear campaign before the war,
 during the war, and during the occupation. The only French politicians of
 importance whom the Germans did _not_ smear were — Pétain and Laval.
-They, said the Nazis, were not corrupt. Odd, isn't it?
+They, said the Nazis, were not corrupt. Odd, isn’t it?
 
-<div id="109"><em>109. “The French don't have a decent political system. They've got too many parties. They never get together.”</em></div>
+<div id="109"><em>109. “The French don’t have a decent political system. They’ve got too many parties. They never get together.”</em></div>
 
 The French political system is a democracy. It is like ours in its basic
 principles: freedom of speech, freedom of religion, freedom of the press,
@@ -2137,7 +2137,7 @@ The system differs from ours as far as parties are concerned: we have a
 “two-party” form of administration; the French have many parties.
 
 The French have a political party for almost every conceivable political
-position. They odn't believe that “there are two ways of looking at things”,
+position. They odn’t believe that “there are two ways of looking at things”,
 the French think there are dozens of ways, and that if enough people hold to
 any one way they have a right to be represented in the government.
 
@@ -2165,7 +2165,7 @@ solve it — democratically.
 
 <div id="110"><em>110. “The French are too radical in politics.”</em></div>
 
-Don't be fooled by the names of the French parties. The Radical Socialist party
+Don’t be fooled by the names of the French parties. The Radical Socialist party
 for example, is neighter radical nor socialist. It is the party of small
 farmers and the lower middle-class: it is a middle-of-the-road party.
 (Its name is a carry-over from the past.)
