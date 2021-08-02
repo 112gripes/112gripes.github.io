@@ -40,10 +40,6 @@ The build script(s) are licensed under MIT license.
 - [ ] 🏃 Setup CI: build html+epub & publish to .github.io domain . A markdown linter, maybe?
 - [ ] Deploy to this repo when main structure is ready
 - [ ] Pimping around
-    - [ ] Fix dumb ascii `"` quotation marks into proper nice typographic marks (careful about nested quotes)
-    - [ ] Agree on consistent way of recreating punctuation from original. Do we use em-dashes? Space before question mark? Two spaces after periods?
     - [ ] Add `<abbr>` on abbreviations (first time? all times?)
-    - [ ] Flag / deal with `TODO`s and `FIXME`s left in Markdown
-        - [ ] 🏃 @nmielec Tables #106
-    - [ ] How to deal with errors in original - "democraties" in question 112 (add "sic" ?), "the war" repeated twice in question 105
-    - [ ] How to deal with French names in original that don't use any accents ("Champs Elysees" in original rather than "Champs-Élysées")
+    - [ ] 🏃 @nmielec Tables #106
+- [ ] Fix remainint `TODO` & `FIXME` cases

@@ -1780,33 +1780,59 @@ How many more American lives do you think we would have lost?
 
 <div id="96"><em>96. “Why don't French soldiers ever clean their uniforms ?”</em></div>
 
-The French soldier got only <em>one</em> full uniform issued to him. It is impossible for him to draw another; it is almost impossible for him to purchase another.
+The French soldier got only _one_ full uniform issued to him. It is impossible
+for him to draw another; it is almost impossible for him to purchase another.
 
 Cleaning takes three to four weeks in France.
 
 Why don't they use cleaning fluid? Because they don't have cleaning fluid.
 
-Why don't they wash their unifroms? They do — but with a very poor ersatz soap. It is the only soap they can get.
+Why don't they wash their unifroms? They do — but with a very poor ersatz soap.
+It is the only soap they can get.
 
-The French soldier got paid 800 francs <p>a month</p> ($16) until September, 1945, when this sum was cut to 180 francs a month ($3.60). (This cut in pay came at about the time the French government announced it would give every American soldier in France 850 francs a month as a bonus.) The French soldier gets a total pay of about 12 cents a day. How well could you keep up your uniform on 12 cents a day ?
+The French soldier got paid 800 francs _a month_ ($16) until September, 1945,
+when this sum was cut to 180 francs a month ($3.60). (This cut in pay came at
+about the time the French government announced it would give every American
+soldier in France 850 francs a month as a bonus.) The French soldier gets a
+total pay of about 12 cents a day. How well could you keep up your uniform on
+12 cents a day?
 
 <div id="97"><em>97. “In Paris you see hundreds of young Frenchmen, our age, in civilian clothes. Why aren't they all in the Army ?”</em></div>
 
-Many of them are, even though they are in civilian clothes. Reason? In most French commands (FIXME the Paris area), enlisted men are permitted to wear civilian clothes when they are on pass or off duty. French officers in all commands are permitted to wear civilian clothes when off duty.
+Many of them are, even though they are in civilian clothes. Reason? In most
+French commands (including the Paris area), enlisted men are permitted to wear
+civilian clothes when they are on pass or off duty. French officers in all
+commands are permitted to wear civilian clothes when off duty.
 
-It is also worth remembering that in the 1945 draft, the French had to reject 40% of the men called up as physically unfit for military duty (and the standards used were lower than those used in our army.) Why were so many young Frenchmen unfit physically? Because they were underfed by the Germans during the occupation. Because tuberculosis and other diseases spread, during the four years of German occupation. Because of the effects of World War I. (See [question § 77](#77).) Because the best French youth were killed, wounded, disabled, or taken as slave laborers into Germany.
+It is also worth remembering that in the 1945 draft, the French had to reject
+40% of the men called up as physically unfit for military duty (and the
+standards used were lower than those used in our army.) Why were so many young
+Frenchmen unfit physically? Because they were underfed by the Germans during
+the occupation. Because tuberculosis and other diseases spread, during the four
+years of German occupation. Because of the effects of World War I. (See
+[question § 77](#77).) Because the best French youth were killed, wounded,
+disabled, or taken as slave laborers into Germany.
 
 <div id="98"><em>98. “The French are sloppy-looking soldiers. One look at them and you know they're not good fighters.”</em></div>
 
-You don't tell how an army fights by the way it looks. The Greek soldiers wore funny white skirts — but they licked the pants off the dashingly dressed Italians, and they put up an amazing fight against the might of the Wehrmacht, the Panzers, and the Luftwaffe.
+You don't tell how an army fights by the way it looks. The Greek soldiers wore
+funny white skirts — but they licked the pants off the dashingly dressed
+Italians, and they put up an amazing fight against the might of the Wehrmacht,
+the Panzers, and the Luftwaffe.
 
-German officers called American GIs “sloppy,” “careless,” “undisciplined” soldiers — but it was the Germans who got the shellacking.
+German officers called American GIs “sloppy,” “careless,” “undisciplined”
+soldiers — but it was the Germans who got the shellacking.
 
-The army of George Washington often looked like a ragged mob. Their fighting record is another story.
+The army of George Washington often looked like a ragged mob. Their fighting
+record is another story.
 
-The French under General Le Clerc fought their war from the heart of Africa to Lake Chad and up to North Africa in an astonishing campaign. No one sneered at their uniforms then.
+The French under General Le Clerc fought their war from the heart of Africa to
+Lake Chad and up to North Africa in an astonishing campaign. No one sneered at
+their uniforms then.
 
-It might be helpful to remember that many French soldiers had been guerrilla fighters (in the FFI, the Maquis, the resistance). THey still dress, act and carry themselves like guerillas.
+It might be helpful to remember that many French soldiers had been guerrilla
+fighters (in the FFI, the Maquis, the resistance). They still dress, act and
+carry themselves like guerillas.
 
 <div id="99"><em>99. “Why do French soldiers look so sloppy in their uniforms ?”</em></div>
 
@@ -1814,11 +1840,18 @@ Some do, some don't. Check this yourself. Look around.
 
 <div id="100"><em>100. “What got my gout was all the publicity the French soldiers got! Take the Maquis and the FFI — the part they played in the war was exaggerated in the press.”</em></div>
 
-Local papers always play up local news. Local papers are proud of the deeds of local boys. It was an natural for the French to praise the fighting of the French as it was for the Botsford <em>Bugel</em> to give front-page space to the return of the Pfe Elmer Glutz on the day we dropped the atomic bomb on Japan.
+Local papers always play up local news. Local papers are proud of the deeds of
+local boys. It was an natural for the French to praise the fighting of the
+French as it was for the Botsford _Bugel_ to give front-page space to the
+return of the Pfe Elmer Glutz on the day we dropped the atomic bomb on Japan.
 
-If it's publicity in the American press which you're objecting to, then criticize American news judgment; not French vanity. The story of the maquis and FFI was a “natural” news story. It's the kind of story that has hit the front pages ever since there were wars — and newspapers to report on them.
+If it's publicity in the American press which you're objecting to, then
+criticize American news judgment; not French vanity. The story of the maquis
+and FFI was a “natural” news story. It's the kind of story that has hit the
+front pages ever since there were wars — and newspapers to report on them.
 
-As for the role the FFI and the Maquis played in the fight against Germany, see the statements of General Patton and General Patch, under [question § 77](#77).
+As for the role the FFI and the Maquis played in the fight against Germany, see
+the statements of General Patton and General Patch, under [question § 77](#77).
 
 <div id="101"><em>101. “The French soldiers stole everything they could get their hands on. They stole our gas, jeeps, trucks, rations. We had to post guards over every vehicle.”</em></div>
 
@@ -1828,65 +1861,112 @@ So did some Americans. The French didn't like that.
 
 The French had no monopoly on “moonlight requisiotning” — as any GI knows.
 
-It is worth remembering that the French armies had a very large number of men who had been trained in underground fighting, in guerilla warfare, in the methods of sabotage and the resistance. Such soldiers live off the land. They're taught to. They're trained to. Our own parachute troops also used “unorthodox methods”.
+It is worth remembering that the French armies had a very large number of men
+who had been trained in underground fighting, in guerilla warfare, in the
+methods of sabotage and the resistance. Such soldiers live off the land.
+They're taught to. They're trained to. Our own parachute troops also used
+“unorthodox methods”.
 
 ## French Collaboration
 
 <div id="102"><em>102. “The French were all collaborationists.”</em></div>
 
-That's the line Gœbbels used. The Germans exerted every propaganda effort to make us think there was no real resistance in France. Nazi censorship and Nazi firing squads tried to stop our hearing about the resistance.
+That's the line Gœbbels used. The Germans exerted every propaganda effort to
+make us think there was no real resistance in France. Nazi censorship and Nazi
+firing squads tried to stop our hearing about the resistance.
 
-For the <em>facts</em>, see questions [§ 17](#17), [§ 69](#18), [§ 104](#104).
+For the _facts_, see questions [§ 17](#17), [§ 69](#18), [§ 104](#104).
 
 <div id="103"><em>103. “The French mostly collaborated with the Germans.”</em></div>
 
-The Germans would disagree with that. The Germans tried for four years to get more Frenchmen to collaborate. That's why they killed so many hostages. That's why they destroyed 344 communities for “crimes” not connected with military operations.
+The Germans would disagree with that. The Germans tried for four years to get
+more Frenchmen to collaborate. That's why they killed so many hostages.
+That's why they destroyed 344 communities for “crimes” not connected with
+military operations.
 
-The Germans overran France in 1940. For two years they used every promise, trick and pressure to induce the French people to work in Germany for the German war machine. They offered workers better food, clothes, privileges and protection denied them in France under occupation rules. And in all of France, during that entire period, about 75,000 French workers enlisted. The Germans admitted the campaign was a failure.
+The Germans overran France in 1940. For two years they used every promise,
+trick and pressure to induce the French people to work in Germany for the
+German war machine. They offered workers better food, clothes, privileges and
+protection denied them in France under occupation rules. And in all of France,
+during that entire period, about 75,000 French workers enlisted. The Germans
+admitted the campaign was a failure.
 
-The LVF (Légion Volontaire Française), the French volunteer army that the Germans tried to organize, was a gigantic flop.
+The LVF (Légion Volontaire Française), the French volunteer army that the
+Germans tried to organize, was a gigantic flop.
 
-For the facts on how the French fought the Germans from 1940 until the liberation, see questions [§ 17](#17), [§ 69](#18), [§ 104](#104).
+For the facts on how the French fought the Germans from 1940 until the
+liberation, see questions [§ 17](#17), [§ 69](#18), [§ 104](#104).
 
 <div id="104"><em>104. “After France fell, the French laid down and let the Germans walk all over them. They just waited for us to liberate them. Why didn't they put up a fight?”</em></div>
 
-Millions of French men, women and children put up a fight that took immense guts, skill and patience.
+Millions of French men, women and children put up a fight that took immense
+guts, skill and patience.
 
-The Fighting French never stopped fighting — in the RAF, North Africa, Italy, and up through France with the US 7 th Army.
+The Fighting French never stopped fighting — in the RAF, North Africa, Italy,
+and up through France with the US 7 th Army.
 
-Here is how the French people inside France fought the Germans after the fall of France:
+Here is how the French people inside France fought the Germans after the fall
+of France:
 
-They sabotaged production in war plants. They destroyed parts, damaged machinery, slowed down production, changed blue-prints.
+They sabotaged production in war plants. They destroyed parts, damaged
+machinery, slowed down production, changed blue-prints.
 
-They dynamited power plants, warehouses, transmission lines. They wrecked trains. They destroyed bridges. They damaged locomotives.
+They dynamited power plants, warehouses, transmission lines. They wrecked
+trains. They destroyed bridges. They damaged locomotives.
 
-They organized armed groups which fought the German police, the Gestpo, the Vichy militia.
+They organized armed groups which fought the German police, the Gestpo, the
+Vichy militia.
 
 They executed French collaborationists.
 
-They acted as a great spy army for SHAEF in London. They transmitted as many as 300 reports a day to SHAEF on German troops' movements, military installations, and the nature and movement of military supplies.
+They acted as a great spy army for SHAEF in London. They transmitted as many as
+300 reports a day to SHAEF on German troops' movements, military installations,
+and the nature and movement of military supplies.
 
 They got samples of new German weapons and explosive powder to London.
 
-They ran an elaborate “underground railway” for getting shot-down American and British flyers back to English. THey hid, clothed, fed and smuggled out of France over 4,000 American airmen and parachutists. (Getting food and clothes isn't easy when you're on a starvation ration yourself. It's risky to forget identification papers.) Every American airman rescue meant half a dozen French lives were risked. On an average, one Frenchman was shot <em>every two hours</em> from 1940 to 1944 by the Germans in an effort to stop French sabotage and assistance to the Allies.
+They ran an elaborate “underground railway” for getting shot-down American and
+British flyers back to English. THey hid, clothed, fed and smuggled out of
+France over 4,000 American airmen and parachutists. (Getting food and clothes
+isn't easy when you're on a starvation ration yourself. It's risky to forget
+identification papers.) Every American airman rescue meant half a dozen French
+lives were risked. On an average, one Frenchman was shot _every two hours_ from
+1940 to 1944 by the Germans in an effort to stop French sabotage and assistance
+to the Allies.
 
-The Germans destroyed 344 communities (62 completely) for “crimes” not connected with military operations. Perhaps the Germans realized better than we do the relentless fight against them which the French people waged.
+The Germans destroyed 344 communities (62 completely) for “crimes” not
+connected with military operations. Perhaps the Germans realized better than we
+do the relentless fight against them which the French people waged.
 
-An official German report, quoted in the <em>Christian Science Monitor</em> on December 26, 1942, stated sadly: “For systematic inefficiency and criminal carelessness they (the French) are unsurpassed in the history of modern industrial labor.”
+An official German report, quoted in the _Christian Science Monitor_ on
+December 26, 1942, stated sadly: “For systematic inefficiency and criminal
+carelessness they (the French) are unsurpassed in the history of modern
+industrial labor.”
 
 ## “they got off pretty easy in this war”
 
 <div id="105"><em>105. “You woulnd't think they'd even been in the war the way a city like Paris looks.”</em></div>
 
-No, you wouldn't. You can't tell what the war cost France by a stroll down the Champs Élysées, just as you couldn't tell what the war cost America by a walk down the Atlantic City boardwalk.
+No, you wouldn't. You can't tell what the war cost France by a stroll down the
+Champs Élysées, just as you couldn't tell what the war cost America by a walk
+down the Atlantic City boardwalk.
 
-You can't, in Paris, see the 1,115,000 French men and women and children who died, were wounded, were in concentration camps, or were shot as hostages. You can't see the food and supplies that were taken from France. You can't see the 12,551,639,000 man-hours of labor that the Germans took for themselves. You can't see the meagre rations that the French were fed. You can't see the malnutrition that the Germans caused. (70% of the men and 55% of the women in France lost an average of 12% of their weight.)
+You can't, in Paris, see the 1,115,000 French men and women and children who
+died, were wounded, were in concentration camps, or were shot as hostages.
+You can't see the food and supplies that were taken from France. You can't see
+the 12,551,639,000 man-hours of labor that the Germans took for themselves.
+You can't see the meagre rations that the French were fed. You can't see the
+malnutrition that the Germans caused. (70% of the men and 55% of the women in
+France lost an average of 12% of their weight.)
 
-You can't see the increase (300-400 %) in tuberculosis diphteria, typhoid fever, infantile paralysis. You can't see the number of babies who were born dead because of the food and milk shortages. You don't see rickets on the Champs Élysées. If you want more facts, read the answer to the next question.
+You can't see the increase (300-400 %) in tuberculosis diphteria, typhoid
+fever, infantile paralysis. You can't see the number of babies who were born
+dead because of the food and milk shortages. You don't see rickets on the
+Champs Élysées. If you want more facts, read the answer to the next question.
 
 <div id="106"><em>106. “The French got off pretty easy in the war.”</em></div>
 
-What do you call “pretty easy ?” Here is what the war cost France !
+What do you call “pretty easy ?” Here is what the war cost France!
 
 In people
 
@@ -1942,17 +2022,20 @@ In Materials
 
 5,000 bridges were blown-up.
 
-Three-fifths of all French railroad stock was either destroyed or taken to Germany by Germans as they retreated in 1945.
+Three-fifths of all French railroad stock was either destroyed or taken to
+Germany by Germans as they retreated in 1945.
 
 Half of all the livestock in France was lost or stolen.
 
 Three-fourths of all the agricultural equipment was lost.
 
-12,500,000,000 man-hours of labor, which millions of Frenchmen were forced to perform for the Germans were lost to France.
+12,500,000,000 man-hours of labor, which millions of Frenchmen were forced to
+perform for the Germans were lost to France.
 
-The national debt <em>increased</em> 32 billion dollars.
+The national debt _increased_ 32 billion dollars.
 
-These figures represent a loss to France of half of her national wealth - or the total earnings of all Frenchmen, for two years.
+These figures represent a loss to France of half of her national wealth — or
+the total earnings of all Frenchmen, for two years.
 
 
 In labor
@@ -1989,7 +2072,7 @@ In money
   <tr><td>Special charges imposed on France <em>in addition</em> to the direct costs of German occupation</td><td>102,000,000,000</td></tr>
 </table>
 
-Estimated total money cost to France of the war : 98 billion dollars.
+Estimated total money cost to France of the war: 98 billion dollars.
 
 Estimated total cost to U.S. - 300 billion dollars.
 
@@ -2000,53 +2083,104 @@ You can put nearly all of France into Utah and Nevada.
 
 <div id="107"><em>107. “Why don't they get to work and rebuild their country ?”</em></div>
 
-The French Minister of Finance recently reported that France's industries are beginning to operate at 80 % of capacity. The rebuilding of France is a tremendous job which will take a long time. Shortages of coal, gasoline, electricity, power, transport, and manpower have made a more rapid recovery impossible.
+The French Minister of Finance recently reported that France's industries are
+beginning to operate at 80 % of capacity. The rebuilding of France is a
+tremendous job which will take a long time. Shortages of coal, gasoline,
+electricity, power, transport, and manpower have made a more rapid recovery
+impossible.
 
 In 1944, after liberation, France found that of its pre-war transportation the following were left:
-35% of the locomotives,
-37% of the freight cars,
-33% of the trucks and automobiles,
-38% of the merchant marine.
 
-The most important single factor which is holding up French production is the shortage of coal. On Februrar 3, 1945 our Office of War Information analyzed economic conditions in France and pointed out how the coal crisis has plunged France into a vicious circle. Mines could not operate without timber pit props to shore up the ceilings of tunnels in coal veins as they were expanded. But the transportation needed to bring in the timber also needed coal with which to operate.
+- 35% of the locomotives,
+- 37% of the freight cars,
+- 33% of the trucks and automobiles,
+- 38% of the merchant marine.
 
-Coal shortages have caused as many shut-downs of French factories as have the grave shortages of other essential raw materials.
+The most important single factor which is holding up French production is the
+shortage of coal. On Februrar 3, 1945 our Office of War Information analyzed
+economic conditions in France and pointed out how the coal crisis has plunged
+France into a vicious circle. Mines could not operate without timber pit props
+to shore up the ceilings of tunnels in coal veins as they were expanded.
+But the transportation needed to bring in the timber also needed coal with
+which to operate.
 
-And never forget the loss to France of 1.115.000 people (killed, wounded or disabled) out of a population estimated at around forty million in 1940. This is a staggering blow to the manpower needed for rebuilding.
+Coal shortages have caused as many shut-downs of French factories as have the
+grave shortages of other essential raw materials.
+
+And never forget the loss to France of 1.115.000 people (killed, wounded or
+disabled) out of a population estimated at around forty million in 1940.
+This is a staggering blow to the manpower needed for rebuilding.
 
 ## French Politics
 
 <div id="108"><em>108. “All French politicians are corrupt.”</em></div>
 
-That's as silly as saying that all American politicians get graft. Some French politicians are corrupt. So are some American politicians.
+That's as silly as saying that all American politicians get graft. Some French
+politicians are corrupt. So are some American politicians.
 
-Incidentally, the German propaganda line for French politics was, “All French politicians are corrupt.” The Germans wanted the French people to lose confidence in their leaders, in their government, and — most of all — in democracy itself. The Germans ran a gigantic smear campaign before the war, during the war, and during the occupation. The only French politicians of importance whom the Germans did <em>not</em> smear were — Petain and Laval. They, said the Nazis, were not corrupt. Odd, isn't it?
+Incidentally, the German propaganda line for French politics was, “All French
+politicians are corrupt.” The Germans wanted the French people to lose
+confidence in their leaders, in their government, and — most of all — in
+democracy itself. The Germans ran a gigantic smear campaign before the war,
+during the war, and during the occupation. The only French politicians of
+importance whom the Germans did _not_ smear were — Pétain and Laval.
+They, said the Nazis, were not corrupt. Odd, isn't it?
 
 <div id="109"><em>109. “The French don't have a decent political system. They've got too many parties. They never get together.”</em></div>
 
-The French political system is a democracy. It is like ours in its basic principles: freedom of speech, freedom of religion, freedom of the press, freedom of the vote, minority rights, protection under the law, trial by jury, etc.
+The French political system is a democracy. It is like ours in its basic
+principles: freedom of speech, freedom of religion, freedom of the press,
+freedom of the vote, minority rights, protection under the law, trial by jury,
+etc.
 
-The system differs from ours as far as parties are concerned: we have a “two-party” form of administration; the French have many parties.
+The system differs from ours as far as parties are concerned: we have a
+“two-party” form of administration; the French have many parties.
 
-The French have a political party for almost every conceivable political position. They odn't believe that “there are two ways of looking at things”, the French think there are dozens of ways, and that if enough people hold to any one way they have a right to be represented in the government.
+The French have a political party for almost every conceivable political
+position. They odn't believe that “there are two ways of looking at things”,
+the French think there are dozens of ways, and that if enough people hold to
+any one way they have a right to be represented in the government.
 
-French electrocal practice has not encouraged party organisation such as ours. The eltions to the Chamber of Deputies are more like our municipal (city) elections than our national elections. In our city elections, people frequently vote for their friends and neighbors, — for men rather than parties. This is true in France, too.
+French electrocal practice has not encouraged party organisation such as ours.
+The elections to the Chamber of Deputies are more like our municipal (city)
+elections than our national elections. In our city elections, people frequently
+vote for their friends and neighbors, — for men rather than parties. This is
+true in France, too.
 
-The French multiple-party system has this advantage: it gives every group of any size a voice in government, a chance to get its program considered, a chance to get certain laws passed.
+The French multiple-party system has this advantage: it gives every group of
+any size a voice in government, a chance to get its program considered,
+a chance to get certain laws passed.
 
-The multiple-party system has this grave dis advantage: in France, no one party controls a majority of the votes in the Chamber of Deputies: Cabinets are always combination or coalition cabinets. THe Premier has to rely on persuasion. It is easy for such cabinets to be overthrown. It is relatively hard for such cabinets to work together, on a common program for many years; with each new problem or each new crisis, the cabinet can easily be broken up.
+The multiple-party system has this grave disadvantage: in France, no one party
+controls a majority of the votes in the Chamber of Deputies: Cabinets are
+always combination or coalition cabinets. THe Premier has to rely on persuasion.
+It is easy for such cabinets to be overthrown. It is relatively hard for such
+cabinets to work together, on a common program for many years; with each new
+problem or each new crisis, the cabinet can easily be broken up.
 
-The French today are very much aware of the dangers and disadvantages of a multiple-party system. How they will solve it, how they will translate wide representation into simpler administration is their problem. They are trying to solve it — democratically.
+The French today are very much aware of the dangers and disadvantages of a
+multiple-party system. How they will solve it, how they will translate wide
+representation into simpler administration is their problem. They are trying to
+solve it — democratically.
 
 <div id="110"><em>110. “The French are too radical in politics.”</em></div>
 
-Don't be fooled by the names of the French parties. The Radical Socialist party for example, is neighter radical nor socialist. It is the party of small farmers and the lower middle-class: it is a middle-of-the-road party. (Its name is a carry-over from the past.)
+Don't be fooled by the names of the French parties. The Radical Socialist party
+for example, is neighter radical nor socialist. It is the party of small
+farmers and the lower middle-class: it is a middle-of-the-road party.
+(Its name is a carry-over from the past.)
 
-For the past twenty years, the great majority of Frenchmen have voted for men and parties that were neither extreme Left nor extreme Right.
+For the past twenty years, the great majority of Frenchmen have voted for men
+and parties that were neither extreme Left nor extreme Right.
 
-In the last pre-war elections of 1936, the parties of the Popular Front (Radical Socialist, Socialist, and Communist), which stood for a sort of New Deal program, got 382 seats in the Chamber of Deputies out of a total of 608. The partis of the Right, which opposed the Popular Front, got 222 seats.
+In the last pre-war elections of 1936, the parties of the Popular Front
+(Radical Socialist, Socialist, and Communist), which stood for a sort of
+New Deal program, got 382 seats in the Chamber of Deputies out of a total of
+608. The parties of the Right, which opposed the Popular Front, got 222 seats.
 
-Since the liberation, the French have held municipal elections in May 1945 and cantonal elections in September 1945. The voting strength of the main parti in those elections was approximately as follows:
+Since the liberation, the French have held municipal elections in May 1945 and
+cantonal elections in September 1945. The voting strength of the main party in
+those elections was approximately as follows:
 
 
 Name of Party                 % vote case May 1945    % vote case Sept. 1945
@@ -2059,10 +2193,12 @@ Popular Republican Movement             5                     9
 
 <div id="111"><em>111. “The French are Communist.”</em></div>
 
-The Community Party got 10 seats in the Chamber of Deputies in the 1932 elections, and 72 out of 608 seats in the 1936 elections. For their vote in 1945, see [question § 110](#110).
+The Community Party got 10 seats in the Chamber of Deputies in the 1932
+elections, and 72 out of 608 seats in the 1936 elections. For their vote in
+1945, see [question § 110](#110).
 
 <div id="112"><em>112. “France is a decadent nation.”</em></div>
 
-How does one measure decadence ?
+How does one measure decadence?
 
-The Germans said, “Democraties are decadent.”
+The Germans said, “Democracies are decadent.”
