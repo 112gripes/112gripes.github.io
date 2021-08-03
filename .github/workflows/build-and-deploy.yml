@@ -12,12 +12,12 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: sudo apt-get install pandoc
+      - run: make
       - name: Deploy to pages
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
           branch: gh-pages # The branch the action should deploy to.
           folder: build # The folder the action should deploy.
-      - run: make
       - name: Archive built files
         uses: actions/upload-artifact@v2
         with:
