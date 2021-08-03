@@ -1,0 +1,12 @@
+table.casualties {
+    text-align: left;
+}
+
+table.casualties td:last-child {
+    text-align: right;
+}
+
+table.casualties th:last-child {
+    text-align: right;
+}
+
