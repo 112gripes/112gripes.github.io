@@ -19,7 +19,7 @@ $(BUILD)/epub/$(BOOKNAME).epub: $(CHAPTERS)
 	mkdir -p $(BUILD)/epub
 	pandoc -t epub+smart --epub-metadata=$(METADATA) --toc -o $@ $^
 
-$(BUILD)/html/$(BOOKNAME).html: $(CHAPTERS)
+$(BUILD)/html/index.html: $(CHAPTERS)
 	mkdir -p $(BUILD)/html
 	pandoc --standalone --to=html5+smart --toc -c html-build.css  -o $@ $^
 	cp html-build.css $(BUILD)/html/html-build.css
