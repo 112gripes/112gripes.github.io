@@ -17,7 +17,7 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
           branch: gh-pages # The branch the action should deploy to.
-          folder: build # The folder the action should deploy.
+          folder: build/html # The folder the action should deploy.
       - name: Archive built files
         uses: actions/upload-artifact@v2
         with:
