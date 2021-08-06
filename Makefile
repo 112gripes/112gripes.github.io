@@ -13,7 +13,7 @@ clean:
 
 epub: $(BUILD)/epub/$(BOOKNAME).epub
 
-html: $(BUILD)/html/$(BOOKNAME).html
+html: $(BUILD)/html/index.html
 
 $(BUILD)/epub/$(BOOKNAME).epub: $(CHAPTERS)
 	mkdir -p $(BUILD)/epub
